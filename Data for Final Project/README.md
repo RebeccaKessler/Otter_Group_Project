@@ -1,1 +1,1 @@
-This folder contains the datasets needed to run our final project. Please download them and upload them to the final article and appendix in google collab.
+This folder contains the datasets for our final prject. The datasets are already linked to the final article and appendix.
