@@ -6,9 +6,9 @@ This repository contains all the data and notebooks for the final project of the
 In the repository you can find the following documents:
 - final article
 - final appendix
-- folder with all the raw materials
-- folder with our cleaning
-- folder with our univariate analysis
+- folder with all the raw data
+- folder with the notebooks where we did the cleaning of our raw data
+- folder with our notbooks containing the univariate analysis for the midterm
 
 In order to run our final project, follow these steps:
 1. open the final article
