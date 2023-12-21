@@ -1,0 +1,6589 @@
+Area,Value,Year
+Afghanistan,0.458,1961
+Afghanistan,1.277,1962
+Afghanistan,0.363,1963
+Afghanistan,1.618,1964
+Afghanistan,-0.947,1965
+Afghanistan,-0.021,1966
+Afghanistan,-0.663,1967
+Afghanistan,0.443,1968
+Afghanistan,2.429,1969
+Afghanistan,-0.951,1970
+Afghanistan,1.667,1971
+Afghanistan,-1.77,1972
+Afghanistan,-0.482,1973
+Afghanistan,1.002,1974
+Afghanistan,-0.575,1975
+Afghanistan,-2.806,1976
+Afghanistan,3.319,1977
+Afghanistan,-1.557,1978
+Afghanistan,-1.389,1979
+Afghanistan,-0.548,1980
+Afghanistan,1.16,1981
+Afghanistan,-1.799,1982
+Afghanistan,-2.362,1983
+Afghanistan,1.792,1984
+Afghanistan,-0.154,1985
+Afghanistan,-3.052,1986
+Afghanistan,1.349,1987
+Afghanistan,0.026,1988
+Afghanistan,0.074,1989
+Afghanistan,-1.093,1990
+Afghanistan,-0.904,1991
+Afghanistan,-2.174,1992
+Afghanistan,-1.427,1993
+Afghanistan,1.291,1994
+Afghanistan,-1.467,1995
+Afghanistan,-0.367,1996
+Afghanistan,0.011,1997
+Afghanistan,-0.609,1998
+Afghanistan,-0.229,1999
+Afghanistan,-0.292,2000
+Afghanistan,1.22,2001
+Afghanistan,1.99,2002
+Afghanistan,-0.159,2003
+Afghanistan,2.837,2004
+Afghanistan,1.688,2005
+Afghanistan,1.945,2006
+Afghanistan,-0.105,2007
+Afghanistan,4.324,2008
+Afghanistan,2.411,2009
+Afghanistan,3.464,2010
+Afghanistan,0.822,2011
+Afghanistan,-0.384,2012
+Afghanistan,2.324,2013
+Afghanistan,-0.051,2014
+Afghanistan,-0.553,2015
+Afghanistan,2.388,2016
+Afghanistan,0.877,2017
+Afghanistan,4.533,2018
+Afghanistan,0.293,2019
+Afghanistan,0.555,2020
+Afghanistan,2.48,2021
+Albania,0.989,1961
+Albania,-0.802,1962
+Albania,-1.5,1963
+Albania,0.689,1964
+Albania,0.097,1965
+Albania,-0.628,1966
+Albania,0.487,1967
+Albania,-0.338,1968
+Albania,-0.129,1969
+Albania,-0.019,1970
+Albania,-2.353,1971
+Albania,1.614,1972
+Albania,-2.0,1973
+Albania,0.986,1974
+Albania,1.314,1975
+Albania,-1.073,1976
+Albania,2.006,1977
+Albania,0.656,1978
+Albania,1.93,1979
+Albania,-0.089,1980
+Albania,2.055,1981
+Albania,-0.754,1982
+Albania,0.7,1983
+Albania,-0.958,1984
+Albania,0.1,1985
+Albania,0.897,1986
+Albania,-4.38,1987
+Albania,-0.847,1988
+Albania,2.566,1989
+Albania,2.832,1990
+Albania,2.159,1991
+Albania,-0.007,1992
+Albania,-0.966,1993
+Albania,2.115,1994
+Albania,-0.508,1995
+Albania,-2.193,1996
+Albania,0.133,1997
+Albania,-1.515,1998
+Albania,0.832,1999
+Albania,-0.203,2000
+Albania,4.193,2001
+Albania,2.772,2002
+Albania,-0.512,2003
+Albania,0.481,2004
+Albania,-0.178,2005
+Albania,0.007,2006
+Albania,2.096,2007
+Albania,1.777,2008
+Albania,-0.057,2009
+Albania,0.994,2010
+Albania,1.438,2011
+Albania,1.984,2012
+Albania,1.283,2013
+Albania,2.179,2014
+Albania,0.591,2015
+Albania,1.481,2016
+Albania,3.223,2017
+Albania,1.566,2018
+Albania,2.889,2019
+Albania,1.666,2020
+Albania,0.105,2021
+Algeria,-1.096,1961
+Algeria,-0.137,1962
+Algeria,-0.518,1963
+Algeria,2.269,1964
+Algeria,0.738,1965
+Algeria,-1.558,1966
+Algeria,0.662,1967
+Algeria,0.292,1968
+Algeria,2.27,1969
+Algeria,0.12,1970
+Algeria,-0.74,1971
+Algeria,-0.399,1972
+Algeria,-1.452,1973
+Algeria,-0.089,1974
+Algeria,-1.103,1975
+Algeria,-2.283,1976
+Algeria,1.035,1977
+Algeria,0.354,1978
+Algeria,0.715,1979
+Algeria,0.087,1980
+Algeria,2.594,1981
+Algeria,0.101,1982
+Algeria,0.681,1983
+Algeria,-0.123,1984
+Algeria,-0.505,1985
+Algeria,-0.493,1986
+Algeria,1.217,1987
+Algeria,0.308,1988
+Algeria,0.791,1989
+Algeria,1.502,1990
+Algeria,0.553,1991
+Algeria,-0.67,1992
+Algeria,-0.238,1993
+Algeria,1.474,1994
+Algeria,0.0,1995
+Algeria,1.044,1996
+Algeria,-0.488,1997
+Algeria,-0.135,1998
+Algeria,0.968,1999
+Algeria,1.688,2000
+Algeria,4.289,2001
+Algeria,1.933,2002
+Algeria,1.118,2003
+Algeria,1.692,2004
+Algeria,2.258,2005
+Algeria,2.235,2006
+Algeria,0.07,2007
+Algeria,1.667,2008
+Algeria,1.568,2009
+Algeria,3.368,2010
+Algeria,1.765,2011
+Algeria,0.135,2012
+Algeria,2.87,2013
+Algeria,0.272,2014
+Algeria,-0.303,2015
+Algeria,-0.044,2016
+Algeria,2.021,2017
+Algeria,1.952,2018
+Algeria,0.727,2019
+Algeria,1.664,2020
+Algeria,0.807,2021
+Angola,0.161,1961
+Angola,-0.227,1962
+Angola,-0.318,1963
+Angola,0.19,1964
+Angola,-0.264,1965
+Angola,-0.163,1966
+Angola,-0.266,1967
+Angola,-0.732,1968
+Angola,0.329,1969
+Angola,0.238,1970
+Angola,-0.114,1971
+Angola,-0.128,1972
+Angola,0.675,1973
+Angola,-0.204,1974
+Angola,-0.077,1975
+Angola,-0.301,1976
+Angola,-0.008,1977
+Angola,0.174,1978
+Angola,0.002,1979
+Angola,0.336,1980
+Angola,-0.856,1981
+Angola,1.198,1982
+Angola,0.94,1983
+Angola,0.767,1984
+Angola,0.873,1985
+Angola,-0.173,1986
+Angola,0.46,1987
+Angola,0.475,1988
+Angola,-0.485,1989
+Angola,0.763,1990
+Angola,0.699,1991
+Angola,1.413,1992
+Angola,-0.272,1993
+Angola,0.056,1994
+Angola,0.449,1995
+Angola,0.183,1996
+Angola,-0.295,1997
+Angola,1.636,1998
+Angola,0.155,1999
+Angola,-0.235,2000
+Angola,-0.359,2001
+Angola,0.414,2002
+Angola,1.03,2003
+Angola,0.314,2004
+Angola,1.235,2005
+Angola,0.839,2006
+Angola,0.836,2007
+Angola,-0.28,2008
+Angola,-0.262,2009
+Angola,0.982,2010
+Angola,0.646,2011
+Angola,0.535,2012
+Angola,1.005,2013
+Angola,0.437,2014
+Angola,1.37,2015
+Angola,1.16,2016
+Angola,-0.196,2017
+Angola,1.71,2018
+Angola,2.882,2019
+Angola,0.234,2020
+Angola,0.704,2021
+Argentina,-0.515,1961
+Argentina,1.459,1962
+Argentina,-0.383,1963
+Argentina,-1.138,1964
+Argentina,-0.504,1965
+Argentina,-0.036,1966
+Argentina,-0.579,1967
+Argentina,-0.527,1968
+Argentina,0.177,1969
+Argentina,0.359,1970
+Argentina,-0.262,1971
+Argentina,-0.946,1972
+Argentina,0.847,1973
+Argentina,0.209,1974
+Argentina,-0.229,1975
+Argentina,-1.994,1976
+Argentina,0.487,1977
+Argentina,0.515,1978
+Argentina,-0.275,1979
+Argentina,2.264,1980
+Argentina,0.159,1981
+Argentina,0.347,1982
+Argentina,0.356,1983
+Argentina,0.192,1984
+Argentina,0.214,1985
+Argentina,-0.72,1986
+Argentina,0.679,1987
+Argentina,1.389,1988
+Argentina,-0.079,1989
+Argentina,-0.173,1990
+Argentina,1.063,1991
+Argentina,1.073,1992
+Argentina,1.217,1993
+Argentina,0.316,1994
+Argentina,0.063,1995
+Argentina,0.8,1996
+Argentina,0.493,1997
+Argentina,-0.503,1998
+Argentina,0.373,1999
+Argentina,-0.563,2000
+Argentina,0.814,2001
+Argentina,0.36,2002
+Argentina,0.858,2003
+Argentina,1.558,2004
+Argentina,0.134,2005
+Argentina,0.246,2006
+Argentina,0.279,2007
+Argentina,0.725,2008
+Argentina,1.915,2009
+Argentina,1.513,2010
+Argentina,0.238,2011
+Argentina,0.969,2012
+Argentina,-0.994,2013
+Argentina,-0.742,2014
+Argentina,1.512,2015
+Argentina,0.475,2016
+Argentina,0.711,2017
+Argentina,0.412,2018
+Argentina,-0.303,2019
+Argentina,2.788,2020
+Argentina,0.891,2021
+Australia,0.254,1961
+Australia,-0.427,1962
+Australia,0.389,1963
+Australia,0.114,1964
+Australia,-0.177,1965
+Australia,-0.01,1966
+Australia,-1.499,1967
+Australia,0.17,1968
+Australia,-0.261,1969
+Australia,-0.159,1970
+Australia,0.306,1971
+Australia,-0.579,1972
+Australia,0.346,1973
+Australia,0.203,1974
+Australia,-0.58,1975
+Australia,-0.36,1976
+Australia,-0.382,1977
+Australia,0.803,1978
+Australia,0.46,1979
+Australia,0.902,1980
+Australia,-0.68,1981
+Australia,-0.433,1982
+Australia,0.62,1983
+Australia,-1.05,1984
+Australia,1.054,1985
+Australia,1.523,1986
+Australia,-0.616,1987
+Australia,0.856,1988
+Australia,0.055,1989
+Australia,1.141,1990
+Australia,0.334,1991
+Australia,1.068,1992
+Australia,0.233,1993
+Australia,-0.628,1994
+Australia,-0.485,1995
+Australia,0.157,1996
+Australia,-0.576,1997
+Australia,1.268,1998
+Australia,0.59,1999
+Australia,0.06,2000
+Australia,-0.464,2001
+Australia,0.404,2002
+Australia,-0.33,2003
+Australia,0.428,2004
+Australia,1.093,2005
+Australia,0.78,2006
+Australia,0.734,2007
+Australia,0.63,2008
+Australia,0.609,2009
+Australia,0.456,2010
+Australia,-0.631,2011
+Australia,-0.745,2012
+Australia,0.938,2013
+Australia,0.991,2014
+Australia,0.91,2015
+Australia,1.817,2016
+Australia,1.731,2017
+Australia,1.089,2018
+Australia,1.917,2019
+Australia,0.557,2020
+Australia,0.262,2021
+Austria,2.718,1961
+Austria,-3.124,1962
+Austria,-1.548,1963
+Austria,-2.152,1964
+Austria,-0.667,1965
+Austria,-0.339,1966
+Austria,1.718,1967
+Austria,0.792,1968
+Austria,-1.21,1969
+Austria,-1.927,1970
+Austria,-2.936,1971
+Austria,2.493,1972
+Austria,-0.279,1973
+Austria,2.657,1974
+Austria,0.686,1975
+Austria,-1.92,1976
+Austria,3.489,1977
+Austria,1.395,1978
+Austria,1.553,1979
+Austria,0.222,1980
+Austria,3.212,1981
+Austria,0.436,1982
+Austria,1.553,1983
+Austria,-1.144,1984
+Austria,-0.654,1985
+Austria,-0.734,1986
+Austria,-4.266,1987
+Austria,-0.847,1988
+Austria,3.744,1989
+Austria,3.764,1990
+Austria,3.04,1991
+Austria,1.206,1992
+Austria,-0.287,1993
+Austria,4.242,1994
+Austria,-0.314,1995
+Austria,-2.206,1996
+Austria,2.094,1997
+Austria,0.52,1998
+Austria,2.221,1999
+Austria,1.711,2000
+Austria,2.977,2001
+Austria,2.782,2002
+Austria,2.038,2003
+Austria,-0.108,2004
+Austria,-0.365,2005
+Austria,-1.262,2006
+Austria,2.621,2007
+Austria,1.05,2008
+Austria,0.772,2009
+Austria,0.779,2010
+Austria,1.947,2011
+Austria,3.794,2012
+Austria,-1.133,2013
+Austria,4.036,2014
+Austria,1.901,2015
+Austria,1.468,2016
+Austria,4.339,2017
+Austria,-0.55,2018
+Austria,3.32,2019
+Austria,1.965,2020
+Austria,1.033,2021
+Bangladesh,1.029,1961
+Bangladesh,0.047,1962
+Bangladesh,-0.072,1963
+Bangladesh,1.16,1964
+Bangladesh,-1.184,1965
+Bangladesh,0.285,1966
+Bangladesh,-1.134,1967
+Bangladesh,-0.245,1968
+Bangladesh,0.424,1969
+Bangladesh,-0.004,1970
+Bangladesh,-0.612,1971
+Bangladesh,-0.075,1972
+Bangladesh,-0.551,1973
+Bangladesh,-0.348,1974
+Bangladesh,0.565,1975
+Bangladesh,0.605,1976
+Bangladesh,1.236,1977
+Bangladesh,-0.977,1978
+Bangladesh,-0.065,1979
+Bangladesh,0.082,1980
+Bangladesh,-0.913,1981
+Bangladesh,-1.091,1982
+Bangladesh,-0.396,1983
+Bangladesh,-0.045,1984
+Bangladesh,1.041,1985
+Bangladesh,0.506,1986
+Bangladesh,-0.308,1987
+Bangladesh,0.021,1988
+Bangladesh,-0.247,1989
+Bangladesh,-1.979,1990
+Bangladesh,0.853,1991
+Bangladesh,0.974,1992
+Bangladesh,-1.551,1993
+Bangladesh,-0.068,1994
+Bangladesh,-0.583,1995
+Bangladesh,0.919,1996
+Bangladesh,0.455,1997
+Bangladesh,-1.205,1998
+Bangladesh,1.607,1999
+Bangladesh,-0.555,2000
+Bangladesh,-0.206,2001
+Bangladesh,0.688,2002
+Bangladesh,-0.752,2003
+Bangladesh,1.188,2004
+Bangladesh,0.557,2005
+Bangladesh,0.988,2006
+Bangladesh,-0.61,2007
+Bangladesh,0.474,2008
+Bangladesh,0.913,2009
+Bangladesh,1.935,2010
+Bangladesh,0.236,2011
+Bangladesh,0.894,2012
+Bangladesh,0.445,2013
+Bangladesh,0.04,2014
+Bangladesh,0.538,2015
+Bangladesh,1.929,2016
+Bangladesh,-0.38,2017
+Bangladesh,1.572,2018
+Bangladesh,0.348,2019
+Bangladesh,0.439,2020
+Bangladesh,2.079,2021
+Belgium-Luxembourg,2.321,1961
+Belgium-Luxembourg,-3.382,1962
+Belgium-Luxembourg,-0.413,1963
+Belgium-Luxembourg,-2.137,1964
+Belgium-Luxembourg,-0.401,1965
+Belgium-Luxembourg,-0.279,1966
+Belgium-Luxembourg,1.537,1967
+Belgium-Luxembourg,0.681,1968
+Belgium-Luxembourg,-1.404,1969
+Belgium-Luxembourg,-2.357,1970
+Belgium-Luxembourg,-2.643,1971
+Belgium-Luxembourg,1.644,1972
+Belgium-Luxembourg,0.031,1973
+Belgium-Luxembourg,1.549,1974
+Belgium-Luxembourg,-0.483,1975
+Belgium-Luxembourg,-1.516,1976
+Belgium-Luxembourg,2.399,1977
+Belgium-Luxembourg,1.197,1978
+Belgium-Luxembourg,0.007,1979
+Belgium-Luxembourg,0.221,1980
+Belgium-Luxembourg,3.335,1981
+Belgium-Luxembourg,0.315,1982
+Belgium-Luxembourg,0.614,1983
+Belgium-Luxembourg,-1.203,1984
+Belgium-Luxembourg,-0.892,1985
+Belgium-Luxembourg,-0.636,1986
+Belgium-Luxembourg,-2.871,1987
+Belgium-Luxembourg,-0.367,1988
+Belgium-Luxembourg,3.408,1989
+Belgium-Luxembourg,3.087,1990
+Belgium-Luxembourg,3.128,1991
+Belgium-Luxembourg,1.491,1992
+Belgium-Luxembourg,0.598,1993
+Belgium-Luxembourg,2.767,1994
+Belgium-Luxembourg,-0.226,1995
+Belgium-Luxembourg,-1.539,1996
+Belgium-Luxembourg,3.187,1997
+Belgium-Luxembourg,1.823,1998
+Belgium-Luxembourg,2.017,1999
+Belgium-Luxembourg,1.688,2000
+Belgium-Luxembourg,1.119,2001
+Belgium-Luxembourg,2.15,2002
+Belgium-Luxembourg,2.874,2003
+Belgium-Luxembourg,0.623,2004
+Belgium-Luxembourg,1.129,2005
+Belgium-Luxembourg,-1.171,2006
+Belgium-Luxembourg,2.216,2007
+Belgium-Luxembourg,0.661,2008
+Belgium-Luxembourg,0.842,2009
+Belgium-Luxembourg,0.81,2010
+Belgium-Luxembourg,1.865,2011
+Belgium-Luxembourg,3.277,2012
+Belgium-Luxembourg,-2.489,2013
+Belgium-Luxembourg,3.5,2014
+Belgium-Luxembourg,1.283,2015
+Belgium-Luxembourg,0.276,2016
+Belgium-Luxembourg,3.958,2017
+Belgium-Luxembourg,-0.303,2018
+Belgium-Luxembourg,2.911,2019
+Belgium-Luxembourg,1.855,2020
+Belgium-Luxembourg,1.614,2021
+Bhutan,0.007,1961
+Bhutan,-0.285,1962
+Bhutan,-0.473,1963
+Bhutan,0.436,1964
+Bhutan,-1.565,1965
+Bhutan,0.674,1966
+Bhutan,-1.386,1967
+Bhutan,-0.236,1968
+Bhutan,0.44,1969
+Bhutan,-0.203,1970
+Bhutan,-0.359,1971
+Bhutan,0.397,1972
+Bhutan,0.048,1973
+Bhutan,0.124,1974
+Bhutan,0.462,1975
+Bhutan,0.74,1976
+Bhutan,1.413,1977
+Bhutan,-0.761,1978
+Bhutan,0.193,1979
+Bhutan,0.091,1980
+Bhutan,-0.348,1981
+Bhutan,-0.482,1982
+Bhutan,-0.545,1983
+Bhutan,0.977,1984
+Bhutan,1.488,1985
+Bhutan,0.255,1986
+Bhutan,-0.256,1987
+Bhutan,0.715,1988
+Bhutan,0.388,1989
+Bhutan,-1.6,1990
+Bhutan,1.094,1991
+Bhutan,0.953,1992
+Bhutan,-1.192,1993
+Bhutan,0.034,1994
+Bhutan,1.338,1995
+Bhutan,0.881,1996
+Bhutan,0.114,1997
+Bhutan,-0.86,1998
+Bhutan,1.581,1999
+Bhutan,-0.727,2000
+Bhutan,-0.025,2001
+Bhutan,0.785,2002
+Bhutan,-0.209,2003
+Bhutan,2.643,2004
+Bhutan,1.095,2005
+Bhutan,1.106,2006
+Bhutan,0.959,2007
+Bhutan,0.755,2008
+Bhutan,0.92,2009
+Bhutan,2.181,2010
+Bhutan,0.675,2011
+Bhutan,0.811,2012
+Bhutan,1.339,2013
+Bhutan,0.732,2014
+Bhutan,1.561,2015
+Bhutan,1.943,2016
+Bhutan,-0.05,2017
+Bhutan,1.542,2018
+Bhutan,0.831,2019
+Bhutan,0.799,2020
+Bhutan,2.0,2021
+Bolivia (Plurinational State of),0.288,1961
+Bolivia (Plurinational State of),-0.042,1962
+Bolivia (Plurinational State of),-0.183,1963
+Bolivia (Plurinational State of),-0.397,1964
+Bolivia (Plurinational State of),-0.521,1965
+Bolivia (Plurinational State of),0.253,1966
+Bolivia (Plurinational State of),-0.427,1967
+Bolivia (Plurinational State of),-0.771,1968
+Bolivia (Plurinational State of),0.802,1969
+Bolivia (Plurinational State of),-0.384,1970
+Bolivia (Plurinational State of),0.008,1971
+Bolivia (Plurinational State of),-0.001,1972
+Bolivia (Plurinational State of),0.878,1973
+Bolivia (Plurinational State of),-0.162,1974
+Bolivia (Plurinational State of),-0.071,1975
+Bolivia (Plurinational State of),-0.696,1976
+Bolivia (Plurinational State of),0.486,1977
+Bolivia (Plurinational State of),0.347,1978
+Bolivia (Plurinational State of),-0.198,1979
+Bolivia (Plurinational State of),0.503,1980
+Bolivia (Plurinational State of),0.519,1981
+Bolivia (Plurinational State of),-0.246,1982
+Bolivia (Plurinational State of),1.406,1983
+Bolivia (Plurinational State of),0.525,1984
+Bolivia (Plurinational State of),1.03,1985
+Bolivia (Plurinational State of),-0.085,1986
+Bolivia (Plurinational State of),0.565,1987
+Bolivia (Plurinational State of),0.73,1988
+Bolivia (Plurinational State of),-0.073,1989
+Bolivia (Plurinational State of),1.272,1990
+Bolivia (Plurinational State of),0.77,1991
+Bolivia (Plurinational State of),0.34,1992
+Bolivia (Plurinational State of),0.606,1993
+Bolivia (Plurinational State of),0.211,1994
+Bolivia (Plurinational State of),0.677,1995
+Bolivia (Plurinational State of),0.566,1996
+Bolivia (Plurinational State of),-0.016,1997
+Bolivia (Plurinational State of),1.218,1998
+Bolivia (Plurinational State of),0.375,1999
+Bolivia (Plurinational State of),0.18,2000
+Bolivia (Plurinational State of),0.563,2001
+Bolivia (Plurinational State of),1.49,2002
+Bolivia (Plurinational State of),0.7,2003
+Bolivia (Plurinational State of),1.491,2004
+Bolivia (Plurinational State of),0.991,2005
+Bolivia (Plurinational State of),1.428,2006
+Bolivia (Plurinational State of),1.023,2007
+Bolivia (Plurinational State of),0.333,2008
+Bolivia (Plurinational State of),0.831,2009
+Bolivia (Plurinational State of),1.891,2010
+Bolivia (Plurinational State of),0.31,2011
+Bolivia (Plurinational State of),0.504,2012
+Bolivia (Plurinational State of),0.657,2013
+Bolivia (Plurinational State of),0.406,2014
+Bolivia (Plurinational State of),1.653,2015
+Bolivia (Plurinational State of),1.226,2016
+Bolivia (Plurinational State of),1.1,2017
+Bolivia (Plurinational State of),0.776,2018
+Bolivia (Plurinational State of),0.894,2019
+Bolivia (Plurinational State of),2.338,2020
+Bolivia (Plurinational State of),0.665,2021
+Brazil,-0.021,1961
+Brazil,0.02,1962
+Brazil,0.169,1963
+Brazil,-0.119,1964
+Brazil,-0.737,1965
+Brazil,-0.027,1966
+Brazil,-0.179,1967
+Brazil,-0.471,1968
+Brazil,0.482,1969
+Brazil,0.275,1970
+Brazil,0.003,1971
+Brazil,0.037,1972
+Brazil,0.646,1973
+Brazil,-0.336,1974
+Brazil,0.083,1975
+Brazil,-0.411,1976
+Brazil,0.453,1977
+Brazil,0.055,1978
+Brazil,-0.021,1979
+Brazil,0.45,1980
+Brazil,0.277,1981
+Brazil,0.162,1982
+Brazil,0.294,1983
+Brazil,0.416,1984
+Brazil,0.351,1985
+Brazil,0.055,1986
+Brazil,0.289,1987
+Brazil,0.823,1988
+Brazil,0.062,1989
+Brazil,0.776,1990
+Brazil,0.287,1991
+Brazil,0.269,1992
+Brazil,0.675,1993
+Brazil,0.188,1994
+Brazil,0.773,1995
+Brazil,0.526,1996
+Brazil,-0.116,1997
+Brazil,1.359,1998
+Brazil,0.62,1999
+Brazil,0.1,2000
+Brazil,0.662,2001
+Brazil,1.132,2002
+Brazil,0.764,2003
+Brazil,0.568,2004
+Brazil,0.943,2005
+Brazil,0.899,2006
+Brazil,0.999,2007
+Brazil,0.311,2008
+Brazil,1.038,2009
+Brazil,1.524,2010
+Brazil,0.424,2011
+Brazil,0.697,2012
+Brazil,0.899,2013
+Brazil,0.663,2014
+Brazil,0.793,2015
+Brazil,1.437,2016
+Brazil,0.936,2017
+Brazil,1.275,2018
+Brazil,1.111,2019
+Brazil,1.25,2020
+Brazil,0.711,2021
+Bulgaria,2.324,1961
+Bulgaria,-0.391,1962
+Bulgaria,-1.76,1963
+Bulgaria,-0.444,1964
+Bulgaria,-0.102,1965
+Bulgaria,0.819,1966
+Bulgaria,1.055,1967
+Bulgaria,0.267,1968
+Bulgaria,-2.332,1969
+Bulgaria,1.064,1970
+Bulgaria,-0.769,1971
+Bulgaria,1.044,1972
+Bulgaria,-1.696,1973
+Bulgaria,0.654,1974
+Bulgaria,3.193,1975
+Bulgaria,-1.35,1976
+Bulgaria,2.046,1977
+Bulgaria,1.502,1978
+Bulgaria,2.768,1979
+Bulgaria,-0.662,1980
+Bulgaria,2.671,1981
+Bulgaria,-0.568,1982
+Bulgaria,1.857,1983
+Bulgaria,-1.178,1984
+Bulgaria,-1.168,1985
+Bulgaria,-0.308,1986
+Bulgaria,-4.324,1987
+Bulgaria,0.714,1988
+Bulgaria,3.399,1989
+Bulgaria,3.989,1990
+Bulgaria,0.977,1991
+Bulgaria,0.974,1992
+Bulgaria,-0.894,1993
+Bulgaria,2.852,1994
+Bulgaria,1.131,1995
+Bulgaria,-3.839,1996
+Bulgaria,-0.374,1997
+Bulgaria,-0.986,1998
+Bulgaria,1.807,1999
+Bulgaria,0.972,2000
+Bulgaria,5.042,2001
+Bulgaria,3.319,2002
+Bulgaria,-1.334,2003
+Bulgaria,1.678,2004
+Bulgaria,-0.186,2005
+Bulgaria,1.047,2006
+Bulgaria,2.656,2007
+Bulgaria,3.629,2008
+Bulgaria,0.911,2009
+Bulgaria,1.21,2010
+Bulgaria,0.696,2011
+Bulgaria,1.789,2012
+Bulgaria,1.435,2013
+Bulgaria,3.584,2014
+Bulgaria,1.081,2015
+Bulgaria,2.951,2016
+Bulgaria,4.102,2017
+Bulgaria,1.206,2018
+Bulgaria,4.097,2019
+Bulgaria,3.092,2020
+Bulgaria,0.264,2021
+Cameroon,-0.071,1961
+Cameroon,-0.315,1962
+Cameroon,-0.362,1963
+Cameroon,0.225,1964
+Cameroon,-0.439,1965
+Cameroon,0.29,1966
+Cameroon,0.002,1967
+Cameroon,-0.398,1968
+Cameroon,0.398,1969
+Cameroon,0.201,1970
+Cameroon,0.24,1971
+Cameroon,-0.086,1972
+Cameroon,0.646,1973
+Cameroon,-0.033,1974
+Cameroon,0.084,1975
+Cameroon,-0.366,1976
+Cameroon,0.183,1977
+Cameroon,0.315,1978
+Cameroon,0.646,1979
+Cameroon,0.489,1980
+Cameroon,0.973,1981
+Cameroon,-0.2,1982
+Cameroon,0.469,1983
+Cameroon,0.209,1984
+Cameroon,0.545,1985
+Cameroon,0.082,1986
+Cameroon,0.543,1987
+Cameroon,0.724,1988
+Cameroon,-0.585,1989
+Cameroon,-0.558,1990
+Cameroon,0.736,1991
+Cameroon,0.68,1992
+Cameroon,0.036,1993
+Cameroon,0.91,1994
+Cameroon,0.999,1995
+Cameroon,0.652,1996
+Cameroon,1.084,1997
+Cameroon,0.858,1998
+Cameroon,0.695,1999
+Cameroon,0.01,2000
+Cameroon,0.481,2001
+Cameroon,0.71,2002
+Cameroon,0.671,2003
+Cameroon,1.146,2004
+Cameroon,1.84,2005
+Cameroon,0.996,2006
+Cameroon,0.474,2007
+Cameroon,1.926,2008
+Cameroon,1.196,2009
+Cameroon,1.357,2010
+Cameroon,1.131,2011
+Cameroon,1.003,2012
+Cameroon,0.876,2013
+Cameroon,1.312,2014
+Cameroon,1.532,2015
+Cameroon,1.999,2016
+Cameroon,1.217,2017
+Cameroon,1.05,2018
+Cameroon,2.204,2019
+Cameroon,1.822,2020
+Cameroon,1.231,2021
+Canada,-1.019,1961
+Canada,1.893,1962
+Canada,-1.523,1963
+Canada,-4.048,1964
+Canada,0.053,1965
+Canada,1.551,1966
+Canada,-2.329,1967
+Canada,2.558,1968
+Canada,0.16,1969
+Canada,0.967,1970
+Canada,0.657,1971
+Canada,-0.93,1972
+Canada,2.228,1973
+Canada,-2.86,1974
+Canada,-1.146,1975
+Canada,-1.302,1976
+Canada,2.919,1977
+Canada,-0.842,1978
+Canada,0.27,1979
+Canada,0.823,1980
+Canada,4.942,1981
+Canada,-1.022,1982
+Canada,0.373,1983
+Canada,0.617,1984
+Canada,1.259,1985
+Canada,0.71,1986
+Canada,1.391,1987
+Canada,2.915,1988
+Canada,-2.593,1989
+Canada,3.187,1990
+Canada,1.112,1991
+Canada,2.308,1992
+Canada,2.204,1993
+Canada,2.315,1994
+Canada,0.622,1995
+Canada,-0.613,1996
+Canada,-0.891,1997
+Canada,2.047,1998
+Canada,4.187,1999
+Canada,4.29,2000
+Canada,2.779,2001
+Canada,-1.861,2002
+Canada,-0.607,2003
+Canada,0.24,2004
+Canada,2.464,2005
+Canada,3.542,2006
+Canada,-0.008,2007
+Canada,-0.837,2008
+Canada,-0.82,2009
+Canada,5.861,2010
+Canada,0.244,2011
+Canada,2.474,2012
+Canada,2.185,2013
+Canada,-1.704,2014
+Canada,1.529,2015
+Canada,3.022,2016
+Canada,0.575,2017
+Canada,2.408,2018
+Canada,3.139,2019
+Canada,0.767,2020
+Canada,2.409,2021
+Central African Republic,0.29,1961
+Central African Republic,-0.453,1962
+Central African Republic,-0.424,1963
+Central African Republic,0.516,1964
+Central African Republic,-0.463,1965
+Central African Republic,0.084,1966
+Central African Republic,-0.26,1967
+Central African Republic,-0.583,1968
+Central African Republic,-0.192,1969
+Central African Republic,0.013,1970
+Central African Republic,0.602,1971
+Central African Republic,0.367,1972
+Central African Republic,1.125,1973
+Central African Republic,0.042,1974
+Central African Republic,0.237,1975
+Central African Republic,-0.223,1976
+Central African Republic,0.191,1977
+Central African Republic,0.267,1978
+Central African Republic,0.34,1979
+Central African Republic,0.474,1980
+Central African Republic,0.482,1981
+Central African Republic,0.423,1982
+Central African Republic,1.043,1983
+Central African Republic,0.573,1984
+Central African Republic,0.582,1985
+Central African Republic,0.09,1986
+Central African Republic,0.103,1987
+Central African Republic,0.822,1988
+Central African Republic,-0.052,1989
+Central African Republic,-1.53,1990
+Central African Republic,0.591,1991
+Central African Republic,-0.117,1992
+Central African Republic,1.008,1993
+Central African Republic,1.683,1994
+Central African Republic,0.326,1995
+Central African Republic,-0.02,1996
+Central African Republic,1.955,1997
+Central African Republic,1.429,1998
+Central African Republic,0.579,1999
+Central African Republic,0.646,2000
+Central African Republic,1.176,2001
+Central African Republic,1.141,2002
+Central African Republic,1.629,2003
+Central African Republic,2.031,2004
+Central African Republic,1.762,2005
+Central African Republic,1.016,2006
+Central African Republic,1.582,2007
+Central African Republic,1.411,2008
+Central African Republic,1.057,2009
+Central African Republic,1.112,2010
+Central African Republic,1.103,2011
+Central African Republic,1.568,2012
+Central African Republic,1.031,2013
+Central African Republic,1.136,2014
+Central African Republic,1.288,2015
+Central African Republic,2.25,2016
+Central African Republic,0.931,2017
+Central African Republic,1.292,2018
+Central African Republic,1.456,2019
+Central African Republic,1.916,2020
+Central African Republic,1.149,2021
+Chad,-1.821,1961
+Chad,0.674,1962
+Chad,-0.681,1963
+Chad,0.889,1964
+Chad,-0.593,1965
+Chad,-0.318,1966
+Chad,-1.274,1967
+Chad,-0.556,1968
+Chad,1.597,1969
+Chad,-0.651,1970
+Chad,1.033,1971
+Chad,0.661,1972
+Chad,0.391,1973
+Chad,-0.476,1974
+Chad,0.295,1975
+Chad,-0.237,1976
+Chad,-1.405,1977
+Chad,-0.005,1978
+Chad,0.51,1979
+Chad,0.361,1980
+Chad,0.381,1981
+Chad,-0.099,1982
+Chad,-1.424,1983
+Chad,0.782,1984
+Chad,1.008,1985
+Chad,1.524,1986
+Chad,0.096,1987
+Chad,0.957,1988
+Chad,-1.151,1989
+Chad,-2.588,1990
+Chad,1.2,1991
+Chad,0.518,1992
+Chad,0.125,1993
+Chad,1.38,1994
+Chad,0.758,1995
+Chad,1.593,1996
+Chad,0.542,1997
+Chad,-0.374,1998
+Chad,0.813,1999
+Chad,-0.868,2000
+Chad,0.886,2001
+Chad,0.975,2002
+Chad,1.022,2003
+Chad,0.166,2004
+Chad,2.155,2005
+Chad,1.587,2006
+Chad,1.039,2007
+Chad,1.851,2008
+Chad,0.815,2009
+Chad,0.735,2010
+Chad,1.251,2011
+Chad,-0.053,2012
+Chad,2.287,2013
+Chad,1.516,2014
+Chad,1.363,2015
+Chad,3.272,2016
+Chad,0.949,2017
+Chad,1.662,2018
+Chad,2.284,2019
+Chad,2.046,2020
+Chad,1.145,2021
+Chile,-0.582,1961
+Chile,0.469,1962
+Chile,-0.489,1963
+Chile,-0.537,1964
+Chile,0.74,1965
+Chile,-0.052,1966
+Chile,0.093,1967
+Chile,-0.338,1968
+Chile,0.041,1969
+Chile,0.07,1970
+Chile,-0.483,1971
+Chile,-0.837,1972
+Chile,0.408,1973
+Chile,-0.054,1974
+Chile,0.103,1975
+Chile,-1.339,1976
+Chile,0.566,1977
+Chile,0.199,1978
+Chile,0.364,1979
+Chile,1.113,1980
+Chile,0.397,1981
+Chile,0.054,1982
+Chile,0.897,1983
+Chile,0.225,1984
+Chile,-0.026,1985
+Chile,-0.426,1986
+Chile,0.967,1987
+Chile,0.56,1988
+Chile,0.004,1989
+Chile,-0.073,1990
+Chile,0.262,1991
+Chile,1.003,1992
+Chile,0.688,1993
+Chile,0.575,1994
+Chile,-0.096,1995
+Chile,0.368,1996
+Chile,0.819,1997
+Chile,0.758,1998
+Chile,-0.034,1999
+Chile,-0.427,2000
+Chile,-0.263,2001
+Chile,-0.36,2002
+Chile,0.295,2003
+Chile,1.103,2004
+Chile,0.349,2005
+Chile,0.213,2006
+Chile,0.619,2007
+Chile,0.944,2008
+Chile,1.148,2009
+Chile,0.969,2010
+Chile,0.224,2011
+Chile,1.257,2012
+Chile,0.054,2013
+Chile,-0.312,2014
+Chile,1.718,2015
+Chile,1.576,2016
+Chile,0.921,2017
+Chile,0.233,2018
+Chile,0.564,2019
+Chile,1.971,2020
+Chile,1.186,2021
+China,0.269,1961
+China,-0.508,1962
+China,1.378,1963
+China,0.481,1964
+China,-0.678,1965
+China,0.884,1966
+China,0.212,1967
+China,0.975,1968
+China,0.117,1969
+China,-2.731,1970
+China,-0.452,1971
+China,1.206,1972
+China,0.758,1973
+China,-0.71,1974
+China,0.958,1975
+China,-0.925,1976
+China,0.983,1977
+China,-0.071,1978
+China,-0.379,1979
+China,-0.436,1980
+China,1.381,1981
+China,0.62,1982
+China,-0.084,1983
+China,-0.235,1984
+China,-1.254,1985
+China,0.083,1986
+China,0.086,1987
+China,-1.338,1988
+China,0.494,1989
+China,1.567,1990
+China,0.327,1991
+China,0.008,1992
+China,1.129,1993
+China,-0.605,1994
+China,0.381,1995
+China,0.111,1996
+China,1.898,1997
+China,0.876,1998
+China,0.312,1999
+China,0.86,2000
+China,1.163,2001
+China,2.648,2002
+China,1.071,2003
+China,1.783,2004
+China,0.98,2005
+China,1.307,2006
+China,1.52,2007
+China,3.249,2008
+China,1.497,2009
+China,0.374,2010
+China,-0.634,2011
+China,0.418,2012
+China,2.564,2013
+China,2.082,2014
+China,2.456,2015
+China,2.668,2016
+China,0.248,2017
+China,3.599,2018
+China,2.354,2019
+China,2.774,2020
+China,3.454,2021
+Colombia,0.425,1961
+Colombia,-0.542,1962
+Colombia,-0.231,1963
+Colombia,0.777,1964
+Colombia,-0.121,1965
+Colombia,-0.045,1966
+Colombia,-0.441,1967
+Colombia,-0.49,1968
+Colombia,0.692,1969
+Colombia,0.108,1970
+Colombia,-0.8,1971
+Colombia,-0.462,1972
+Colombia,0.881,1973
+Colombia,-0.368,1974
+Colombia,-0.134,1975
+Colombia,-0.588,1976
+Colombia,0.324,1977
+Colombia,0.146,1978
+Colombia,-0.119,1979
+Colombia,0.741,1980
+Colombia,0.455,1981
+Colombia,0.146,1982
+Colombia,1.112,1983
+Colombia,0.095,1984
+Colombia,0.35,1985
+Colombia,-0.29,1986
+Colombia,0.62,1987
+Colombia,0.941,1988
+Colombia,-0.629,1989
+Colombia,-0.126,1990
+Colombia,0.318,1991
+Colombia,1.234,1992
+Colombia,-0.024,1993
+Colombia,-0.038,1994
+Colombia,0.439,1995
+Colombia,0.249,1996
+Colombia,0.229,1997
+Colombia,0.892,1998
+Colombia,-0.137,1999
+Colombia,-0.436,2000
+Colombia,0.101,2001
+Colombia,0.567,2002
+Colombia,0.712,2003
+Colombia,0.961,2004
+Colombia,0.911,2005
+Colombia,0.162,2006
+Colombia,0.566,2007
+Colombia,0.153,2008
+Colombia,0.114,2009
+Colombia,1.732,2010
+Colombia,-0.047,2011
+Colombia,0.388,2012
+Colombia,1.076,2013
+Colombia,0.922,2014
+Colombia,0.958,2015
+Colombia,2.159,2016
+Colombia,0.422,2017
+Colombia,1.081,2018
+Colombia,1.355,2019
+Colombia,1.706,2020
+Colombia,0.35,2021
+Congo,-0.058,1961
+Congo,-0.153,1962
+Congo,-0.187,1963
+Congo,0.177,1964
+Congo,-0.397,1965
+Congo,0.179,1966
+Congo,-0.34,1967
+Congo,-0.442,1968
+Congo,0.505,1969
+Congo,0.316,1970
+Congo,-0.129,1971
+Congo,-0.199,1972
+Congo,0.862,1973
+Congo,-0.171,1974
+Congo,-0.039,1975
+Congo,-0.288,1976
+Congo,0.099,1977
+Congo,0.347,1978
+Congo,0.411,1979
+Congo,0.419,1980
+Congo,-0.139,1981
+Congo,-0.036,1982
+Congo,1.167,1983
+Congo,0.107,1984
+Congo,-0.042,1985
+Congo,-0.788,1986
+Congo,0.447,1987
+Congo,0.177,1988
+Congo,-0.605,1989
+Congo,-0.764,1990
+Congo,-0.11,1991
+Congo,0.24,1992
+Congo,-0.261,1993
+Congo,0.598,1994
+Congo,0.354,1995
+Congo,-0.455,1996
+Congo,0.472,1997
+Congo,1.034,1998
+Congo,0.671,1999
+Congo,0.407,2000
+Congo,0.384,2001
+Congo,0.681,2002
+Congo,0.757,2003
+Congo,1.222,2004
+Congo,1.168,2005
+Congo,0.399,2006
+Congo,1.023,2007
+Congo,0.43,2008
+Congo,1.098,2009
+Congo,1.629,2010
+Congo,0.786,2011
+Congo,0.794,2012
+Congo,0.691,2013
+Congo,0.748,2014
+Congo,0.904,2015
+Congo,1.664,2016
+Congo,0.347,2017
+Congo,1.112,2018
+Congo,1.461,2019
+Congo,1.606,2020
+Congo,1.004,2021
+Cuba,0.641,1961
+Cuba,-0.435,1962
+Cuba,0.611,1963
+Cuba,1.328,1964
+Cuba,0.407,1965
+Cuba,-0.929,1966
+Cuba,-0.584,1967
+Cuba,-1.475,1968
+Cuba,-0.476,1969
+Cuba,-0.357,1970
+Cuba,-0.321,1971
+Cuba,-0.057,1972
+Cuba,1.141,1973
+Cuba,0.462,1974
+Cuba,0.847,1975
+Cuba,0.387,1976
+Cuba,1.145,1977
+Cuba,-0.689,1978
+Cuba,-0.777,1979
+Cuba,0.603,1980
+Cuba,-0.697,1981
+Cuba,1.231,1982
+Cuba,-0.597,1983
+Cuba,0.192,1984
+Cuba,0.265,1985
+Cuba,-0.475,1986
+Cuba,0.095,1987
+Cuba,0.115,1988
+Cuba,0.069,1989
+Cuba,0.646,1990
+Cuba,1.098,1991
+Cuba,0.52,1992
+Cuba,-0.175,1993
+Cuba,0.803,1994
+Cuba,0.319,1995
+Cuba,0.373,1996
+Cuba,0.999,1997
+Cuba,0.708,1998
+Cuba,0.283,1999
+Cuba,0.702,2000
+Cuba,0.791,2001
+Cuba,1.058,2002
+Cuba,1.785,2003
+Cuba,0.891,2004
+Cuba,0.994,2005
+Cuba,0.694,2006
+Cuba,1.011,2007
+Cuba,0.744,2008
+Cuba,-0.138,2009
+Cuba,-0.37,2010
+Cuba,0.391,2011
+Cuba,0.611,2012
+Cuba,-0.649,2013
+Cuba,0.816,2014
+Cuba,1.414,2015
+Cuba,1.525,2016
+Cuba,0.631,2017
+Cuba,0.485,2018
+Cuba,1.192,2019
+Cuba,1.344,2020
+Cuba,1.473,2021
+Cyprus,-1.054,1961
+Cyprus,2.204,1962
+Cyprus,-1.189,1963
+Cyprus,1.02,1964
+Cyprus,0.764,1965
+Cyprus,0.095,1966
+Cyprus,-1.863,1967
+Cyprus,-0.735,1968
+Cyprus,1.238,1969
+Cyprus,1.479,1970
+Cyprus,0.332,1971
+Cyprus,-0.153,1972
+Cyprus,-0.402,1973
+Cyprus,0.666,1974
+Cyprus,0.382,1975
+Cyprus,-0.482,1976
+Cyprus,-0.247,1977
+Cyprus,0.356,1978
+Cyprus,0.905,1979
+Cyprus,-0.505,1980
+Cyprus,1.168,1981
+Cyprus,-1.61,1982
+Cyprus,-1.263,1983
+Cyprus,0.249,1984
+Cyprus,-0.604,1985
+Cyprus,1.025,1986
+Cyprus,-3.187,1987
+Cyprus,-1.086,1988
+Cyprus,0.894,1989
+Cyprus,0.363,1990
+Cyprus,1.571,1991
+Cyprus,-1.961,1992
+Cyprus,-0.955,1993
+Cyprus,0.146,1994
+Cyprus,0.545,1995
+Cyprus,-0.468,1996
+Cyprus,-1.539,1997
+Cyprus,-0.796,1998
+Cyprus,0.814,1999
+Cyprus,-0.925,2000
+Cyprus,3.383,2001
+Cyprus,1.735,2002
+Cyprus,-1.425,2003
+Cyprus,1.527,2004
+Cyprus,1.044,2005
+Cyprus,0.742,2006
+Cyprus,0.505,2007
+Cyprus,3.124,2008
+Cyprus,-0.113,2009
+Cyprus,2.535,2010
+Cyprus,0.54,2011
+Cyprus,-0.828,2012
+Cyprus,1.733,2013
+Cyprus,2.056,2014
+Cyprus,1.375,2015
+Cyprus,2.052,2016
+Cyprus,1.132,2017
+Cyprus,3.091,2018
+Cyprus,0.449,2019
+Cyprus,1.494,2020
+Cyprus,0.739,2021
+Czechoslovakia,3.098,1961
+Czechoslovakia,-3.124,1962
+Czechoslovakia,-2.287,1963
+Czechoslovakia,-3.157,1964
+Czechoslovakia,-0.91,1965
+Czechoslovakia,0.172,1966
+Czechoslovakia,2.082,1967
+Czechoslovakia,1.09,1968
+Czechoslovakia,-2.163,1969
+Czechoslovakia,-1.624,1970
+Czechoslovakia,-2.37,1971
+Czechoslovakia,2.6,1972
+Czechoslovakia,0.701,1973
+Czechoslovakia,3.429,1974
+Czechoslovakia,1.876,1975
+Czechoslovakia,-2.53,1976
+Czechoslovakia,3.639,1977
+Czechoslovakia,1.76,1978
+Czechoslovakia,1.681,1979
+Czechoslovakia,-0.293,1980
+Czechoslovakia,3.42,1981
+Czechoslovakia,1.248,1982
+Czechoslovakia,1.717,1983
+Czechoslovakia,-0.826,1984
+Czechoslovakia,0.084,1985
+Czechoslovakia,-0.267,1986
+Czechoslovakia,-4.687,1987
+Czechoslovakia,-1.023,1988
+Czechoslovakia,3.549,1989
+Czechoslovakia,4.241,1990
+Czechoslovakia,2.913,1991
+Czechoslovakia,1.156,1992
+Czechoslovakia,-0.476,1993
+Czechoslovakia,3.35,1994
+Czechoslovakia,0.19,1995
+Czechoslovakia,-2.807,1996
+Czechoslovakia,1.516,1997
+Czechoslovakia,0.314,1998
+Czechoslovakia,2.431,1999
+Czechoslovakia,1.441,2000
+Czechoslovakia,1.975,2001
+Czechoslovakia,2.571,2002
+Czechoslovakia,1.493,2003
+Czechoslovakia,0.552,2004
+Czechoslovakia,-0.826,2005
+Czechoslovakia,-1.578,2006
+Czechoslovakia,3.274,2007
+Czechoslovakia,1.323,2008
+Czechoslovakia,0.985,2009
+Czechoslovakia,0.966,2010
+Czechoslovakia,1.911,2011
+Czechoslovakia,3.315,2012
+Czechoslovakia,-2.23,2013
+Czechoslovakia,4.611,2014
+Czechoslovakia,2.277,2015
+Czechoslovakia,1.709,2016
+Czechoslovakia,4.259,2017
+Czechoslovakia,-1.053,2018
+Czechoslovakia,3.83,2019
+Czechoslovakia,2.301,2020
+Czechoslovakia,1.164,2021
+Democratic People's Republic of Korea,1.771,1961
+Democratic People's Republic of Korea,-0.91,1962
+Democratic People's Republic of Korea,1.532,1963
+Democratic People's Republic of Korea,-0.291,1964
+Democratic People's Republic of Korea,-1.217,1965
+Democratic People's Republic of Korea,0.618,1966
+Democratic People's Republic of Korea,1.52,1967
+Democratic People's Republic of Korea,1.118,1968
+Democratic People's Republic of Korea,-1.247,1969
+Democratic People's Republic of Korea,-4.35,1970
+Democratic People's Republic of Korea,-1.961,1971
+Democratic People's Republic of Korea,1.309,1972
+Democratic People's Republic of Korea,-0.113,1973
+Democratic People's Republic of Korea,-0.041,1974
+Democratic People's Republic of Korea,0.824,1975
+Democratic People's Republic of Korea,0.916,1976
+Democratic People's Republic of Korea,1.347,1977
+Democratic People's Republic of Korea,0.602,1978
+Democratic People's Republic of Korea,1.549,1979
+Democratic People's Republic of Korea,0.817,1980
+Democratic People's Republic of Korea,1.402,1981
+Democratic People's Republic of Korea,1.591,1982
+Democratic People's Republic of Korea,1.468,1983
+Democratic People's Republic of Korea,-1.971,1984
+Democratic People's Republic of Korea,-0.372,1985
+Democratic People's Republic of Korea,1.46,1986
+Democratic People's Republic of Korea,-0.533,1987
+Democratic People's Republic of Korea,-0.362,1988
+Democratic People's Republic of Korea,2.0,1989
+Democratic People's Republic of Korea,3.721,1990
+Democratic People's Republic of Korea,0.417,1991
+Democratic People's Republic of Korea,2.456,1992
+Democratic People's Republic of Korea,2.028,1993
+Democratic People's Republic of Korea,-0.318,1994
+Democratic People's Republic of Korea,1.381,1995
+Democratic People's Republic of Korea,0.525,1996
+Democratic People's Republic of Korea,2.234,1997
+Democratic People's Republic of Korea,3.611,1998
+Democratic People's Republic of Korea,0.929,1999
+Democratic People's Republic of Korea,1.628,2000
+Democratic People's Republic of Korea,0.277,2001
+Democratic People's Republic of Korea,3.861,2002
+Democratic People's Republic of Korea,1.815,2003
+Democratic People's Republic of Korea,1.42,2004
+Democratic People's Republic of Korea,-0.094,2005
+Democratic People's Republic of Korea,0.749,2006
+Democratic People's Republic of Korea,1.605,2007
+Democratic People's Republic of Korea,3.672,2008
+Democratic People's Republic of Korea,1.311,2009
+Democratic People's Republic of Korea,-1.027,2010
+Democratic People's Republic of Korea,0.332,2011
+Democratic People's Republic of Korea,0.138,2012
+Democratic People's Republic of Korea,0.219,2013
+Democratic People's Republic of Korea,2.992,2014
+Democratic People's Republic of Korea,1.779,2015
+Democratic People's Republic of Korea,2.754,2016
+Democratic People's Republic of Korea,2.326,2017
+Democratic People's Republic of Korea,2.882,2018
+Democratic People's Republic of Korea,3.343,2019
+Democratic People's Republic of Korea,3.024,2020
+Democratic People's Republic of Korea,4.057,2021
+Democratic Republic of the Congo,0.095,1961
+Democratic Republic of the Congo,-0.281,1962
+Democratic Republic of the Congo,-0.261,1963
+Democratic Republic of the Congo,0.313,1964
+Democratic Republic of the Congo,-0.311,1965
+Democratic Republic of the Congo,-0.111,1966
+Democratic Republic of the Congo,-0.08,1967
+Democratic Republic of the Congo,-0.622,1968
+Democratic Republic of the Congo,0.261,1969
+Democratic Republic of the Congo,0.163,1970
+Democratic Republic of the Congo,0.205,1971
+Democratic Republic of the Congo,0.075,1972
+Democratic Republic of the Congo,1.059,1973
+Democratic Republic of the Congo,-0.032,1974
+Democratic Republic of the Congo,0.026,1975
+Democratic Republic of the Congo,-0.257,1976
+Democratic Republic of the Congo,0.163,1977
+Democratic Republic of the Congo,0.27,1978
+Democratic Republic of the Congo,0.227,1979
+Democratic Republic of the Congo,0.348,1980
+Democratic Republic of the Congo,-0.125,1981
+Democratic Republic of the Congo,0.482,1982
+Democratic Republic of the Congo,1.283,1983
+Democratic Republic of the Congo,1.18,1984
+Democratic Republic of the Congo,0.359,1985
+Democratic Republic of the Congo,-0.136,1986
+Democratic Republic of the Congo,0.235,1987
+Democratic Republic of the Congo,0.905,1988
+Democratic Republic of the Congo,-0.452,1989
+Democratic Republic of the Congo,-0.297,1990
+Democratic Republic of the Congo,0.68,1991
+Democratic Republic of the Congo,0.33,1992
+Democratic Republic of the Congo,-0.142,1993
+Democratic Republic of the Congo,0.741,1994
+Democratic Republic of the Congo,0.551,1995
+Democratic Republic of the Congo,-0.454,1996
+Democratic Republic of the Congo,0.933,1997
+Democratic Republic of the Congo,1.289,1998
+Democratic Republic of the Congo,0.354,1999
+Democratic Republic of the Congo,0.667,2000
+Democratic Republic of the Congo,0.214,2001
+Democratic Republic of the Congo,0.782,2002
+Democratic Republic of the Congo,1.204,2003
+Democratic Republic of the Congo,1.531,2004
+Democratic Republic of the Congo,1.52,2005
+Democratic Republic of the Congo,0.599,2006
+Democratic Republic of the Congo,1.093,2007
+Democratic Republic of the Congo,0.256,2008
+Democratic Republic of the Congo,0.931,2009
+Democratic Republic of the Congo,1.309,2010
+Democratic Republic of the Congo,1.465,2011
+Democratic Republic of the Congo,0.774,2012
+Democratic Republic of the Congo,0.992,2013
+Democratic Republic of the Congo,0.956,2014
+Democratic Republic of the Congo,0.98,2015
+Democratic Republic of the Congo,1.921,2016
+Democratic Republic of the Congo,-0.003,2017
+Democratic Republic of the Congo,1.573,2018
+Democratic Republic of the Congo,1.933,2019
+Democratic Republic of the Congo,1.757,2020
+Democratic Republic of the Congo,1.181,2021
+Denmark,3.605,1961
+Denmark,-2.511,1962
+Denmark,-1.993,1963
+Denmark,-1.99,1964
+Denmark,-0.791,1965
+Denmark,0.665,1966
+Denmark,3.252,1967
+Denmark,1.747,1968
+Denmark,-2.616,1969
+Denmark,-1.73,1970
+Denmark,-1.235,1971
+Denmark,1.419,1972
+Denmark,2.989,1973
+Denmark,2.113,1974
+Denmark,1.079,1975
+Denmark,-1.977,1976
+Denmark,1.892,1977
+Denmark,0.716,1978
+Denmark,-0.582,1979
+Denmark,-1.183,1980
+Denmark,1.206,1981
+Denmark,1.868,1982
+Denmark,1.817,1983
+Denmark,-0.609,1984
+Denmark,-0.396,1985
+Denmark,-0.186,1986
+Denmark,-3.345,1987
+Denmark,-0.104,1988
+Denmark,4.045,1989
+Denmark,4.517,1990
+Denmark,2.971,1991
+Denmark,2.636,1992
+Denmark,1.288,1993
+Denmark,1.641,1994
+Denmark,1.418,1995
+Denmark,-1.386,1996
+Denmark,2.128,1997
+Denmark,1.881,1998
+Denmark,2.171,1999
+Denmark,2.183,2000
+Denmark,-0.453,2001
+Denmark,2.647,2002
+Denmark,1.815,2003
+Denmark,1.851,2004
+Denmark,-0.378,2005
+Denmark,-2.536,2006
+Denmark,4.516,2007
+Denmark,1.797,2008
+Denmark,1.945,2009
+Denmark,0.88,2010
+Denmark,1.166,2011
+Denmark,4.096,2012
+Denmark,-2.519,2013
+Denmark,4.317,2014
+Denmark,3.222,2015
+Denmark,2.348,2016
+Denmark,3.387,2017
+Denmark,-1.327,2018
+Denmark,3.77,2019
+Denmark,2.965,2020
+Denmark,2.663,2021
+Dominica,-0.205,1961
+Dominica,0.557,1962
+Dominica,0.181,1963
+Dominica,0.519,1964
+Dominica,0.187,1965
+Dominica,0.148,1966
+Dominica,-0.797,1967
+Dominica,-0.229,1968
+Dominica,1.132,1969
+Dominica,0.179,1970
+Dominica,-0.262,1971
+Dominica,-0.19,1972
+Dominica,0.287,1973
+Dominica,-0.515,1974
+Dominica,-0.558,1975
+Dominica,-1.15,1976
+Dominica,0.118,1977
+Dominica,0.243,1978
+Dominica,-0.168,1979
+Dominica,0.018,1980
+Dominica,0.651,1981
+Dominica,-0.239,1982
+Dominica,0.946,1983
+Dominica,-0.042,1984
+Dominica,-0.432,1985
+Dominica,-0.153,1986
+Dominica,0.254,1987
+Dominica,0.263,1988
+Dominica,-0.209,1989
+Dominica,0.175,1990
+Dominica,0.854,1991
+Dominica,0.842,1992
+Dominica,0.62,1993
+Dominica,0.355,1994
+Dominica,0.202,1995
+Dominica,0.772,1996
+Dominica,0.351,1997
+Dominica,1.552,1998
+Dominica,0.368,1999
+Dominica,-0.623,2000
+Dominica,0.301,2001
+Dominica,0.806,2002
+Dominica,0.637,2003
+Dominica,0.385,2004
+Dominica,1.306,2005
+Dominica,0.594,2006
+Dominica,1.109,2007
+Dominica,-0.246,2008
+Dominica,-0.283,2009
+Dominica,2.44,2010
+Dominica,-0.169,2011
+Dominica,0.661,2012
+Dominica,0.676,2013
+Dominica,0.257,2014
+Dominica,0.549,2015
+Dominica,0.833,2016
+Dominica,0.716,2017
+Dominica,0.866,2018
+Dominica,0.886,2019
+Dominica,0.334,2020
+Dominica,0.581,2021
+Dominican Republic,-0.09,1961
+Dominican Republic,-0.133,1962
+Dominican Republic,-0.018,1963
+Dominican Republic,0.74,1964
+Dominican Republic,0.297,1965
+Dominican Republic,0.036,1966
+Dominican Republic,-0.995,1967
+Dominican Republic,-0.513,1968
+Dominican Republic,0.799,1969
+Dominican Republic,0.013,1970
+Dominican Republic,-0.142,1971
+Dominican Republic,-0.377,1972
+Dominican Republic,0.639,1973
+Dominican Republic,-0.563,1974
+Dominican Republic,-0.166,1975
+Dominican Republic,-0.962,1976
+Dominican Republic,0.639,1977
+Dominican Republic,0.843,1978
+Dominican Republic,-0.249,1979
+Dominican Republic,0.376,1980
+Dominican Republic,0.796,1981
+Dominican Republic,0.353,1982
+Dominican Republic,1.508,1983
+Dominican Republic,0.353,1984
+Dominican Republic,-0.253,1985
+Dominican Republic,0.364,1986
+Dominican Republic,0.766,1987
+Dominican Republic,0.113,1988
+Dominican Republic,0.023,1989
+Dominican Republic,0.1,1990
+Dominican Republic,0.648,1991
+Dominican Republic,0.465,1992
+Dominican Republic,0.359,1993
+Dominican Republic,0.9,1994
+Dominican Republic,-0.029,1995
+Dominican Republic,0.87,1996
+Dominican Republic,0.788,1997
+Dominican Republic,1.788,1998
+Dominican Republic,0.598,1999
+Dominican Republic,0.042,2000
+Dominican Republic,1.113,2001
+Dominican Republic,1.008,2002
+Dominican Republic,1.949,2003
+Dominican Republic,0.983,2004
+Dominican Republic,1.587,2005
+Dominican Republic,1.382,2006
+Dominican Republic,1.054,2007
+Dominican Republic,0.274,2008
+Dominican Republic,-0.103,2009
+Dominican Republic,1.711,2010
+Dominican Republic,0.664,2011
+Dominican Republic,0.201,2012
+Dominican Republic,1.19,2013
+Dominican Republic,0.91,2014
+Dominican Republic,1.442,2015
+Dominican Republic,1.132,2016
+Dominican Republic,1.093,2017
+Dominican Republic,0.641,2018
+Dominican Republic,1.423,2019
+Dominican Republic,1.355,2020
+Dominican Republic,0.761,2021
+Ecuador,-0.08,1961
+Ecuador,-0.31,1962
+Ecuador,-0.224,1963
+Ecuador,-0.054,1964
+Ecuador,-0.407,1965
+Ecuador,0.0,1966
+Ecuador,-0.31,1967
+Ecuador,-0.729,1968
+Ecuador,0.771,1969
+Ecuador,0.008,1970
+Ecuador,-0.688,1971
+Ecuador,-0.236,1972
+Ecuador,0.684,1973
+Ecuador,-0.103,1974
+Ecuador,0.065,1975
+Ecuador,-0.017,1976
+Ecuador,0.395,1977
+Ecuador,0.36,1978
+Ecuador,0.384,1979
+Ecuador,0.708,1980
+Ecuador,0.268,1981
+Ecuador,0.562,1982
+Ecuador,1.399,1983
+Ecuador,0.226,1984
+Ecuador,0.3,1985
+Ecuador,-0.204,1986
+Ecuador,1.074,1987
+Ecuador,0.547,1988
+Ecuador,-0.154,1989
+Ecuador,0.561,1990
+Ecuador,0.802,1991
+Ecuador,1.277,1992
+Ecuador,0.644,1993
+Ecuador,0.357,1994
+Ecuador,0.601,1995
+Ecuador,0.062,1996
+Ecuador,0.69,1997
+Ecuador,1.495,1998
+Ecuador,0.449,1999
+Ecuador,0.047,2000
+Ecuador,0.476,2001
+Ecuador,0.876,2002
+Ecuador,0.559,2003
+Ecuador,0.889,2004
+Ecuador,0.847,2005
+Ecuador,0.685,2006
+Ecuador,0.868,2007
+Ecuador,0.476,2008
+Ecuador,0.97,2009
+Ecuador,1.438,2010
+Ecuador,0.577,2011
+Ecuador,0.433,2012
+Ecuador,0.648,2013
+Ecuador,0.958,2014
+Ecuador,0.468,2015
+Ecuador,1.967,2016
+Ecuador,0.907,2017
+Ecuador,0.791,2018
+Ecuador,1.266,2019
+Ecuador,1.868,2020
+Ecuador,0.858,2021
+Egypt,-2.058,1961
+Egypt,2.766,1962
+Egypt,-0.631,1963
+Egypt,0.806,1964
+Egypt,0.606,1965
+Egypt,-0.412,1966
+Egypt,-2.656,1967
+Egypt,-1.032,1968
+Egypt,3.094,1969
+Egypt,0.346,1970
+Egypt,0.961,1971
+Egypt,-0.399,1972
+Egypt,-0.69,1973
+Egypt,0.726,1974
+Egypt,0.02,1975
+Egypt,-0.155,1976
+Egypt,-1.423,1977
+Egypt,-0.265,1978
+Egypt,1.34,1979
+Egypt,0.319,1980
+Egypt,0.53,1981
+Egypt,-1.863,1982
+Egypt,-2.455,1983
+Egypt,0.47,1984
+Egypt,0.73,1985
+Egypt,1.113,1986
+Egypt,-1.004,1987
+Egypt,0.125,1988
+Egypt,-0.752,1989
+Egypt,-1.191,1990
+Egypt,1.26,1991
+Egypt,-1.073,1992
+Egypt,-0.932,1993
+Egypt,-0.588,1994
+Egypt,0.367,1995
+Egypt,-0.025,1996
+Egypt,-1.704,1997
+Egypt,-1.95,1998
+Egypt,0.258,1999
+Egypt,-1.274,2000
+Egypt,2.638,2001
+Egypt,1.315,2002
+Egypt,-1.917,2003
+Egypt,1.495,2004
+Egypt,0.677,2005
+Egypt,0.922,2006
+Egypt,0.502,2007
+Egypt,3.085,2008
+Egypt,-0.577,2009
+Egypt,2.923,2010
+Egypt,0.185,2011
+Egypt,-1.022,2012
+Egypt,2.68,2013
+Egypt,1.689,2014
+Egypt,1.335,2015
+Egypt,2.279,2016
+Egypt,0.32,2017
+Egypt,3.905,2018
+Egypt,-0.597,2019
+Egypt,0.943,2020
+Egypt,0.877,2021
+El Salvador,-0.046,1961
+El Salvador,-0.368,1962
+El Salvador,-0.232,1963
+El Salvador,0.269,1964
+El Salvador,-0.298,1965
+El Salvador,-0.216,1966
+El Salvador,-0.856,1967
+El Salvador,-1.217,1968
+El Salvador,0.689,1969
+El Salvador,0.295,1970
+El Salvador,-0.375,1971
+El Salvador,-0.485,1972
+El Salvador,1.183,1973
+El Salvador,-0.358,1974
+El Salvador,0.458,1975
+El Salvador,-0.589,1976
+El Salvador,0.777,1977
+El Salvador,0.022,1978
+El Salvador,0.621,1979
+El Salvador,0.774,1980
+El Salvador,0.553,1981
+El Salvador,0.149,1982
+El Salvador,0.49,1983
+El Salvador,0.157,1984
+El Salvador,0.624,1985
+El Salvador,-1.238,1986
+El Salvador,0.903,1987
+El Salvador,0.543,1988
+El Salvador,-0.624,1989
+El Salvador,0.236,1990
+El Salvador,0.892,1991
+El Salvador,0.896,1992
+El Salvador,0.07,1993
+El Salvador,1.068,1994
+El Salvador,0.645,1995
+El Salvador,-0.654,1996
+El Salvador,0.748,1997
+El Salvador,1.163,1998
+El Salvador,0.515,1999
+El Salvador,0.353,2000
+El Salvador,0.267,2001
+El Salvador,0.76,2002
+El Salvador,0.917,2003
+El Salvador,1.296,2004
+El Salvador,1.452,2005
+El Salvador,0.402,2006
+El Salvador,0.362,2007
+El Salvador,0.547,2008
+El Salvador,-0.17,2009
+El Salvador,0.831,2010
+El Salvador,-0.016,2011
+El Salvador,0.762,2012
+El Salvador,0.258,2013
+El Salvador,0.918,2014
+El Salvador,1.118,2015
+El Salvador,1.474,2016
+El Salvador,0.929,2017
+El Salvador,0.843,2018
+El Salvador,1.146,2019
+El Salvador,1.43,2020
+El Salvador,0.935,2021
+Eswatini,0.598,1961
+Eswatini,0.416,1962
+Eswatini,-0.874,1963
+Eswatini,1.864,1964
+Eswatini,0.313,1965
+Eswatini,0.221,1966
+Eswatini,-0.551,1967
+Eswatini,-1.058,1968
+Eswatini,-0.239,1969
+Eswatini,0.273,1970
+Eswatini,0.929,1971
+Eswatini,-0.578,1972
+Eswatini,1.738,1973
+Eswatini,0.202,1974
+Eswatini,-1.421,1975
+Eswatini,-0.166,1976
+Eswatini,-1.36,1977
+Eswatini,0.481,1978
+Eswatini,0.257,1979
+Eswatini,-0.06,1980
+Eswatini,-0.589,1981
+Eswatini,0.419,1982
+Eswatini,0.551,1983
+Eswatini,-0.191,1984
+Eswatini,0.518,1985
+Eswatini,0.406,1986
+Eswatini,0.892,1987
+Eswatini,1.245,1988
+Eswatini,0.55,1989
+Eswatini,0.397,1990
+Eswatini,-0.052,1991
+Eswatini,0.899,1992
+Eswatini,-0.235,1993
+Eswatini,0.503,1994
+Eswatini,0.244,1995
+Eswatini,-1.059,1996
+Eswatini,0.032,1997
+Eswatini,1.98,1998
+Eswatini,0.958,1999
+Eswatini,0.482,2000
+Eswatini,0.519,2001
+Eswatini,1.213,2002
+Eswatini,1.573,2003
+Eswatini,0.215,2004
+Eswatini,0.182,2005
+Eswatini,-0.512,2006
+Eswatini,1.692,2007
+Eswatini,0.339,2008
+Eswatini,-0.007,2009
+Eswatini,1.517,2010
+Eswatini,2.257,2011
+Eswatini,0.553,2012
+Eswatini,0.187,2013
+Eswatini,1.315,2014
+Eswatini,1.278,2015
+Eswatini,1.397,2016
+Eswatini,0.065,2017
+Eswatini,1.409,2018
+Eswatini,1.554,2019
+Eswatini,0.648,2020
+Eswatini,1.079,2021
+Ethiopia PDR,-0.353,1961
+Ethiopia PDR,-0.037,1962
+Ethiopia PDR,0.112,1963
+Ethiopia PDR,0.326,1964
+Ethiopia PDR,-0.25,1965
+Ethiopia PDR,-0.224,1966
+Ethiopia PDR,-0.401,1967
+Ethiopia PDR,-0.962,1968
+Ethiopia PDR,0.616,1969
+Ethiopia PDR,-0.049,1970
+Ethiopia PDR,-0.148,1971
+Ethiopia PDR,-0.061,1972
+Ethiopia PDR,0.973,1973
+Ethiopia PDR,-0.853,1974
+Ethiopia PDR,0.326,1975
+Ethiopia PDR,0.277,1976
+Ethiopia PDR,0.143,1977
+Ethiopia PDR,0.08,1978
+Ethiopia PDR,0.144,1979
+Ethiopia PDR,0.72,1980
+Ethiopia PDR,0.136,1981
+Ethiopia PDR,-0.789,1982
+Ethiopia PDR,-0.457,1983
+Ethiopia PDR,0.986,1984
+Ethiopia PDR,1.071,1985
+Ethiopia PDR,0.894,1986
+Ethiopia PDR,0.22,1987
+Ethiopia PDR,1.286,1988
+Ethiopia PDR,-0.196,1989
+Ethiopia PDR,-0.248,1990
+Ethiopia PDR,-0.539,1991
+Ethiopia PDR,0.263,1992
+Ethiopia PDR,0.363,1993
+Ethiopia PDR,0.507,1994
+Ethiopia PDR,0.369,1995
+Ethiopia PDR,0.434,1996
+Ethiopia PDR,0.734,1997
+Ethiopia PDR,0.776,1998
+Ethiopia PDR,-0.052,1999
+Ethiopia PDR,0.356,2000
+Ethiopia PDR,0.667,2001
+Ethiopia PDR,0.999,2002
+Ethiopia PDR,1.13,2003
+Ethiopia PDR,0.639,2004
+Ethiopia PDR,1.373,2005
+Ethiopia PDR,0.818,2006
+Ethiopia PDR,1.031,2007
+Ethiopia PDR,0.022,2008
+Ethiopia PDR,0.825,2009
+Ethiopia PDR,0.78,2010
+Ethiopia PDR,0.295,2011
+Ethiopia PDR,1.08,2012
+Ethiopia PDR,1.518,2013
+Ethiopia PDR,1.224,2014
+Ethiopia PDR,1.758,2015
+Ethiopia PDR,3.094,2016
+Ethiopia PDR,1.742,2017
+Ethiopia PDR,0.732,2018
+Ethiopia PDR,1.589,2019
+Ethiopia PDR,1.39,2020
+Ethiopia PDR,1.55,2021
+Faroe Islands,1.264,1961
+Faroe Islands,-3.306,1962
+Faroe Islands,1.665,1963
+Faroe Islands,1.73,1964
+Faroe Islands,-1.204,1965
+Faroe Islands,-0.581,1966
+Faroe Islands,-0.984,1967
+Faroe Islands,-0.501,1968
+Faroe Islands,-1.52,1969
+Faroe Islands,-2.464,1970
+Faroe Islands,0.189,1971
+Faroe Islands,1.604,1972
+Faroe Islands,1.821,1973
+Faroe Islands,1.333,1974
+Faroe Islands,-0.995,1975
+Faroe Islands,0.462,1976
+Faroe Islands,0.931,1977
+Faroe Islands,0.617,1978
+Faroe Islands,-2.653,1979
+Faroe Islands,-0.208,1980
+Faroe Islands,-1.018,1981
+Faroe Islands,0.406,1982
+Faroe Islands,-0.012,1983
+Faroe Islands,-0.643,1984
+Faroe Islands,-0.856,1985
+Faroe Islands,1.048,1986
+Faroe Islands,-0.996,1987
+Faroe Islands,-0.822,1988
+Faroe Islands,-0.354,1989
+Faroe Islands,0.378,1990
+Faroe Islands,1.95,1991
+Faroe Islands,-0.323,1992
+Faroe Islands,0.92,1993
+Faroe Islands,-1.359,1994
+Faroe Islands,-1.883,1995
+Faroe Islands,0.612,1996
+Faroe Islands,1.014,1997
+Faroe Islands,-0.081,1998
+Faroe Islands,-0.176,1999
+Faroe Islands,-0.233,2000
+Faroe Islands,-0.974,2001
+Faroe Islands,-0.334,2002
+Faroe Islands,2.782,2003
+Faroe Islands,2.181,2004
+Faroe Islands,0.528,2005
+Faroe Islands,-0.9,2006
+Faroe Islands,1.675,2007
+Faroe Islands,-0.606,2008
+Faroe Islands,0.982,2009
+Faroe Islands,0.969,2010
+Faroe Islands,0.387,2011
+Faroe Islands,2.77,2012
+Faroe Islands,-0.557,2013
+Faroe Islands,1.869,2014
+Faroe Islands,0.827,2015
+Faroe Islands,0.841,2016
+Faroe Islands,1.338,2017
+Faroe Islands,-0.087,2018
+Faroe Islands,0.94,2019
+Faroe Islands,0.313,2020
+Faroe Islands,2.002,2021
+Fiji,0.38,1961
+Fiji,-0.124,1962
+Fiji,-0.279,1963
+Fiji,0.006,1964
+Fiji,-0.235,1965
+Fiji,0.604,1966
+Fiji,0.0,1967
+Fiji,-0.244,1968
+Fiji,0.795,1969
+Fiji,0.157,1970
+Fiji,-0.308,1971
+Fiji,-0.291,1972
+Fiji,0.569,1973
+Fiji,-0.457,1974
+Fiji,-0.28,1975
+Fiji,-0.503,1976
+Fiji,0.257,1977
+Fiji,0.211,1978
+Fiji,0.488,1979
+Fiji,0.916,1980
+Fiji,0.64,1981
+Fiji,0.278,1982
+Fiji,0.269,1983
+Fiji,0.352,1984
+Fiji,0.125,1985
+Fiji,0.451,1986
+Fiji,0.471,1987
+Fiji,0.966,1988
+Fiji,0.243,1989
+Fiji,0.214,1990
+Fiji,0.825,1991
+Fiji,0.543,1992
+Fiji,0.156,1993
+Fiji,0.719,1994
+Fiji,0.691,1995
+Fiji,0.716,1996
+Fiji,0.786,1997
+Fiji,1.143,1998
+Fiji,0.684,1999
+Fiji,0.813,2000
+Fiji,0.492,2001
+Fiji,1.013,2002
+Fiji,1.148,2003
+Fiji,0.679,2004
+Fiji,1.138,2005
+Fiji,1.35,2006
+Fiji,0.635,2007
+Fiji,0.474,2008
+Fiji,0.522,2009
+Fiji,0.799,2010
+Fiji,0.462,2011
+Fiji,0.846,2012
+Fiji,0.694,2013
+Fiji,0.96,2014
+Fiji,1.068,2015
+Fiji,1.192,2016
+Fiji,0.954,2017
+Fiji,1.309,2018
+Fiji,0.209,2019
+Fiji,1.166,2020
+Fiji,0.568,2021
+Finland,3.088,1961
+Finland,-5.379,1962
+Finland,-4.738,1963
+Finland,-0.763,1964
+Finland,-0.747,1965
+Finland,-3.067,1966
+Finland,4.759,1967
+Finland,1.643,1968
+Finland,-2.404,1969
+Finland,1.768,1970
+Finland,-2.769,1971
+Finland,1.238,1972
+Finland,2.419,1973
+Finland,2.826,1974
+Finland,4.383,1975
+Finland,-1.603,1976
+Finland,1.128,1977
+Finland,0.759,1978
+Finland,2.042,1979
+Finland,-2.142,1980
+Finland,-3.807,1981
+Finland,3.192,1982
+Finland,1.065,1983
+Finland,-0.959,1984
+Finland,1.525,1985
+Finland,3.89,1986
+Finland,-2.09,1987
+Finland,0.612,1988
+Finland,5.354,1989
+Finland,3.824,1990
+Finland,1.416,1991
+Finland,4.896,1992
+Finland,2.843,1993
+Finland,1.127,1994
+Finland,4.222,1995
+Finland,1.042,1996
+Finland,2.545,1997
+Finland,-1.007,1998
+Finland,1.928,1999
+Finland,2.352,2000
+Finland,-1.834,2001
+Finland,2.59,2002
+Finland,3.986,2003
+Finland,2.734,2004
+Finland,-1.648,2005
+Finland,-3.069,2006
+Finland,6.309,2007
+Finland,1.692,2008
+Finland,1.819,2009
+Finland,-0.095,2010
+Finland,2.198,2011
+Finland,3.762,2012
+Finland,-3.43,2013
+Finland,5.58,2014
+Finland,5.759,2015
+Finland,4.316,2016
+Finland,3.861,2017
+Finland,-1.799,2018
+Finland,2.581,2019
+Finland,4.428,2020
+Finland,3.009,2021
+France,1.72,1961
+France,-2.718,1962
+France,-0.139,1963
+France,-0.948,1964
+France,0.009,1965
+France,-0.427,1966
+France,1.151,1967
+France,0.179,1968
+France,-0.205,1969
+France,-2.241,1970
+France,-3.038,1971
+France,1.344,1972
+France,-0.795,1973
+France,0.732,1974
+France,-1.265,1975
+France,-0.595,1976
+France,1.958,1977
+France,0.771,1978
+France,0.108,1979
+France,-0.407,1980
+France,2.528,1981
+France,-0.309,1982
+France,0.461,1983
+France,-1.42,1984
+France,-1.32,1985
+France,-0.463,1986
+France,-1.66,1987
+France,-0.031,1988
+France,2.775,1989
+France,2.245,1990
+France,2.547,1991
+France,1.125,1992
+France,0.384,1993
+France,2.957,1994
+France,-0.082,1995
+France,-0.457,1996
+France,2.973,1997
+France,1.572,1998
+France,1.534,1999
+France,1.112,2000
+France,2.579,2001
+France,2.232,2002
+France,2.583,2003
+France,-0.091,2004
+France,0.594,2005
+France,-0.005,2006
+France,1.142,2007
+France,0.449,2008
+France,0.757,2009
+France,0.13,2010
+France,1.654,2011
+France,2.953,2012
+France,-0.671,2013
+France,2.222,2014
+France,1.388,2015
+France,0.325,2016
+France,3.358,2017
+France,0.36,2018
+France,2.473,2019
+France,1.701,2020
+France,1.382,2021
+French Polynesia,-0.283,1961
+French Polynesia,-0.218,1962
+French Polynesia,0.228,1963
+French Polynesia,0.099,1964
+French Polynesia,-0.238,1965
+French Polynesia,-0.029,1966
+French Polynesia,-0.324,1967
+French Polynesia,-0.849,1968
+French Polynesia,0.404,1969
+French Polynesia,0.127,1970
+French Polynesia,-0.656,1971
+French Polynesia,0.133,1972
+French Polynesia,0.587,1973
+French Polynesia,-0.757,1974
+French Polynesia,0.019,1975
+French Polynesia,-0.586,1976
+French Polynesia,0.713,1977
+French Polynesia,0.235,1978
+French Polynesia,0.271,1979
+French Polynesia,0.291,1980
+French Polynesia,-0.392,1981
+French Polynesia,0.435,1982
+French Polynesia,0.029,1983
+French Polynesia,0.32,1984
+French Polynesia,0.243,1985
+French Polynesia,0.035,1986
+French Polynesia,0.733,1987
+French Polynesia,0.339,1988
+French Polynesia,-0.11,1989
+French Polynesia,0.17,1990
+French Polynesia,0.195,1991
+French Polynesia,0.273,1992
+French Polynesia,0.132,1993
+French Polynesia,0.82,1994
+French Polynesia,0.696,1995
+French Polynesia,0.191,1996
+French Polynesia,0.08,1997
+French Polynesia,1.013,1998
+French Polynesia,0.316,1999
+French Polynesia,0.26,2000
+French Polynesia,0.601,2001
+French Polynesia,1.131,2002
+French Polynesia,0.805,2003
+French Polynesia,0.538,2004
+French Polynesia,0.748,2005
+French Polynesia,0.863,2006
+French Polynesia,1.024,2007
+French Polynesia,0.054,2008
+French Polynesia,0.73,2009
+French Polynesia,0.768,2010
+French Polynesia,-0.008,2011
+French Polynesia,0.529,2012
+French Polynesia,1.034,2013
+French Polynesia,0.111,2014
+French Polynesia,0.56,2015
+French Polynesia,1.559,2016
+French Polynesia,1.051,2017
+French Polynesia,0.551,2018
+French Polynesia,0.976,2019
+French Polynesia,1.085,2020
+French Polynesia,0.918,2021
+Germany,2.76,1961
+Germany,-3.15,1962
+Germany,-1.011,1963
+Germany,-2.621,1964
+Germany,-1.004,1965
+Germany,-0.052,1966
+Germany,2.119,1967
+Germany,1.071,1968
+Germany,-2.251,1969
+Germany,-2.276,1970
+Germany,-2.522,1971
+Germany,2.049,1972
+Germany,0.615,1973
+Germany,2.281,1974
+Germany,0.376,1975
+Germany,-1.89,1976
+Germany,2.842,1977
+Germany,1.468,1978
+Germany,0.348,1979
+Germany,0.038,1980
+Germany,3.301,1981
+Germany,0.953,1982
+Germany,1.246,1983
+Germany,-1.152,1984
+Germany,-0.468,1985
+Germany,-0.304,1986
+Germany,-3.649,1987
+Germany,-0.579,1988
+Germany,3.746,1989
+Germany,3.706,1990
+Germany,3.249,1991
+Germany,1.619,1992
+Germany,0.413,1993
+Germany,3.089,1994
+Germany,0.001,1995
+Germany,-2.025,1996
+Germany,2.732,1997
+Germany,1.645,1998
+Germany,2.251,1999
+Germany,1.928,2000
+Germany,1.104,2001
+Germany,2.286,2002
+Germany,2.312,2003
+Germany,0.833,2004
+Germany,0.345,2005
+Germany,-1.694,2006
+Germany,2.968,2007
+Germany,1.013,2008
+Germany,1.028,2009
+Germany,0.941,2010
+Germany,1.811,2011
+Germany,3.752,2012
+Germany,-2.817,2013
+Germany,3.942,2014
+Germany,2.07,2015
+Germany,0.943,2016
+Germany,4.039,2017
+Germany,-0.782,2018
+Germany,3.348,2019
+Germany,2.044,2020
+Germany,1.707,2021
+Greece,0.908,1961
+Greece,1.038,1962
+Greece,-0.982,1963
+Greece,0.426,1964
+Greece,0.091,1965
+Greece,0.055,1966
+Greece,-0.231,1967
+Greece,-0.573,1968
+Greece,-0.262,1969
+Greece,0.856,1970
+Greece,-0.394,1971
+Greece,0.195,1972
+Greece,-1.472,1973
+Greece,0.286,1974
+Greece,1.423,1975
+Greece,-0.753,1976
+Greece,0.678,1977
+Greece,0.834,1978
+Greece,1.732,1979
+Greece,-0.467,1980
+Greece,1.735,1981
+Greece,-1.122,1982
+Greece,-0.145,1983
+Greece,-0.478,1984
+Greece,-0.265,1985
+Greece,0.3,1986
+Greece,-3.796,1987
+Greece,-0.331,1988
+Greece,1.585,1989
+Greece,1.753,1990
+Greece,1.114,1991
+Greece,-0.751,1992
+Greece,-0.837,1993
+Greece,0.966,1994
+Greece,0.206,1995
+Greece,-2.236,1996
+Greece,-0.917,1997
+Greece,-1.847,1998
+Greece,0.62,1999
+Greece,-0.41,2000
+Greece,4.205,2001
+Greece,1.823,2002
+Greece,-1.671,2003
+Greece,0.842,2004
+Greece,0.452,2005
+Greece,0.536,2006
+Greece,1.359,2007
+Greece,2.588,2008
+Greece,0.096,2009
+Greece,1.428,2010
+Greece,0.263,2011
+Greece,0.584,2012
+Greece,1.935,2013
+Greece,1.766,2014
+Greece,0.539,2015
+Greece,1.958,2016
+Greece,2.115,2017
+Greece,2.971,2018
+Greece,2.002,2019
+Greece,1.749,2020
+Greece,0.269,2021
+Guatemala,0.257,1961
+Guatemala,-0.248,1962
+Guatemala,0.009,1963
+Guatemala,0.833,1964
+Guatemala,-0.378,1965
+Guatemala,-0.786,1966
+Guatemala,-0.931,1967
+Guatemala,-1.819,1968
+Guatemala,0.052,1969
+Guatemala,0.094,1970
+Guatemala,-0.251,1971
+Guatemala,0.073,1972
+Guatemala,1.563,1973
+Guatemala,-0.141,1974
+Guatemala,0.677,1975
+Guatemala,-0.125,1976
+Guatemala,0.701,1977
+Guatemala,-0.355,1978
+Guatemala,0.516,1979
+Guatemala,1.031,1980
+Guatemala,0.513,1981
+Guatemala,0.378,1982
+Guatemala,0.117,1983
+Guatemala,0.21,1984
+Guatemala,0.465,1985
+Guatemala,-1.315,1986
+Guatemala,0.939,1987
+Guatemala,0.104,1988
+Guatemala,-1.018,1989
+Guatemala,-0.081,1990
+Guatemala,1.016,1991
+Guatemala,0.987,1992
+Guatemala,0.006,1993
+Guatemala,0.618,1994
+Guatemala,0.505,1995
+Guatemala,-0.774,1996
+Guatemala,0.917,1997
+Guatemala,0.522,1998
+Guatemala,0.597,1999
+Guatemala,0.69,2000
+Guatemala,0.187,2001
+Guatemala,0.442,2002
+Guatemala,1.429,2003
+Guatemala,0.74,2004
+Guatemala,2.098,2005
+Guatemala,0.315,2006
+Guatemala,0.452,2007
+Guatemala,0.325,2008
+Guatemala,-0.513,2009
+Guatemala,0.595,2010
+Guatemala,-0.107,2011
+Guatemala,0.206,2012
+Guatemala,-0.049,2013
+Guatemala,1.06,2014
+Guatemala,0.79,2015
+Guatemala,1.9,2016
+Guatemala,0.739,2017
+Guatemala,1.138,2018
+Guatemala,1.178,2019
+Guatemala,1.8,2020
+Guatemala,1.411,2021
+Haiti,0.074,1961
+Haiti,-0.298,1962
+Haiti,-0.14,1963
+Haiti,0.873,1964
+Haiti,0.269,1965
+Haiti,-0.027,1966
+Haiti,-0.975,1967
+Haiti,-1.024,1968
+Haiti,0.735,1969
+Haiti,0.02,1970
+Haiti,0.023,1971
+Haiti,-0.476,1972
+Haiti,0.801,1973
+Haiti,-0.121,1974
+Haiti,0.671,1975
+Haiti,-0.618,1976
+Haiti,0.671,1977
+Haiti,0.284,1978
+Haiti,-0.36,1979
+Haiti,0.317,1980
+Haiti,0.34,1981
+Haiti,0.705,1982
+Haiti,1.006,1983
+Haiti,0.533,1984
+Haiti,-0.075,1985
+Haiti,0.329,1986
+Haiti,0.657,1987
+Haiti,0.415,1988
+Haiti,-0.173,1989
+Haiti,0.376,1990
+Haiti,0.804,1991
+Haiti,0.796,1992
+Haiti,0.288,1993
+Haiti,0.958,1994
+Haiti,0.911,1995
+Haiti,0.771,1996
+Haiti,1.109,1997
+Haiti,1.058,1998
+Haiti,0.639,1999
+Haiti,0.914,2000
+Haiti,0.861,2001
+Haiti,1.001,2002
+Haiti,2.051,2003
+Haiti,1.017,2004
+Haiti,1.688,2005
+Haiti,0.882,2006
+Haiti,1.243,2007
+Haiti,0.567,2008
+Haiti,-0.186,2009
+Haiti,1.408,2010
+Haiti,0.481,2011
+Haiti,0.621,2012
+Haiti,0.511,2013
+Haiti,1.172,2014
+Haiti,1.511,2015
+Haiti,0.826,2016
+Haiti,0.873,2017
+Haiti,0.636,2018
+Haiti,1.555,2019
+Haiti,1.335,2020
+Haiti,0.901,2021
+Honduras,0.053,1961
+Honduras,0.129,1962
+Honduras,-0.143,1963
+Honduras,0.619,1964
+Honduras,0.101,1965
+Honduras,-0.647,1966
+Honduras,-0.88,1967
+Honduras,-1.39,1968
+Honduras,0.525,1969
+Honduras,0.161,1970
+Honduras,0.038,1971
+Honduras,-0.211,1972
+Honduras,1.313,1973
+Honduras,-0.305,1974
+Honduras,0.387,1975
+Honduras,-0.266,1976
+Honduras,0.783,1977
+Honduras,0.068,1978
+Honduras,0.244,1979
+Honduras,0.842,1980
+Honduras,0.899,1981
+Honduras,0.06,1982
+Honduras,0.343,1983
+Honduras,0.057,1984
+Honduras,0.612,1985
+Honduras,-0.981,1986
+Honduras,0.668,1987
+Honduras,0.471,1988
+Honduras,-0.562,1989
+Honduras,-0.048,1990
+Honduras,1.06,1991
+Honduras,0.736,1992
+Honduras,-0.034,1993
+Honduras,0.767,1994
+Honduras,1.174,1995
+Honduras,-1.398,1996
+Honduras,0.59,1997
+Honduras,0.637,1998
+Honduras,0.832,1999
+Honduras,0.417,2000
+Honduras,0.168,2001
+Honduras,0.352,2002
+Honduras,1.119,2003
+Honduras,0.339,2004
+Honduras,2.151,2005
+Honduras,0.476,2006
+Honduras,0.369,2007
+Honduras,0.783,2008
+Honduras,-0.43,2009
+Honduras,0.544,2010
+Honduras,0.343,2011
+Honduras,0.626,2012
+Honduras,0.047,2013
+Honduras,1.372,2014
+Honduras,1.021,2015
+Honduras,1.75,2016
+Honduras,0.619,2017
+Honduras,0.86,2018
+Honduras,0.883,2019
+Honduras,1.468,2020
+Honduras,1.004,2021
+Hungary,2.717,1961
+Hungary,-3.366,1962
+Hungary,-2.198,1963
+Hungary,-2.476,1964
+Hungary,0.066,1965
+Hungary,0.082,1966
+Hungary,1.795,1967
+Hungary,0.695,1968
+Hungary,-1.593,1969
+Hungary,-1.002,1970
+Hungary,-2.368,1971
+Hungary,2.631,1972
+Hungary,-0.028,1973
+Hungary,2.866,1974
+Hungary,2.478,1975
+Hungary,-2.808,1976
+Hungary,3.587,1977
+Hungary,1.621,1978
+Hungary,2.356,1979
+Hungary,-0.16,1980
+Hungary,3.135,1981
+Hungary,0.404,1982
+Hungary,1.896,1983
+Hungary,-0.676,1984
+Hungary,-0.354,1985
+Hungary,-0.937,1986
+Hungary,-4.868,1987
+Hungary,-0.567,1988
+Hungary,3.377,1989
+Hungary,4.106,1990
+Hungary,2.581,1991
+Hungary,0.966,1992
+Hungary,-0.96,1993
+Hungary,3.42,1994
+Hungary,0.212,1995
+Hungary,-3.053,1996
+Hungary,0.489,1997
+Hungary,-0.796,1998
+Hungary,2.161,1999
+Hungary,1.116,2000
+Hungary,3.255,2001
+Hungary,2.884,2002
+Hungary,0.524,2003
+Hungary,0.345,2004
+Hungary,-1.264,2005
+Hungary,-0.985,2006
+Hungary,3.293,2007
+Hungary,1.65,2008
+Hungary,0.973,2009
+Hungary,1.129,2010
+Hungary,1.265,2011
+Hungary,2.843,2012
+Hungary,-1.145,2013
+Hungary,4.4,2014
+Hungary,1.867,2015
+Hungary,2.086,2016
+Hungary,4.253,2017
+Hungary,-1.065,2018
+Hungary,3.681,2019
+Hungary,2.265,2020
+Hungary,0.607,2021
+Iceland,-0.001,1961
+Iceland,-2.93,1962
+Iceland,2.953,1963
+Iceland,4.276,1964
+Iceland,-2.02,1965
+Iceland,-1.311,1966
+Iceland,-3.567,1967
+Iceland,-1.966,1968
+Iceland,-1.555,1969
+Iceland,-2.873,1970
+Iceland,0.34,1971
+Iceland,1.894,1972
+Iceland,1.245,1973
+Iceland,3.048,1974
+Iceland,-0.431,1975
+Iceland,0.928,1976
+Iceland,1.49,1977
+Iceland,0.343,1978
+Iceland,-4.177,1979
+Iceland,0.559,1980
+Iceland,-1.732,1981
+Iceland,0.275,1982
+Iceland,-1.203,1983
+Iceland,0.66,1984
+Iceland,-0.615,1985
+Iceland,0.339,1986
+Iceland,-0.118,1987
+Iceland,-1.21,1988
+Iceland,-1.383,1989
+Iceland,-2.075,1990
+Iceland,1.625,1991
+Iceland,-0.211,1992
+Iceland,0.964,1993
+Iceland,-1.426,1994
+Iceland,-1.993,1995
+Iceland,1.961,1996
+Iceland,-0.169,1997
+Iceland,-1.38,1998
+Iceland,-1.337,1999
+Iceland,-0.15,2000
+Iceland,-1.241,2001
+Iceland,-0.685,2002
+Iceland,2.889,2003
+Iceland,3.167,2004
+Iceland,2.234,2005
+Iceland,0.074,2006
+Iceland,1.802,2007
+Iceland,-0.343,2008
+Iceland,-0.303,2009
+Iceland,1.812,2010
+Iceland,-0.312,2011
+Iceland,2.533,2012
+Iceland,0.003,2013
+Iceland,1.74,2014
+Iceland,0.848,2015
+Iceland,1.963,2016
+Iceland,1.416,2017
+Iceland,1.374,2018
+Iceland,0.819,2019
+Iceland,0.001,2020
+Iceland,1.865,2021
+India,0.512,1961
+India,-0.59,1962
+India,-0.284,1963
+India,0.922,1964
+India,-0.909,1965
+India,-0.1,1966
+India,-1.049,1967
+India,-0.52,1968
+India,1.274,1969
+India,-0.351,1970
+India,-0.509,1971
+India,0.114,1972
+India,0.265,1973
+India,0.911,1974
+India,-0.198,1975
+India,0.212,1976
+India,1.407,1977
+India,-1.073,1978
+India,-0.609,1979
+India,-0.042,1980
+India,-0.397,1981
+India,-1.041,1982
+India,-0.258,1983
+India,0.774,1984
+India,1.489,1985
+India,0.243,1986
+India,0.177,1987
+India,0.454,1988
+India,-0.426,1989
+India,-0.983,1990
+India,0.538,1991
+India,0.296,1992
+India,-0.784,1993
+India,1.193,1994
+India,-0.496,1995
+India,1.237,1996
+India,0.208,1997
+India,-0.455,1998
+India,1.023,1999
+India,-0.305,2000
+India,0.449,2001
+India,0.941,2002
+India,0.298,2003
+India,1.931,2004
+India,0.856,2005
+India,0.152,2006
+India,0.094,2007
+India,0.807,2008
+India,1.148,2009
+India,2.323,2010
+India,0.67,2011
+India,0.431,2012
+India,0.686,2013
+India,-0.244,2014
+India,-0.049,2015
+India,1.699,2016
+India,0.669,2017
+India,1.475,2018
+India,0.234,2019
+India,-0.208,2020
+India,1.672,2021
+Indonesia,0.134,1961
+Indonesia,-0.266,1962
+Indonesia,-0.253,1963
+Indonesia,-0.077,1964
+Indonesia,-0.247,1965
+Indonesia,0.058,1966
+Indonesia,-0.259,1967
+Indonesia,0.021,1968
+Indonesia,0.355,1969
+Indonesia,0.379,1970
+Indonesia,-0.067,1971
+Indonesia,-0.221,1972
+Indonesia,0.233,1973
+Indonesia,-0.161,1974
+Indonesia,-0.13,1975
+Indonesia,-0.12,1976
+Indonesia,-0.105,1977
+Indonesia,0.325,1978
+Indonesia,0.243,1979
+Indonesia,0.232,1980
+Indonesia,0.253,1981
+Indonesia,-0.152,1982
+Indonesia,1.032,1983
+Indonesia,-0.194,1984
+Indonesia,0.318,1985
+Indonesia,-0.197,1986
+Indonesia,0.481,1987
+Indonesia,0.576,1988
+Indonesia,-0.009,1989
+Indonesia,0.172,1990
+Indonesia,0.52,1991
+Indonesia,0.866,1992
+Indonesia,0.014,1993
+Indonesia,-0.169,1994
+Indonesia,0.112,1995
+Indonesia,0.706,1996
+Indonesia,0.579,1997
+Indonesia,1.524,1998
+Indonesia,0.372,1999
+Indonesia,0.32,2000
+Indonesia,0.383,2001
+Indonesia,0.534,2002
+Indonesia,0.62,2003
+Indonesia,0.706,2004
+Indonesia,0.86,2005
+Indonesia,0.562,2006
+Indonesia,0.362,2007
+Indonesia,0.021,2008
+Indonesia,0.399,2009
+Indonesia,1.01,2010
+Indonesia,0.165,2011
+Indonesia,0.268,2012
+Indonesia,1.037,2013
+Indonesia,1.084,2014
+Indonesia,0.647,2015
+Indonesia,1.782,2016
+Indonesia,1.004,2017
+Indonesia,1.046,2018
+Indonesia,1.2,2019
+Indonesia,1.483,2020
+Indonesia,0.986,2021
+Iran (Islamic Republic of),-0.457,1961
+Iran (Islamic Republic of),2.072,1962
+Iran (Islamic Republic of),-0.01,1963
+Iran (Islamic Republic of),1.398,1964
+Iran (Islamic Republic of),0.077,1965
+Iran (Islamic Republic of),0.235,1966
+Iran (Islamic Republic of),-0.992,1967
+Iran (Islamic Republic of),0.07,1968
+Iran (Islamic Republic of),1.862,1969
+Iran (Islamic Republic of),0.477,1970
+Iran (Islamic Republic of),1.149,1971
+Iran (Islamic Republic of),-2.102,1972
+Iran (Islamic Republic of),0.281,1973
+Iran (Islamic Republic of),0.241,1974
+Iran (Islamic Republic of),-0.559,1975
+Iran (Islamic Republic of),-2.972,1976
+Iran (Islamic Republic of),3.049,1977
+Iran (Islamic Republic of),0.436,1978
+Iran (Islamic Republic of),-0.606,1979
+Iran (Islamic Republic of),0.199,1980
+Iran (Islamic Republic of),1.59,1981
+Iran (Islamic Republic of),-1.611,1982
+Iran (Islamic Republic of),-2.017,1983
+Iran (Islamic Republic of),1.217,1984
+Iran (Islamic Republic of),-1.137,1985
+Iran (Islamic Republic of),-1.859,1986
+Iran (Islamic Republic of),0.198,1987
+Iran (Islamic Republic of),0.696,1988
+Iran (Islamic Republic of),0.17,1989
+Iran (Islamic Republic of),0.031,1990
+Iran (Islamic Republic of),-0.373,1991
+Iran (Islamic Republic of),-3.074,1992
+Iran (Islamic Republic of),-0.718,1993
+Iran (Islamic Republic of),0.907,1994
+Iran (Islamic Republic of),0.048,1995
+Iran (Islamic Republic of),-0.909,1996
+Iran (Islamic Republic of),-1.533,1997
+Iran (Islamic Republic of),0.352,1998
+Iran (Islamic Republic of),0.23,1999
+Iran (Islamic Republic of),0.188,2000
+Iran (Islamic Republic of),2.212,2001
+Iran (Islamic Republic of),2.298,2002
+Iran (Islamic Republic of),0.143,2003
+Iran (Islamic Republic of),2.85,2004
+Iran (Islamic Republic of),1.341,2005
+Iran (Islamic Republic of),2.302,2006
+Iran (Islamic Republic of),-0.014,2007
+Iran (Islamic Republic of),4.325,2008
+Iran (Islamic Republic of),2.26,2009
+Iran (Islamic Republic of),3.498,2010
+Iran (Islamic Republic of),0.877,2011
+Iran (Islamic Republic of),-0.304,2012
+Iran (Islamic Republic of),2.54,2013
+Iran (Islamic Republic of),1.295,2014
+Iran (Islamic Republic of),0.614,2015
+Iran (Islamic Republic of),2.589,2016
+Iran (Islamic Republic of),1.44,2017
+Iran (Islamic Republic of),4.614,2018
+Iran (Islamic Republic of),0.135,2019
+Iran (Islamic Republic of),1.205,2020
+Iran (Islamic Republic of),3.001,2021
+Iraq,-1.964,1961
+Iraq,2.23,1962
+Iraq,-1.208,1963
+Iraq,1.345,1964
+Iraq,0.754,1965
+Iraq,0.133,1966
+Iraq,-2.213,1967
+Iraq,-0.327,1968
+Iraq,2.52,1969
+Iraq,1.407,1970
+Iraq,1.076,1971
+Iraq,-1.024,1972
+Iraq,0.074,1973
+Iraq,0.045,1974
+Iraq,-0.492,1975
+Iraq,-2.069,1976
+Iraq,1.502,1977
+Iraq,1.018,1978
+Iraq,0.596,1979
+Iraq,0.372,1980
+Iraq,0.841,1981
+Iraq,-1.861,1982
+Iraq,-1.978,1983
+Iraq,0.844,1984
+Iraq,-1.769,1985
+Iraq,0.004,1986
+Iraq,-1.721,1987
+Iraq,-0.466,1988
+Iraq,0.737,1989
+Iraq,-0.195,1990
+Iraq,0.582,1991
+Iraq,-3.7,1992
+Iraq,-1.183,1993
+Iraq,0.716,1994
+Iraq,0.738,1995
+Iraq,-0.366,1996
+Iraq,-2.01,1997
+Iraq,-0.645,1998
+Iraq,0.504,1999
+Iraq,-0.55,2000
+Iraq,2.843,2001
+Iraq,1.822,2002
+Iraq,-0.989,2003
+Iraq,2.585,2004
+Iraq,0.923,2005
+Iraq,1.957,2006
+Iraq,0.213,2007
+Iraq,4.549,2008
+Iraq,0.999,2009
+Iraq,3.605,2010
+Iraq,0.479,2011
+Iraq,-1.392,2012
+Iraq,2.257,2013
+Iraq,2.29,2014
+Iraq,1.409,2015
+Iraq,2.225,2016
+Iraq,1.23,2017
+Iraq,5.384,2018
+Iraq,0.083,2019
+Iraq,2.017,2020
+Iraq,2.399,2021
+Ireland,2.434,1961
+Ireland,-2.246,1962
+Ireland,0.48,1963
+Ireland,-0.244,1964
+Ireland,-0.115,1965
+Ireland,1.091,1966
+Ireland,0.402,1967
+Ireland,0.092,1968
+Ireland,-1.507,1969
+Ireland,-1.071,1970
+Ireland,-0.259,1971
+Ireland,-0.111,1972
+Ireland,0.375,1973
+Ireland,-0.131,1974
+Ireland,-0.829,1975
+Ireland,0.127,1976
+Ireland,1.06,1977
+Ireland,0.377,1978
+Ireland,-1.546,1979
+Ireland,-0.866,1980
+Ireland,1.617,1981
+Ireland,0.133,1982
+Ireland,1.022,1983
+Ireland,-0.851,1984
+Ireland,-0.663,1985
+Ireland,-0.466,1986
+Ireland,-0.689,1987
+Ireland,0.841,1988
+Ireland,0.747,1989
+Ireland,2.212,1990
+Ireland,1.503,1991
+Ireland,1.481,1992
+Ireland,0.602,1993
+Ireland,1.122,1994
+Ireland,-0.421,1995
+Ireland,-0.561,1996
+Ireland,2.072,1997
+Ireland,2.132,1998
+Ireland,1.174,1999
+Ireland,1.565,2000
+Ireland,-0.415,2001
+Ireland,1.5,2002
+Ireland,1.741,2003
+Ireland,0.966,2004
+Ireland,1.916,2005
+Ireland,-0.219,2006
+Ireland,1.007,2007
+Ireland,0.383,2008
+Ireland,1.312,2009
+Ireland,-0.095,2010
+Ireland,0.782,2011
+Ireland,2.848,2012
+Ireland,-1.976,2013
+Ireland,1.131,2014
+Ireland,0.431,2015
+Ireland,0.592,2016
+Ireland,2.251,2017
+Ireland,-1.151,2018
+Ireland,1.462,2019
+Ireland,0.512,2020
+Ireland,1.49,2021
+Israel,-1.704,1961
+Israel,2.529,1962
+Israel,-0.856,1963
+Israel,0.918,1964
+Israel,1.158,1965
+Israel,-0.012,1966
+Israel,-2.63,1967
+Israel,-1.092,1968
+Israel,1.85,1969
+Israel,1.603,1970
+Israel,0.492,1971
+Israel,-0.547,1972
+Israel,-0.445,1973
+Israel,0.474,1974
+Israel,0.393,1975
+Israel,-0.552,1976
+Israel,-0.636,1977
+Israel,0.431,1978
+Israel,1.169,1979
+Israel,-0.426,1980
+Israel,0.512,1981
+Israel,-2.008,1982
+Israel,-1.862,1983
+Israel,0.537,1984
+Israel,-0.199,1985
+Israel,0.898,1986
+Israel,-2.468,1987
+Israel,-0.991,1988
+Israel,-0.499,1989
+Israel,-0.564,1990
+Israel,1.236,1991
+Israel,-2.052,1992
+Israel,-1.06,1993
+Israel,-0.477,1994
+Israel,0.198,1995
+Israel,-0.513,1996
+Israel,-2.05,1997
+Israel,-1.014,1998
+Israel,0.853,1999
+Israel,-1.477,2000
+Israel,3.349,2001
+Israel,1.849,2002
+Israel,-1.82,2003
+Israel,1.549,2004
+Israel,0.626,2005
+Israel,0.779,2006
+Israel,-0.09,2007
+Israel,3.327,2008
+Israel,-0.415,2009
+Israel,3.095,2010
+Israel,0.286,2011
+Israel,-1.013,2012
+Israel,2.806,2013
+Israel,1.747,2014
+Israel,1.658,2015
+Israel,2.217,2016
+Israel,0.644,2017
+Israel,3.632,2018
+Israel,-0.498,2019
+Israel,1.21,2020
+Israel,0.871,2021
+Italy,1.43,1961
+Italy,-1.842,1962
+Italy,-0.936,1963
+Italy,0.239,1964
+Italy,-0.181,1965
+Italy,-0.638,1966
+Italy,1.136,1967
+Italy,0.29,1968
+Italy,-0.131,1969
+Italy,-1.067,1970
+Italy,-2.605,1971
+Italy,1.745,1972
+Italy,-1.428,1973
+Italy,0.849,1974
+Italy,0.089,1975
+Italy,-1.087,1976
+Italy,2.148,1977
+Italy,0.59,1978
+Italy,1.063,1979
+Italy,-0.003,1980
+Italy,1.746,1981
+Italy,-0.834,1982
+Italy,0.454,1983
+Italy,-1.229,1984
+Italy,-0.594,1985
+Italy,-0.001,1986
+Italy,-2.984,1987
+Italy,-0.256,1988
+Italy,2.558,1989
+Italy,2.117,1990
+Italy,2.433,1991
+Italy,0.65,1992
+Italy,-0.62,1993
+Italy,3.029,1994
+Italy,-0.475,1995
+Italy,-0.85,1996
+Italy,1.75,1997
+Italy,0.03,1998
+Italy,0.931,1999
+Italy,1.167,2000
+Italy,3.468,2001
+Italy,2.443,2002
+Italy,0.787,2003
+Italy,-0.042,2004
+Italy,0.161,2005
+Italy,-0.191,2006
+Italy,1.628,2007
+Italy,1.032,2008
+Italy,0.687,2009
+Italy,0.495,2010
+Italy,0.895,2011
+Italy,2.533,2012
+Italy,0.568,2013
+Italy,1.788,2014
+Italy,1.169,2015
+Italy,1.136,2016
+Italy,2.721,2017
+Italy,0.641,2018
+Italy,2.145,2019
+Italy,1.224,2020
+Italy,0.671,2021
+Japan,0.607,1961
+Japan,-0.249,1962
+Japan,-0.055,1963
+Japan,-0.181,1964
+Japan,-1.622,1965
+Japan,1.388,1966
+Japan,0.582,1967
+Japan,0.651,1968
+Japan,-0.877,1969
+Japan,-2.774,1970
+Japan,-0.509,1971
+Japan,0.606,1972
+Japan,-0.594,1973
+Japan,-0.821,1974
+Japan,-0.396,1975
+Japan,0.105,1976
+Japan,0.566,1977
+Japan,-0.405,1978
+Japan,0.304,1979
+Japan,-0.015,1980
+Japan,0.124,1981
+Japan,0.953,1982
+Japan,0.036,1983
+Japan,-2.361,1984
+Japan,0.457,1985
+Japan,-0.507,1986
+Japan,0.448,1987
+Japan,-0.179,1988
+Japan,1.117,1989
+Japan,1.713,1990
+Japan,1.295,1991
+Japan,1.549,1992
+Japan,0.288,1993
+Japan,-0.475,1994
+Japan,0.495,1995
+Japan,0.275,1996
+Japan,1.248,1997
+Japan,1.52,1998
+Japan,1.399,1999
+Japan,0.237,2000
+Japan,0.476,2001
+Japan,2.488,2002
+Japan,0.159,2003
+Japan,1.004,2004
+Japan,-0.03,2005
+Japan,0.532,2006
+Japan,1.214,2007
+Japan,1.793,2008
+Japan,1.327,2009
+Japan,0.85,2010
+Japan,-0.549,2011
+Japan,0.41,2012
+Japan,1.838,2013
+Japan,0.965,2014
+Japan,1.878,2015
+Japan,1.825,2016
+Japan,0.514,2017
+Japan,2.53,2018
+Japan,2.033,2019
+Japan,2.644,2020
+Japan,3.568,2021
+Jordan,-1.726,1961
+Jordan,2.787,1962
+Jordan,-0.948,1963
+Jordan,1.02,1964
+Jordan,1.276,1965
+Jordan,0.061,1966
+Jordan,-2.805,1967
+Jordan,-1.019,1968
+Jordan,2.192,1969
+Jordan,1.0,1970
+Jordan,0.536,1971
+Jordan,-0.571,1972
+Jordan,-0.295,1973
+Jordan,0.53,1974
+Jordan,0.115,1975
+Jordan,-0.837,1976
+Jordan,-0.451,1977
+Jordan,0.388,1978
+Jordan,1.23,1979
+Jordan,-0.443,1980
+Jordan,0.556,1981
+Jordan,-2.22,1982
+Jordan,-1.87,1983
+Jordan,0.354,1984
+Jordan,-0.592,1985
+Jordan,0.9,1986
+Jordan,-2.811,1987
+Jordan,-1.151,1988
+Jordan,-0.055,1989
+Jordan,-0.779,1990
+Jordan,1.237,1991
+Jordan,-2.77,1992
+Jordan,-1.23,1993
+Jordan,0.21,1994
+Jordan,0.419,1995
+Jordan,-0.637,1996
+Jordan,-2.361,1997
+Jordan,-1.246,1998
+Jordan,0.759,1999
+Jordan,-1.321,2000
+Jordan,3.657,2001
+Jordan,1.678,2002
+Jordan,-1.983,2003
+Jordan,1.803,2004
+Jordan,1.055,2005
+Jordan,0.948,2006
+Jordan,-0.509,2007
+Jordan,3.657,2008
+Jordan,-0.402,2009
+Jordan,3.118,2010
+Jordan,0.12,2011
+Jordan,-1.385,2012
+Jordan,2.264,2013
+Jordan,2.03,2014
+Jordan,1.65,2015
+Jordan,2.332,2016
+Jordan,0.49,2017
+Jordan,4.261,2018
+Jordan,-0.556,2019
+Jordan,1.413,2020
+Jordan,1.204,2021
+Kenya,0.532,1961
+Kenya,-0.429,1962
+Kenya,-0.179,1963
+Kenya,0.098,1964
+Kenya,-0.25,1965
+Kenya,-0.277,1966
+Kenya,0.505,1967
+Kenya,-1.336,1968
+Kenya,-0.17,1969
+Kenya,0.146,1970
+Kenya,-0.383,1971
+Kenya,-0.059,1972
+Kenya,0.938,1973
+Kenya,-0.484,1974
+Kenya,0.703,1975
+Kenya,0.14,1976
+Kenya,0.237,1977
+Kenya,-0.515,1978
+Kenya,-0.232,1979
+Kenya,0.193,1980
+Kenya,-0.159,1981
+Kenya,0.729,1982
+Kenya,0.951,1983
+Kenya,0.455,1984
+Kenya,0.061,1985
+Kenya,0.365,1986
+Kenya,1.124,1987
+Kenya,1.097,1988
+Kenya,0.037,1989
+Kenya,-0.821,1990
+Kenya,0.433,1991
+Kenya,1.0,1992
+Kenya,-0.169,1993
+Kenya,0.615,1994
+Kenya,-0.057,1995
+Kenya,0.254,1996
+Kenya,1.053,1997
+Kenya,0.374,1998
+Kenya,0.233,1999
+Kenya,0.761,2000
+Kenya,0.532,2001
+Kenya,0.791,2002
+Kenya,1.207,2003
+Kenya,0.964,2004
+Kenya,1.081,2005
+Kenya,0.77,2006
+Kenya,0.974,2007
+Kenya,0.382,2008
+Kenya,1.489,2009
+Kenya,0.491,2010
+Kenya,0.754,2011
+Kenya,1.042,2012
+Kenya,1.063,2013
+Kenya,0.982,2014
+Kenya,1.078,2015
+Kenya,2.183,2016
+Kenya,1.777,2017
+Kenya,-0.18,2018
+Kenya,1.667,2019
+Kenya,1.307,2020
+Kenya,1.168,2021
+Lao People's Democratic Republic,0.277,1961
+Lao People's Democratic Republic,-1.008,1962
+Lao People's Democratic Republic,-1.137,1963
+Lao People's Democratic Republic,-0.224,1964
+Lao People's Democratic Republic,-0.473,1965
+Lao People's Democratic Republic,0.696,1966
+Lao People's Democratic Republic,-0.523,1967
+Lao People's Democratic Republic,0.318,1968
+Lao People's Democratic Republic,0.625,1969
+Lao People's Democratic Republic,0.842,1970
+Lao People's Democratic Republic,-0.293,1971
+Lao People's Democratic Republic,-1.245,1972
+Lao People's Democratic Republic,0.823,1973
+Lao People's Democratic Republic,-1.097,1974
+Lao People's Democratic Republic,0.715,1975
+Lao People's Democratic Republic,-0.671,1976
+Lao People's Democratic Republic,-0.775,1977
+Lao People's Democratic Republic,0.732,1978
+Lao People's Democratic Republic,1.412,1979
+Lao People's Democratic Republic,1.527,1980
+Lao People's Democratic Republic,1.314,1981
+Lao People's Democratic Republic,1.019,1982
+Lao People's Democratic Republic,0.094,1983
+Lao People's Democratic Republic,0.516,1984
+Lao People's Democratic Republic,-0.016,1985
+Lao People's Democratic Republic,-0.601,1986
+Lao People's Democratic Republic,1.202,1987
+Lao People's Democratic Republic,1.058,1988
+Lao People's Democratic Republic,-0.594,1989
+Lao People's Democratic Republic,-0.302,1990
+Lao People's Democratic Republic,1.842,1991
+Lao People's Democratic Republic,0.878,1992
+Lao People's Democratic Republic,0.447,1993
+Lao People's Democratic Republic,-0.829,1994
+Lao People's Democratic Republic,0.847,1995
+Lao People's Democratic Republic,0.754,1996
+Lao People's Democratic Republic,0.391,1997
+Lao People's Democratic Republic,1.616,1998
+Lao People's Democratic Republic,1.438,1999
+Lao People's Democratic Republic,0.221,2000
+Lao People's Democratic Republic,0.099,2001
+Lao People's Democratic Republic,0.726,2002
+Lao People's Democratic Republic,0.238,2003
+Lao People's Democratic Republic,0.963,2004
+Lao People's Democratic Republic,-0.291,2005
+Lao People's Democratic Republic,1.006,2006
+Lao People's Democratic Republic,1.327,2007
+Lao People's Democratic Republic,-0.198,2008
+Lao People's Democratic Republic,0.896,2009
+Lao People's Democratic Republic,1.042,2010
+Lao People's Democratic Republic,-2.209,2011
+Lao People's Democratic Republic,0.498,2012
+Lao People's Democratic Republic,1.446,2013
+Lao People's Democratic Republic,1.349,2014
+Lao People's Democratic Republic,1.792,2015
+Lao People's Democratic Republic,1.079,2016
+Lao People's Democratic Republic,1.055,2017
+Lao People's Democratic Republic,1.197,2018
+Lao People's Democratic Republic,2.082,2019
+Lao People's Democratic Republic,2.432,2020
+Lao People's Democratic Republic,2.11,2021
+Lebanon,-1.319,1961
+Lebanon,2.342,1962
+Lebanon,-1.089,1963
+Lebanon,1.041,1964
+Lebanon,0.987,1965
+Lebanon,0.097,1966
+Lebanon,-2.283,1967
+Lebanon,-0.895,1968
+Lebanon,1.491,1969
+Lebanon,1.465,1970
+Lebanon,0.447,1971
+Lebanon,-0.311,1972
+Lebanon,-0.332,1973
+Lebanon,0.474,1974
+Lebanon,0.328,1975
+Lebanon,-0.847,1976
+Lebanon,-0.194,1977
+Lebanon,0.563,1978
+Lebanon,1.027,1979
+Lebanon,-0.548,1980
+Lebanon,0.903,1981
+Lebanon,-1.771,1982
+Lebanon,-1.34,1983
+Lebanon,0.485,1984
+Lebanon,-0.742,1985
+Lebanon,1.066,1986
+Lebanon,-2.893,1987
+Lebanon,-1.027,1988
+Lebanon,0.621,1989
+Lebanon,-0.034,1990
+Lebanon,1.337,1991
+Lebanon,-2.08,1992
+Lebanon,-0.987,1993
+Lebanon,0.461,1994
+Lebanon,0.46,1995
+Lebanon,-0.367,1996
+Lebanon,-2.211,1997
+Lebanon,-0.811,1998
+Lebanon,0.899,1999
+Lebanon,-0.954,2000
+Lebanon,3.689,2001
+Lebanon,1.719,2002
+Lebanon,-1.509,2003
+Lebanon,1.798,2004
+Lebanon,1.194,2005
+Lebanon,1.057,2006
+Lebanon,0.289,2007
+Lebanon,3.667,2008
+Lebanon,-0.183,2009
+Lebanon,2.935,2010
+Lebanon,0.638,2011
+Lebanon,-1.169,2012
+Lebanon,2.25,2013
+Lebanon,2.259,2014
+Lebanon,1.712,2015
+Lebanon,2.344,2016
+Lebanon,1.111,2017
+Lebanon,3.755,2018
+Lebanon,0.048,2019
+Lebanon,1.492,2020
+Lebanon,0.881,2021
+Lesotho,0.584,1961
+Lesotho,-0.041,1962
+Lesotho,-1.345,1963
+Lesotho,1.788,1964
+Lesotho,0.872,1965
+Lesotho,0.928,1966
+Lesotho,-0.607,1967
+Lesotho,-1.044,1968
+Lesotho,-0.143,1969
+Lesotho,0.63,1970
+Lesotho,1.014,1971
+Lesotho,-0.493,1972
+Lesotho,1.563,1973
+Lesotho,-0.196,1974
+Lesotho,-1.582,1975
+Lesotho,-0.067,1976
+Lesotho,-1.135,1977
+Lesotho,1.087,1978
+Lesotho,0.251,1979
+Lesotho,0.71,1980
+Lesotho,-0.924,1981
+Lesotho,-0.215,1982
+Lesotho,1.107,1983
+Lesotho,0.608,1984
+Lesotho,-0.222,1985
+Lesotho,0.518,1986
+Lesotho,0.558,1987
+Lesotho,1.149,1988
+Lesotho,0.084,1989
+Lesotho,-0.299,1990
+Lesotho,-0.189,1991
+Lesotho,0.622,1992
+Lesotho,0.635,1993
+Lesotho,0.016,1994
+Lesotho,0.124,1995
+Lesotho,-0.639,1996
+Lesotho,-0.075,1997
+Lesotho,0.662,1998
+Lesotho,1.931,1999
+Lesotho,1.247,2000
+Lesotho,1.069,2001
+Lesotho,1.056,2002
+Lesotho,0.782,2003
+Lesotho,1.383,2004
+Lesotho,-0.462,2005
+Lesotho,0.085,2006
+Lesotho,0.394,2007
+Lesotho,-0.334,2008
+Lesotho,0.168,2009
+Lesotho,1.214,2010
+Lesotho,1.527,2011
+Lesotho,0.796,2012
+Lesotho,1.086,2013
+Lesotho,0.679,2014
+Lesotho,0.784,2015
+Lesotho,1.911,2016
+Lesotho,0.844,2017
+Lesotho,0.356,2018
+Lesotho,1.823,2019
+Lesotho,0.674,2020
+Lesotho,0.268,2021
+Libya,-2.189,1961
+Libya,1.796,1962
+Libya,-0.914,1963
+Libya,1.768,1964
+Libya,-0.437,1965
+Libya,-1.247,1966
+Libya,-2.249,1967
+Libya,-0.322,1968
+Libya,3.135,1969
+Libya,0.209,1970
+Libya,0.87,1971
+Libya,0.134,1972
+Libya,-0.561,1973
+Libya,0.958,1974
+Libya,0.462,1975
+Libya,-2.088,1976
+Libya,-0.47,1977
+Libya,-0.039,1978
+Libya,1.613,1979
+Libya,-0.031,1980
+Libya,1.717,1981
+Libya,-1.349,1982
+Libya,-1.7,1983
+Libya,0.16,1984
+Libya,0.56,1985
+Libya,0.683,1986
+Libya,-0.58,1987
+Libya,-0.214,1988
+Libya,-0.311,1989
+Libya,-0.049,1990
+Libya,1.41,1991
+Libya,-0.875,1992
+Libya,-0.952,1993
+Libya,0.666,1994
+Libya,0.441,1995
+Libya,0.308,1996
+Libya,-1.965,1997
+Libya,-1.928,1998
+Libya,1.377,1999
+Libya,0.028,2000
+Libya,3.078,2001
+Libya,1.597,2002
+Libya,-1.672,2003
+Libya,1.75,2004
+Libya,1.789,2005
+Libya,1.097,2006
+Libya,0.56,2007
+Libya,1.541,2008
+Libya,0.463,2009
+Libya,2.695,2010
+Libya,1.427,2011
+Libya,-1.225,2012
+Libya,3.903,2013
+Libya,0.699,2014
+Libya,0.017,2015
+Libya,0.742,2016
+Libya,0.591,2017
+Libya,3.485,2018
+Libya,-0.482,2019
+Libya,1.05,2020
+Libya,0.648,2021
+Madagascar,0.592,1961
+Madagascar,0.02,1962
+Madagascar,-0.118,1963
+Madagascar,0.098,1964
+Madagascar,-0.905,1965
+Madagascar,-0.444,1966
+Madagascar,0.547,1967
+Madagascar,-0.254,1968
+Madagascar,0.933,1969
+Madagascar,0.155,1970
+Madagascar,-0.083,1971
+Madagascar,-0.739,1972
+Madagascar,0.455,1973
+Madagascar,-0.482,1974
+Madagascar,-0.406,1975
+Madagascar,0.033,1976
+Madagascar,0.233,1977
+Madagascar,0.152,1978
+Madagascar,0.486,1979
+Madagascar,0.763,1980
+Madagascar,0.231,1981
+Madagascar,0.057,1982
+Madagascar,0.873,1983
+Madagascar,-0.147,1984
+Madagascar,0.31,1985
+Madagascar,0.122,1986
+Madagascar,1.066,1987
+Madagascar,0.579,1988
+Madagascar,0.138,1989
+Madagascar,0.126,1990
+Madagascar,0.573,1991
+Madagascar,0.973,1992
+Madagascar,0.399,1993
+Madagascar,0.228,1994
+Madagascar,0.451,1995
+Madagascar,0.788,1996
+Madagascar,0.811,1997
+Madagascar,1.536,1998
+Madagascar,0.92,1999
+Madagascar,0.499,2000
+Madagascar,1.129,2001
+Madagascar,0.547,2002
+Madagascar,0.993,2003
+Madagascar,0.449,2004
+Madagascar,0.901,2005
+Madagascar,1.339,2006
+Madagascar,0.821,2007
+Madagascar,0.239,2008
+Madagascar,1.141,2009
+Madagascar,1.081,2010
+Madagascar,0.914,2011
+Madagascar,0.587,2012
+Madagascar,0.953,2013
+Madagascar,1.138,2014
+Madagascar,0.377,2015
+Madagascar,2.093,2016
+Madagascar,1.467,2017
+Madagascar,0.822,2018
+Madagascar,1.809,2019
+Madagascar,1.395,2020
+Madagascar,1.121,2021
+Malawi,0.327,1961
+Malawi,-0.211,1962
+Malawi,-0.712,1963
+Malawi,0.621,1964
+Malawi,-0.608,1965
+Malawi,-0.35,1966
+Malawi,-0.013,1967
+Malawi,-0.667,1968
+Malawi,0.586,1969
+Malawi,-0.122,1970
+Malawi,0.131,1971
+Malawi,-0.002,1972
+Malawi,1.127,1973
+Malawi,-0.267,1974
+Malawi,-0.354,1975
+Malawi,-0.016,1976
+Malawi,0.481,1977
+Malawi,0.296,1978
+Malawi,0.232,1979
+Malawi,0.166,1980
+Malawi,0.173,1981
+Malawi,0.319,1982
+Malawi,1.371,1983
+Malawi,0.25,1984
+Malawi,0.602,1985
+Malawi,0.215,1986
+Malawi,1.289,1987
+Malawi,0.735,1988
+Malawi,-0.041,1989
+Malawi,0.697,1990
+Malawi,0.835,1991
+Malawi,1.245,1992
+Malawi,-0.715,1993
+Malawi,0.21,1994
+Malawi,0.598,1995
+Malawi,-0.099,1996
+Malawi,1.023,1997
+Malawi,1.939,1998
+Malawi,-0.033,1999
+Malawi,0.887,2000
+Malawi,0.928,2001
+Malawi,0.855,2002
+Malawi,1.09,2003
+Malawi,1.397,2004
+Malawi,1.507,2005
+Malawi,1.175,2006
+Malawi,0.944,2007
+Malawi,0.205,2008
+Malawi,0.422,2009
+Malawi,0.766,2010
+Malawi,1.132,2011
+Malawi,0.839,2012
+Malawi,0.599,2013
+Malawi,0.981,2014
+Malawi,0.936,2015
+Malawi,2.892,2016
+Malawi,-0.003,2017
+Malawi,1.288,2018
+Malawi,0.968,2019
+Malawi,1.102,2020
+Malawi,0.976,2021
+Malta,0.32,1961
+Malta,-0.062,1962
+Malta,-0.939,1963
+Malta,1.067,1964
+Malta,-0.414,1965
+Malta,-0.948,1966
+Malta,0.118,1967
+Malta,-0.6,1968
+Malta,0.246,1969
+Malta,-0.258,1970
+Malta,-1.793,1971
+Malta,0.846,1972
+Malta,-1.877,1973
+Malta,0.39,1974
+Malta,0.026,1975
+Malta,-0.897,1976
+Malta,1.313,1977
+Malta,0.039,1978
+Malta,0.779,1979
+Malta,-0.14,1980
+Malta,0.904,1981
+Malta,-1.012,1982
+Malta,-0.269,1983
+Malta,-0.769,1984
+Malta,-0.205,1985
+Malta,0.253,1986
+Malta,-2.371,1987
+Malta,0.27,1988
+Malta,1.422,1989
+Malta,1.175,1990
+Malta,1.984,1991
+Malta,0.227,1992
+Malta,-0.836,1993
+Malta,1.725,1994
+Malta,-0.217,1995
+Malta,0.139,1996
+Malta,0.354,1997
+Malta,-0.475,1998
+Malta,0.381,1999
+Malta,0.822,2000
+Malta,3.008,2001
+Malta,1.959,2002
+Malta,-0.377,2003
+Malta,0.348,2004
+Malta,0.217,2005
+Malta,0.409,2006
+Malta,1.156,2007
+Malta,1.291,2008
+Malta,0.468,2009
+Malta,0.899,2010
+Malta,0.349,2011
+Malta,0.782,2012
+Malta,1.852,2013
+Malta,0.665,2014
+Malta,0.677,2015
+Malta,1.524,2016
+Malta,1.216,2017
+Malta,1.798,2018
+Malta,1.118,2019
+Malta,0.845,2020
+Malta,0.788,2021
+Mauritania,0.344,1961
+Mauritania,-0.284,1962
+Mauritania,-0.124,1963
+Mauritania,1.69,1964
+Mauritania,0.798,1965
+Mauritania,0.075,1966
+Mauritania,-0.168,1967
+Mauritania,-1.409,1968
+Mauritania,3.004,1969
+Mauritania,0.488,1970
+Mauritania,-1.46,1971
+Mauritania,-1.042,1972
+Mauritania,0.615,1973
+Mauritania,-2.56,1974
+Mauritania,-0.16,1975
+Mauritania,-1.555,1976
+Mauritania,1.685,1977
+Mauritania,0.408,1978
+Mauritania,0.586,1979
+Mauritania,1.093,1980
+Mauritania,2.338,1981
+Mauritania,0.523,1982
+Mauritania,3.203,1983
+Mauritania,0.567,1984
+Mauritania,0.092,1985
+Mauritania,-0.2,1986
+Mauritania,1.144,1987
+Mauritania,1.973,1988
+Mauritania,0.604,1989
+Mauritania,3.54,1990
+Mauritania,0.04,1991
+Mauritania,-0.415,1992
+Mauritania,1.592,1993
+Mauritania,0.751,1994
+Mauritania,0.475,1995
+Mauritania,1.393,1996
+Mauritania,0.215,1997
+Mauritania,2.476,1998
+Mauritania,0.227,1999
+Mauritania,2.398,2000
+Mauritania,2.459,2001
+Mauritania,0.589,2002
+Mauritania,2.256,2003
+Mauritania,1.464,2004
+Mauritania,1.964,2005
+Mauritania,1.988,2006
+Mauritania,0.909,2007
+Mauritania,3.233,2008
+Mauritania,1.072,2009
+Mauritania,3.299,2010
+Mauritania,1.646,2011
+Mauritania,1.607,2012
+Mauritania,2.799,2013
+Mauritania,0.041,2014
+Mauritania,0.245,2015
+Mauritania,0.458,2016
+Mauritania,2.723,2017
+Mauritania,2.194,2018
+Mauritania,0.114,2019
+Mauritania,1.614,2020
+Mauritania,1.004,2021
+Mauritius,0.565,1961
+Mauritius,0.377,1962
+Mauritius,-0.46,1963
+Mauritius,0.613,1964
+Mauritius,-0.676,1965
+Mauritius,-0.557,1966
+Mauritius,0.357,1967
+Mauritius,-0.178,1968
+Mauritius,0.815,1969
+Mauritius,0.743,1970
+Mauritius,-0.53,1971
+Mauritius,-0.432,1972
+Mauritius,0.168,1973
+Mauritius,-0.77,1974
+Mauritius,-0.129,1975
+Mauritius,-0.123,1976
+Mauritius,0.356,1977
+Mauritius,-0.465,1978
+Mauritius,-0.084,1979
+Mauritius,-0.01,1980
+Mauritius,0.921,1981
+Mauritius,-0.012,1982
+Mauritius,0.353,1983
+Mauritius,-0.019,1984
+Mauritius,0.313,1985
+Mauritius,-0.071,1986
+Mauritius,0.972,1987
+Mauritius,0.878,1988
+Mauritius,0.378,1989
+Mauritius,0.104,1990
+Mauritius,0.786,1991
+Mauritius,0.432,1992
+Mauritius,0.54,1993
+Mauritius,0.57,1994
+Mauritius,0.443,1995
+Mauritius,0.477,1996
+Mauritius,0.39,1997
+Mauritius,1.148,1998
+Mauritius,0.109,1999
+Mauritius,-0.337,2000
+Mauritius,0.658,2001
+Mauritius,0.449,2002
+Mauritius,0.431,2003
+Mauritius,0.549,2004
+Mauritius,1.19,2005
+Mauritius,-0.201,2006
+Mauritius,0.215,2007
+Mauritius,-0.297,2008
+Mauritius,0.715,2009
+Mauritius,1.233,2010
+Mauritius,0.644,2011
+Mauritius,0.52,2012
+Mauritius,1.046,2013
+Mauritius,0.634,2014
+Mauritius,0.872,2015
+Mauritius,1.74,2016
+Mauritius,0.962,2017
+Mauritius,0.54,2018
+Mauritius,1.2,2019
+Mauritius,1.359,2020
+Mauritius,1.234,2021
+Mexico,0.195,1961
+Mexico,-0.853,1962
+Mexico,0.63,1963
+Mexico,-0.361,1964
+Mexico,-0.871,1965
+Mexico,-0.497,1966
+Mexico,0.784,1967
+Mexico,-1.566,1968
+Mexico,-1.322,1969
+Mexico,-0.738,1970
+Mexico,0.529,1971
+Mexico,1.271,1972
+Mexico,0.169,1973
+Mexico,0.85,1974
+Mexico,0.407,1975
+Mexico,0.457,1976
+Mexico,-0.348,1977
+Mexico,0.124,1978
+Mexico,-0.018,1979
+Mexico,0.62,1980
+Mexico,-0.366,1981
+Mexico,1.119,1982
+Mexico,-0.666,1983
+Mexico,0.438,1984
+Mexico,0.647,1985
+Mexico,0.11,1986
+Mexico,-0.876,1987
+Mexico,0.029,1988
+Mexico,0.299,1989
+Mexico,0.377,1990
+Mexico,0.782,1991
+Mexico,0.275,1992
+Mexico,0.209,1993
+Mexico,0.722,1994
+Mexico,0.689,1995
+Mexico,-0.186,1996
+Mexico,1.237,1997
+Mexico,0.009,1998
+Mexico,0.863,1999
+Mexico,1.252,2000
+Mexico,-0.155,2001
+Mexico,0.674,2002
+Mexico,0.727,2003
+Mexico,1.679,2004
+Mexico,0.414,2005
+Mexico,1.128,2006
+Mexico,1.174,2007
+Mexico,0.429,2008
+Mexico,1.064,2009
+Mexico,-0.323,2010
+Mexico,1.822,2011
+Mexico,1.215,2012
+Mexico,0.895,2013
+Mexico,1.181,2014
+Mexico,0.556,2015
+Mexico,1.754,2016
+Mexico,2.337,2017
+Mexico,2.103,2018
+Mexico,1.239,2019
+Mexico,2.477,2020
+Mexico,1.448,2021
+Mongolia,1.047,1961
+Mongolia,0.53,1962
+Mongolia,4.766,1963
+Mongolia,-0.012,1964
+Mongolia,1.055,1965
+Mongolia,0.654,1966
+Mongolia,1.335,1967
+Mongolia,1.481,1968
+Mongolia,-0.314,1969
+Mongolia,-5.039,1970
+Mongolia,-2.217,1971
+Mongolia,2.103,1972
+Mongolia,1.56,1973
+Mongolia,-1.679,1974
+Mongolia,2.416,1975
+Mongolia,-1.263,1976
+Mongolia,1.343,1977
+Mongolia,1.161,1978
+Mongolia,0.536,1979
+Mongolia,-2.155,1980
+Mongolia,2.828,1981
+Mongolia,1.088,1982
+Mongolia,1.433,1983
+Mongolia,-1.267,1984
+Mongolia,-3.125,1985
+Mongolia,1.486,1986
+Mongolia,-2.031,1987
+Mongolia,-2.156,1988
+Mongolia,2.409,1989
+Mongolia,4.54,1990
+Mongolia,-0.137,1991
+Mongolia,0.89,1992
+Mongolia,3.555,1993
+Mongolia,0.615,1994
+Mongolia,1.9,1995
+Mongolia,-0.256,1996
+Mongolia,5.261,1997
+Mongolia,2.77,1998
+Mongolia,-2.585,1999
+Mongolia,2.843,2000
+Mongolia,1.937,2001
+Mongolia,3.445,2002
+Mongolia,0.275,2003
+Mongolia,1.147,2004
+Mongolia,1.241,2005
+Mongolia,2.467,2006
+Mongolia,1.438,2007
+Mongolia,5.75,2008
+Mongolia,1.958,2009
+Mongolia,-2.177,2010
+Mongolia,-0.489,2011
+Mongolia,0.247,2012
+Mongolia,4.378,2013
+Mongolia,3.532,2014
+Mongolia,2.851,2015
+Mongolia,4.154,2016
+Mongolia,2.347,2017
+Mongolia,6.827,2018
+Mongolia,4.473,2019
+Mongolia,3.814,2020
+Mongolia,5.854,2021
+Morocco,1.841,1961
+Morocco,-0.45,1962
+Morocco,0.265,1963
+Morocco,0.706,1964
+Morocco,1.218,1965
+Morocco,-0.063,1966
+Morocco,1.232,1967
+Morocco,-1.299,1968
+Morocco,1.197,1969
+Morocco,-0.81,1970
+Morocco,-1.722,1971
+Morocco,-1.987,1972
+Morocco,-0.413,1973
+Morocco,-1.823,1974
+Morocco,-0.717,1975
+Morocco,-1.2,1976
+Morocco,1.838,1977
+Morocco,0.244,1978
+Morocco,-0.504,1979
+Morocco,0.167,1980
+Morocco,2.453,1981
+Morocco,0.936,1982
+Morocco,2.972,1983
+Morocco,-0.817,1984
+Morocco,-0.427,1985
+Morocco,-0.663,1986
+Morocco,1.554,1987
+Morocco,0.599,1988
+Morocco,1.032,1989
+Morocco,2.397,1990
+Morocco,-0.51,1991
+Morocco,-0.232,1992
+Morocco,0.498,1993
+Morocco,0.841,1994
+Morocco,0.676,1995
+Morocco,0.357,1996
+Morocco,1.871,1997
+Morocco,2.353,1998
+Morocco,0.049,1999
+Morocco,2.183,2000
+Morocco,3.315,2001
+Morocco,1.018,2002
+Morocco,2.192,2003
+Morocco,0.604,2004
+Morocco,1.966,2005
+Morocco,1.658,2006
+Morocco,0.532,2007
+Morocco,1.79,2008
+Morocco,1.457,2009
+Morocco,2.391,2010
+Morocco,0.178,2011
+Morocco,1.397,2012
+Morocco,1.678,2013
+Morocco,0.791,2014
+Morocco,0.228,2015
+Morocco,-0.156,2016
+Morocco,1.444,2017
+Morocco,1.207,2018
+Morocco,1.4,2019
+Morocco,1.49,2020
+Morocco,0.671,2021
+Mozambique,0.663,1961
+Mozambique,-0.04,1962
+Mozambique,-0.803,1963
+Mozambique,0.824,1964
+Mozambique,-0.464,1965
+Mozambique,-0.305,1966
+Mozambique,0.015,1967
+Mozambique,-0.578,1968
+Mozambique,0.442,1969
+Mozambique,-0.061,1970
+Mozambique,0.398,1971
+Mozambique,-0.176,1972
+Mozambique,1.174,1973
+Mozambique,-0.266,1974
+Mozambique,-0.521,1975
+Mozambique,0.102,1976
+Mozambique,-0.03,1977
+Mozambique,0.517,1978
+Mozambique,0.278,1979
+Mozambique,0.041,1980
+Mozambique,0.125,1981
+Mozambique,0.375,1982
+Mozambique,1.166,1983
+Mozambique,0.079,1984
+Mozambique,0.389,1985
+Mozambique,0.406,1986
+Mozambique,1.403,1987
+Mozambique,0.872,1988
+Mozambique,0.166,1989
+Mozambique,0.434,1990
+Mozambique,0.093,1991
+Mozambique,0.992,1992
+Mozambique,-0.52,1993
+Mozambique,0.325,1994
+Mozambique,0.441,1995
+Mozambique,-0.807,1996
+Mozambique,0.509,1997
+Mozambique,1.792,1998
+Mozambique,0.388,1999
+Mozambique,0.866,2000
+Mozambique,0.506,2001
+Mozambique,0.899,2002
+Mozambique,0.741,2003
+Mozambique,0.677,2004
+Mozambique,0.939,2005
+Mozambique,0.563,2006
+Mozambique,0.87,2007
+Mozambique,-0.169,2008
+Mozambique,0.303,2009
+Mozambique,1.208,2010
+Mozambique,1.068,2011
+Mozambique,0.782,2012
+Mozambique,0.34,2013
+Mozambique,1.084,2014
+Mozambique,0.64,2015
+Mozambique,2.422,2016
+Mozambique,0.308,2017
+Mozambique,1.178,2018
+Mozambique,1.031,2019
+Mozambique,0.798,2020
+Mozambique,0.715,2021
+Myanmar,-0.051,1961
+Myanmar,-0.477,1962
+Myanmar,-0.222,1963
+Myanmar,0.224,1964
+Myanmar,-0.972,1965
+Myanmar,0.132,1966
+Myanmar,-0.669,1967
+Myanmar,-0.003,1968
+Myanmar,0.554,1969
+Myanmar,0.203,1970
+Myanmar,0.104,1971
+Myanmar,-0.112,1972
+Myanmar,0.483,1973
+Myanmar,-0.414,1974
+Myanmar,1.014,1975
+Myanmar,-0.108,1976
+Myanmar,0.436,1977
+Myanmar,-0.128,1978
+Myanmar,0.454,1979
+Myanmar,0.666,1980
+Myanmar,0.098,1981
+Myanmar,0.222,1982
+Myanmar,-0.103,1983
+Myanmar,0.16,1984
+Myanmar,0.778,1985
+Myanmar,-0.337,1986
+Myanmar,-0.192,1987
+Myanmar,0.803,1988
+Myanmar,0.413,1989
+Myanmar,0.158,1990
+Myanmar,1.614,1991
+Myanmar,0.335,1992
+Myanmar,-0.066,1993
+Myanmar,0.169,1994
+Myanmar,0.996,1995
+Myanmar,0.895,1996
+Myanmar,0.535,1997
+Myanmar,1.153,1998
+Myanmar,1.514,1999
+Myanmar,-0.254,2000
+Myanmar,0.878,2001
+Myanmar,0.913,2002
+Myanmar,-0.038,2003
+Myanmar,1.59,2004
+Myanmar,0.825,2005
+Myanmar,1.55,2006
+Myanmar,0.829,2007
+Myanmar,0.427,2008
+Myanmar,0.993,2009
+Myanmar,1.612,2010
+Myanmar,-0.123,2011
+Myanmar,0.988,2012
+Myanmar,1.401,2013
+Myanmar,1.063,2014
+Myanmar,1.711,2015
+Myanmar,2.109,2016
+Myanmar,1.107,2017
+Myanmar,1.66,2018
+Myanmar,0.976,2019
+Myanmar,2.1,2020
+Myanmar,2.448,2021
+Nepal,0.569,1961
+Nepal,-0.428,1962
+Nepal,-0.824,1963
+Nepal,1.101,1964
+Nepal,-1.529,1965
+Nepal,0.471,1966
+Nepal,-1.414,1967
+Nepal,-0.359,1968
+Nepal,1.192,1969
+Nepal,-0.223,1970
+Nepal,-0.429,1971
+Nepal,0.677,1972
+Nepal,-0.059,1973
+Nepal,0.39,1974
+Nepal,-0.113,1975
+Nepal,0.386,1976
+Nepal,1.68,1977
+Nepal,-1.876,1978
+Nepal,-0.56,1979
+Nepal,-0.279,1980
+Nepal,-0.789,1981
+Nepal,-1.348,1982
+Nepal,-0.903,1983
+Nepal,0.948,1984
+Nepal,2.039,1985
+Nepal,0.148,1986
+Nepal,0.27,1987
+Nepal,0.432,1988
+Nepal,0.039,1989
+Nepal,-1.578,1990
+Nepal,0.355,1991
+Nepal,0.803,1992
+Nepal,-1.895,1993
+Nepal,0.786,1994
+Nepal,-0.285,1995
+Nepal,0.825,1996
+Nepal,-0.267,1997
+Nepal,-1.633,1998
+Nepal,1.452,1999
+Nepal,-0.903,2000
+Nepal,-0.135,2001
+Nepal,0.778,2002
+Nepal,0.232,2003
+Nepal,2.661,2004
+Nepal,1.532,2005
+Nepal,0.483,2006
+Nepal,0.278,2007
+Nepal,1.24,2008
+Nepal,0.849,2009
+Nepal,2.596,2010
+Nepal,0.495,2011
+Nepal,0.029,2012
+Nepal,0.552,2013
+Nepal,-0.398,2014
+Nepal,-0.104,2015
+Nepal,2.104,2016
+Nepal,1.197,2017
+Nepal,1.438,2018
+Nepal,-0.231,2019
+Nepal,-0.372,2020
+Nepal,1.675,2021
+Netherlands (Kingdom of the),2.542,1961
+Netherlands (Kingdom of the),-3.08,1962
+Netherlands (Kingdom of the),-0.341,1963
+Netherlands (Kingdom of the),-2.262,1964
+Netherlands (Kingdom of the),-0.499,1965
+Netherlands (Kingdom of the),0.106,1966
+Netherlands (Kingdom of the),1.937,1967
+Netherlands (Kingdom of the),1.114,1968
+Netherlands (Kingdom of the),-2.364,1969
+Netherlands (Kingdom of the),-2.094,1970
+Netherlands (Kingdom of the),-2.085,1971
+Netherlands (Kingdom of the),1.615,1972
+Netherlands (Kingdom of the),0.691,1973
+Netherlands (Kingdom of the),1.375,1974
+Netherlands (Kingdom of the),0.015,1975
+Netherlands (Kingdom of the),-1.703,1976
+Netherlands (Kingdom of the),2.308,1977
+Netherlands (Kingdom of the),1.399,1978
+Netherlands (Kingdom of the),-0.243,1979
+Netherlands (Kingdom of the),-0.019,1980
+Netherlands (Kingdom of the),3.219,1981
+Netherlands (Kingdom of the),0.643,1982
+Netherlands (Kingdom of the),0.864,1983
+Netherlands (Kingdom of the),-0.906,1984
+Netherlands (Kingdom of the),-0.716,1985
+Netherlands (Kingdom of the),-0.497,1986
+Netherlands (Kingdom of the),-3.037,1987
+Netherlands (Kingdom of the),-0.077,1988
+Netherlands (Kingdom of the),3.363,1989
+Netherlands (Kingdom of the),3.406,1990
+Netherlands (Kingdom of the),3.443,1991
+Netherlands (Kingdom of the),1.783,1992
+Netherlands (Kingdom of the),0.797,1993
+Netherlands (Kingdom of the),2.413,1994
+Netherlands (Kingdom of the),0.211,1995
+Netherlands (Kingdom of the),-1.725,1996
+Netherlands (Kingdom of the),2.88,1997
+Netherlands (Kingdom of the),2.239,1998
+Netherlands (Kingdom of the),2.318,1999
+Netherlands (Kingdom of the),1.88,2000
+Netherlands (Kingdom of the),0.362,2001
+Netherlands (Kingdom of the),2.205,2002
+Netherlands (Kingdom of the),2.577,2003
+Netherlands (Kingdom of the),1.015,2004
+Netherlands (Kingdom of the),1.149,2005
+Netherlands (Kingdom of the),-1.316,2006
+Netherlands (Kingdom of the),2.954,2007
+Netherlands (Kingdom of the),0.975,2008
+Netherlands (Kingdom of the),1.159,2009
+Netherlands (Kingdom of the),1.152,2010
+Netherlands (Kingdom of the),1.45,2011
+Netherlands (Kingdom of the),3.388,2012
+Netherlands (Kingdom of the),-2.8,2013
+Netherlands (Kingdom of the),3.701,2014
+Netherlands (Kingdom of the),1.506,2015
+Netherlands (Kingdom of the),0.659,2016
+Netherlands (Kingdom of the),3.981,2017
+Netherlands (Kingdom of the),-0.412,2018
+Netherlands (Kingdom of the),3.151,2019
+Netherlands (Kingdom of the),2.114,2020
+Netherlands (Kingdom of the),1.829,2021
+New Caledonia,0.007,1961
+New Caledonia,-0.301,1962
+New Caledonia,0.339,1963
+New Caledonia,0.237,1964
+New Caledonia,-1.302,1965
+New Caledonia,-0.706,1966
+New Caledonia,0.536,1967
+New Caledonia,-0.208,1968
+New Caledonia,-0.963,1969
+New Caledonia,0.968,1970
+New Caledonia,-0.235,1971
+New Caledonia,0.651,1972
+New Caledonia,0.46,1973
+New Caledonia,0.43,1974
+New Caledonia,0.454,1975
+New Caledonia,0.735,1976
+New Caledonia,0.379,1977
+New Caledonia,0.497,1978
+New Caledonia,1.019,1979
+New Caledonia,0.324,1980
+New Caledonia,1.076,1981
+New Caledonia,0.266,1982
+New Caledonia,0.426,1983
+New Caledonia,0.275,1984
+New Caledonia,0.131,1985
+New Caledonia,-0.319,1986
+New Caledonia,-0.569,1987
+New Caledonia,-0.53,1988
+New Caledonia,0.012,1989
+New Caledonia,1.2,1990
+New Caledonia,-0.341,1991
+New Caledonia,0.526,1992
+New Caledonia,0.744,1993
+New Caledonia,0.301,1994
+New Caledonia,1.587,1995
+New Caledonia,1.116,1996
+New Caledonia,1.095,1997
+New Caledonia,1.503,1998
+New Caledonia,1.785,1999
+New Caledonia,0.421,2000
+New Caledonia,1.942,2001
+New Caledonia,0.551,2002
+New Caledonia,1.114,2003
+New Caledonia,0.74,2004
+New Caledonia,0.256,2005
+New Caledonia,0.954,2006
+New Caledonia,0.843,2007
+New Caledonia,1.029,2008
+New Caledonia,1.368,2009
+New Caledonia,0.257,2010
+New Caledonia,1.042,2011
+New Caledonia,0.945,2012
+New Caledonia,0.971,2013
+New Caledonia,0.589,2014
+New Caledonia,1.341,2015
+New Caledonia,1.914,2016
+New Caledonia,2.01,2017
+New Caledonia,1.528,2018
+New Caledonia,1.951,2019
+New Caledonia,1.86,2020
+New Caledonia,1.287,2021
+New Zealand,-1.152,1961
+New Zealand,0.009,1962
+New Zealand,-0.929,1963
+New Zealand,-0.621,1964
+New Zealand,-0.62,1965
+New Zealand,0.545,1966
+New Zealand,0.186,1967
+New Zealand,1.952,1968
+New Zealand,-0.422,1969
+New Zealand,0.839,1970
+New Zealand,0.243,1971
+New Zealand,0.997,1972
+New Zealand,0.247,1973
+New Zealand,-1.111,1974
+New Zealand,1.282,1975
+New Zealand,0.018,1976
+New Zealand,0.203,1977
+New Zealand,0.571,1978
+New Zealand,0.89,1979
+New Zealand,-0.913,1980
+New Zealand,1.351,1981
+New Zealand,-0.137,1982
+New Zealand,-0.234,1983
+New Zealand,0.863,1984
+New Zealand,-0.315,1985
+New Zealand,-0.069,1986
+New Zealand,-0.85,1987
+New Zealand,-0.858,1988
+New Zealand,0.492,1989
+New Zealand,0.921,1990
+New Zealand,0.018,1991
+New Zealand,-1.89,1992
+New Zealand,-1.362,1993
+New Zealand,-1.138,1994
+New Zealand,0.132,1995
+New Zealand,-0.879,1996
+New Zealand,-0.787,1997
+New Zealand,1.285,1998
+New Zealand,1.687,1999
+New Zealand,-0.386,2000
+New Zealand,-0.118,2001
+New Zealand,0.327,2002
+New Zealand,0.631,2003
+New Zealand,-1.087,2004
+New Zealand,0.371,2005
+New Zealand,-1.121,2006
+New Zealand,1.198,2007
+New Zealand,0.806,2008
+New Zealand,-0.349,2009
+New Zealand,0.508,2010
+New Zealand,0.221,2011
+New Zealand,-1.028,2012
+New Zealand,0.929,2013
+New Zealand,-0.222,2014
+New Zealand,0.868,2015
+New Zealand,1.28,2016
+New Zealand,0.408,2017
+New Zealand,1.255,2018
+New Zealand,1.766,2019
+New Zealand,-0.388,2020
+New Zealand,0.612,2021
+Nicaragua,0.062,1961
+Nicaragua,0.12,1962
+Nicaragua,-0.023,1963
+Nicaragua,0.888,1964
+Nicaragua,0.128,1965
+Nicaragua,0.08,1966
+Nicaragua,-0.721,1967
+Nicaragua,-1.243,1968
+Nicaragua,0.581,1969
+Nicaragua,0.272,1970
+Nicaragua,-0.671,1971
+Nicaragua,-0.323,1972
+Nicaragua,0.871,1973
+Nicaragua,-0.356,1974
+Nicaragua,0.386,1975
+Nicaragua,-0.248,1976
+Nicaragua,0.383,1977
+Nicaragua,-0.004,1978
+Nicaragua,0.124,1979
+Nicaragua,0.62,1980
+Nicaragua,0.915,1981
+Nicaragua,0.357,1982
+Nicaragua,0.382,1983
+Nicaragua,0.121,1984
+Nicaragua,0.134,1985
+Nicaragua,-0.607,1986
+Nicaragua,0.607,1987
+Nicaragua,0.587,1988
+Nicaragua,-0.809,1989
+Nicaragua,0.195,1990
+Nicaragua,0.843,1991
+Nicaragua,0.791,1992
+Nicaragua,0.056,1993
+Nicaragua,0.628,1994
+Nicaragua,0.815,1995
+Nicaragua,-0.787,1996
+Nicaragua,0.382,1997
+Nicaragua,0.96,1998
+Nicaragua,0.27,1999
+Nicaragua,-0.038,2000
+Nicaragua,0.25,2001
+Nicaragua,0.398,2002
+Nicaragua,1.179,2003
+Nicaragua,0.491,2004
+Nicaragua,1.772,2005
+Nicaragua,0.414,2006
+Nicaragua,0.77,2007
+Nicaragua,0.631,2008
+Nicaragua,-0.56,2009
+Nicaragua,1.11,2010
+Nicaragua,0.268,2011
+Nicaragua,0.324,2012
+Nicaragua,0.673,2013
+Nicaragua,1.365,2014
+Nicaragua,0.951,2015
+Nicaragua,1.543,2016
+Nicaragua,0.776,2017
+Nicaragua,0.782,2018
+Nicaragua,0.874,2019
+Nicaragua,1.258,2020
+Nicaragua,0.625,2021
+Nigeria,-0.94,1961
+Nigeria,0.04,1962
+Nigeria,-0.746,1963
+Nigeria,0.419,1964
+Nigeria,-0.63,1965
+Nigeria,-0.004,1966
+Nigeria,-0.589,1967
+Nigeria,-0.219,1968
+Nigeria,1.262,1969
+Nigeria,-0.088,1970
+Nigeria,0.828,1971
+Nigeria,0.185,1972
+Nigeria,0.297,1973
+Nigeria,0.15,1974
+Nigeria,0.078,1975
+Nigeria,-0.21,1976
+Nigeria,-0.622,1977
+Nigeria,0.285,1978
+Nigeria,0.89,1979
+Nigeria,0.354,1980
+Nigeria,0.462,1981
+Nigeria,0.384,1982
+Nigeria,-1.111,1983
+Nigeria,0.795,1984
+Nigeria,1.088,1985
+Nigeria,1.14,1986
+Nigeria,0.485,1987
+Nigeria,1.213,1988
+Nigeria,-1.107,1989
+Nigeria,-1.15,1990
+Nigeria,0.763,1991
+Nigeria,1.008,1992
+Nigeria,0.232,1993
+Nigeria,1.151,1994
+Nigeria,1.175,1995
+Nigeria,1.359,1996
+Nigeria,0.301,1997
+Nigeria,-0.365,1998
+Nigeria,1.37,1999
+Nigeria,-0.316,2000
+Nigeria,0.356,2001
+Nigeria,0.877,2002
+Nigeria,0.051,2003
+Nigeria,-0.232,2004
+Nigeria,2.285,2005
+Nigeria,0.908,2006
+Nigeria,0.451,2007
+Nigeria,1.447,2008
+Nigeria,1.346,2009
+Nigeria,1.454,2010
+Nigeria,1.583,2011
+Nigeria,0.457,2012
+Nigeria,1.979,2013
+Nigeria,1.114,2014
+Nigeria,1.285,2015
+Nigeria,2.587,2016
+Nigeria,1.125,2017
+Nigeria,1.292,2018
+Nigeria,2.049,2019
+Nigeria,1.431,2020
+Nigeria,1.367,2021
+Norway,2.497,1961
+Norway,-4.821,1962
+Norway,-1.97,1963
+Norway,0.849,1964
+Norway,-1.153,1965
+Norway,-1.687,1966
+Norway,2.809,1967
+Norway,0.209,1968
+Norway,-2.147,1969
+Norway,-0.251,1970
+Norway,-2.4,1971
+Norway,1.696,1972
+Norway,3.059,1973
+Norway,2.414,1974
+Norway,1.976,1975
+Norway,-0.921,1976
+Norway,0.768,1977
+Norway,-0.867,1978
+Norway,-0.412,1979
+Norway,-1.565,1980
+Norway,-2.339,1981
+Norway,2.123,1982
+Norway,1.07,1983
+Norway,-0.896,1984
+Norway,0.261,1985
+Norway,2.013,1986
+Norway,-2.427,1987
+Norway,-1.147,1988
+Norway,3.672,1989
+Norway,3.399,1990
+Norway,2.202,1991
+Norway,2.933,1992
+Norway,1.281,1993
+Norway,0.428,1994
+Norway,2.139,1995
+Norway,0.76,1996
+Norway,1.591,1997
+Norway,0.058,1998
+Norway,1.41,1999
+Norway,1.348,2000
+Norway,-2.526,2001
+Norway,1.434,2002
+Norway,3.237,2003
+Norway,2.546,2004
+Norway,-0.115,2005
+Norway,-2.64,2006
+Norway,4.682,2007
+Norway,0.337,2008
+Norway,1.695,2009
+Norway,-0.14,2010
+Norway,1.421,2011
+Norway,4.418,2012
+Norway,-2.423,2013
+Norway,3.968,2014
+Norway,4.013,2015
+Norway,3.317,2016
+Norway,2.211,2017
+Norway,-2.161,2018
+Norway,1.358,2019
+Norway,2.496,2020
+Norway,3.009,2021
+Pakistan,0.531,1961
+Pakistan,-0.004,1962
+Pakistan,0.032,1963
+Pakistan,1.618,1964
+Pakistan,-0.514,1965
+Pakistan,-0.458,1966
+Pakistan,-0.945,1967
+Pakistan,0.0,1968
+Pakistan,2.643,1969
+Pakistan,-0.997,1970
+Pakistan,0.46,1971
+Pakistan,-0.144,1972
+Pakistan,-0.344,1973
+Pakistan,1.501,1974
+Pakistan,-1.4,1975
+Pakistan,-1.79,1976
+Pakistan,2.25,1977
+Pakistan,-1.517,1978
+Pakistan,-2.076,1979
+Pakistan,-0.955,1980
+Pakistan,-0.046,1981
+Pakistan,-2.421,1982
+Pakistan,-2.004,1983
+Pakistan,2.065,1984
+Pakistan,1.786,1985
+Pakistan,-1.294,1986
+Pakistan,0.274,1987
+Pakistan,-0.198,1988
+Pakistan,-0.705,1989
+Pakistan,-1.378,1990
+Pakistan,-0.61,1991
+Pakistan,-1.543,1992
+Pakistan,-1.271,1993
+Pakistan,1.644,1994
+Pakistan,-1.59,1995
+Pakistan,0.675,1996
+Pakistan,-0.534,1997
+Pakistan,-0.515,1998
+Pakistan,0.29,1999
+Pakistan,-0.186,2000
+Pakistan,0.921,2001
+Pakistan,1.211,2002
+Pakistan,0.441,2003
+Pakistan,3.204,2004
+Pakistan,0.578,2005
+Pakistan,1.998,2006
+Pakistan,-0.439,2007
+Pakistan,2.456,2008
+Pakistan,1.676,2009
+Pakistan,3.981,2010
+Pakistan,1.533,2011
+Pakistan,0.359,2012
+Pakistan,1.447,2013
+Pakistan,-0.615,2014
+Pakistan,-0.57,2015
+Pakistan,1.389,2016
+Pakistan,1.126,2017
+Pakistan,2.878,2018
+Pakistan,-0.779,2019
+Pakistan,-0.622,2020
+Pakistan,2.909,2021
+Papua New Guinea,0.052,1961
+Papua New Guinea,0.152,1962
+Papua New Guinea,0.25,1963
+Papua New Guinea,0.13,1964
+Papua New Guinea,-0.303,1965
+Papua New Guinea,-0.129,1966
+Papua New Guinea,-0.214,1967
+Papua New Guinea,0.133,1968
+Papua New Guinea,0.198,1969
+Papua New Guinea,0.265,1970
+Papua New Guinea,-0.054,1971
+Papua New Guinea,-0.36,1972
+Papua New Guinea,0.181,1973
+Papua New Guinea,-0.196,1974
+Papua New Guinea,-0.3,1975
+Papua New Guinea,-0.5,1976
+Papua New Guinea,0.163,1977
+Papua New Guinea,0.253,1978
+Papua New Guinea,-0.033,1979
+Papua New Guinea,0.055,1980
+Papua New Guinea,0.221,1981
+Papua New Guinea,0.142,1982
+Papua New Guinea,0.205,1983
+Papua New Guinea,0.268,1984
+Papua New Guinea,0.134,1985
+Papua New Guinea,0.53,1986
+Papua New Guinea,0.267,1987
+Papua New Guinea,0.892,1988
+Papua New Guinea,0.095,1989
+Papua New Guinea,0.959,1990
+Papua New Guinea,0.345,1991
+Papua New Guinea,0.422,1992
+Papua New Guinea,0.042,1993
+Papua New Guinea,0.66,1994
+Papua New Guinea,0.349,1995
+Papua New Guinea,0.507,1996
+Papua New Guinea,0.145,1997
+Papua New Guinea,0.735,1998
+Papua New Guinea,0.25,1999
+Papua New Guinea,0.35,2000
+Papua New Guinea,0.397,2001
+Papua New Guinea,0.403,2002
+Papua New Guinea,0.569,2003
+Papua New Guinea,1.128,2004
+Papua New Guinea,0.681,2005
+Papua New Guinea,0.407,2006
+Papua New Guinea,0.122,2007
+Papua New Guinea,0.311,2008
+Papua New Guinea,-0.275,2009
+Papua New Guinea,0.546,2010
+Papua New Guinea,0.456,2011
+Papua New Guinea,0.423,2012
+Papua New Guinea,0.564,2013
+Papua New Guinea,0.625,2014
+Papua New Guinea,0.009,2015
+Papua New Guinea,1.386,2016
+Papua New Guinea,0.757,2017
+Papua New Guinea,0.282,2018
+Papua New Guinea,0.514,2019
+Papua New Guinea,0.851,2020
+Papua New Guinea,0.782,2021
+Paraguay,-0.783,1961
+Paraguay,0.506,1962
+Paraguay,0.676,1963
+Paraguay,-0.206,1964
+Paraguay,-2.266,1965
+Paraguay,-0.51,1966
+Paraguay,-1.012,1967
+Paraguay,-0.232,1968
+Paraguay,0.392,1969
+Paraguay,0.392,1970
+Paraguay,-0.53,1971
+Paraguay,0.118,1972
+Paraguay,0.9,1973
+Paraguay,-0.537,1974
+Paraguay,0.175,1975
+Paraguay,-0.907,1976
+Paraguay,1.296,1977
+Paraguay,1.631,1978
+Paraguay,-0.421,1979
+Paraguay,1.825,1980
+Paraguay,0.362,1981
+Paraguay,-0.552,1982
+Paraguay,-0.002,1983
+Paraguay,0.83,1984
+Paraguay,0.778,1985
+Paraguay,-0.325,1986
+Paraguay,0.144,1987
+Paraguay,2.07,1988
+Paraguay,-0.077,1989
+Paraguay,1.322,1990
+Paraguay,0.832,1991
+Paraguay,-0.636,1992
+Paraguay,1.185,1993
+Paraguay,-0.473,1994
+Paraguay,0.079,1995
+Paraguay,0.132,1996
+Paraguay,0.028,1997
+Paraguay,-0.42,1998
+Paraguay,0.84,1999
+Paraguay,-0.586,2000
+Paraguay,0.62,2001
+Paraguay,2.249,2002
+Paraguay,0.471,2003
+Paraguay,1.104,2004
+Paraguay,1.072,2005
+Paraguay,1.402,2006
+Paraguay,1.449,2007
+Paraguay,0.229,2008
+Paraguay,1.638,2009
+Paraguay,1.54,2010
+Paraguay,0.022,2011
+Paraguay,0.263,2012
+Paraguay,-0.315,2013
+Paraguay,-0.614,2014
+Paraguay,1.262,2015
+Paraguay,-0.658,2016
+Paraguay,0.981,2017
+Paraguay,0.354,2018
+Paraguay,-0.018,2019
+Paraguay,2.514,2020
+Paraguay,0.552,2021
+Peru,-0.011,1961
+Peru,-0.44,1962
+Peru,-0.334,1963
+Peru,-0.146,1964
+Peru,0.031,1965
+Peru,0.342,1966
+Peru,-0.299,1967
+Peru,-0.746,1968
+Peru,0.708,1969
+Peru,0.041,1970
+Peru,-0.481,1971
+Peru,-0.362,1972
+Peru,0.537,1973
+Peru,-0.24,1974
+Peru,-0.168,1975
+Peru,-0.335,1976
+Peru,0.393,1977
+Peru,0.094,1978
+Peru,0.085,1979
+Peru,0.39,1980
+Peru,0.343,1981
+Peru,0.007,1982
+Peru,1.761,1983
+Peru,0.313,1984
+Peru,0.913,1985
+Peru,-0.295,1986
+Peru,1.216,1987
+Peru,0.655,1988
+Peru,-0.202,1989
+Peru,0.38,1990
+Peru,0.625,1991
+Peru,1.59,1992
+Peru,0.377,1993
+Peru,0.398,1994
+Peru,0.372,1995
+Peru,0.211,1996
+Peru,0.471,1997
+Peru,1.828,1998
+Peru,0.399,1999
+Peru,-0.036,2000
+Peru,0.569,2001
+Peru,1.379,2002
+Peru,0.556,2003
+Peru,1.082,2004
+Peru,0.952,2005
+Peru,1.067,2006
+Peru,0.486,2007
+Peru,0.565,2008
+Peru,0.816,2009
+Peru,1.571,2010
+Peru,0.248,2011
+Peru,0.643,2012
+Peru,0.81,2013
+Peru,0.579,2014
+Peru,1.001,2015
+Peru,1.818,2016
+Peru,0.739,2017
+Peru,0.615,2018
+Peru,1.095,2019
+Peru,1.811,2020
+Peru,1.005,2021
+Philippines,0.261,1961
+Philippines,-0.063,1962
+Philippines,-0.787,1963
+Philippines,-0.094,1964
+Philippines,-0.492,1965
+Philippines,0.317,1966
+Philippines,-0.586,1967
+Philippines,0.009,1968
+Philippines,0.23,1969
+Philippines,0.435,1970
+Philippines,-0.778,1971
+Philippines,-0.755,1972
+Philippines,0.238,1973
+Philippines,-0.437,1974
+Philippines,0.208,1975
+Philippines,0.014,1976
+Philippines,-0.026,1977
+Philippines,0.88,1978
+Philippines,0.551,1979
+Philippines,0.332,1980
+Philippines,0.392,1981
+Philippines,0.368,1982
+Philippines,0.843,1983
+Philippines,0.579,1984
+Philippines,0.91,1985
+Philippines,0.236,1986
+Philippines,0.425,1987
+Philippines,1.217,1988
+Philippines,0.051,1989
+Philippines,0.476,1990
+Philippines,0.325,1991
+Philippines,0.682,1992
+Philippines,0.063,1993
+Philippines,0.732,1994
+Philippines,0.355,1995
+Philippines,0.832,1996
+Philippines,-0.104,1997
+Philippines,1.384,1998
+Philippines,0.854,1999
+Philippines,0.777,2000
+Philippines,0.839,2001
+Philippines,0.774,2002
+Philippines,0.942,2003
+Philippines,1.139,2004
+Philippines,0.82,2005
+Philippines,0.878,2006
+Philippines,1.071,2007
+Philippines,0.596,2008
+Philippines,1.179,2009
+Philippines,1.4,2010
+Philippines,0.277,2011
+Philippines,1.121,2012
+Philippines,1.348,2013
+Philippines,0.834,2014
+Philippines,0.705,2015
+Philippines,1.543,2016
+Philippines,0.967,2017
+Philippines,1.185,2018
+Philippines,1.101,2019
+Philippines,1.664,2020
+Philippines,1.567,2021
+Poland,3.822,1961
+Poland,-3.077,1962
+Poland,-3.236,1963
+Poland,-4.559,1964
+Poland,-1.596,1965
+Poland,0.911,1966
+Poland,3.553,1967
+Poland,2.122,1968
+Poland,-3.477,1969
+Poland,-1.495,1970
+Poland,-1.969,1971
+Poland,2.222,1972
+Poland,2.493,1973
+Poland,3.7,1974
+Poland,2.953,1975
+Poland,-2.177,1976
+Poland,3.52,1977
+Poland,2.516,1978
+Poland,0.721,1979
+Poland,-1.604,1980
+Poland,2.975,1981
+Poland,2.443,1982
+Poland,2.277,1983
+Poland,-0.266,1984
+Poland,0.471,1985
+Poland,-0.181,1986
+Poland,-4.401,1987
+Poland,-0.438,1988
+Poland,4.308,1989
+Poland,5.004,1990
+Poland,2.988,1991
+Poland,2.177,1992
+Poland,-0.051,1993
+Poland,2.576,1994
+Poland,1.467,1995
+Poland,-2.88,1996
+Poland,1.669,1997
+Poland,0.526,1998
+Poland,2.945,1999
+Poland,2.004,2000
+Poland,1.192,2001
+Poland,3.215,2002
+Poland,1.045,2003
+Poland,1.83,2004
+Poland,-1.137,2005
+Poland,-1.919,2006
+Poland,4.722,2007
+Poland,2.219,2008
+Poland,1.394,2009
+Poland,1.457,2010
+Poland,1.619,2011
+Poland,3.208,2012
+Poland,-3.04,2013
+Poland,5.043,2014
+Poland,3.542,2015
+Poland,2.569,2016
+Poland,4.521,2017
+Poland,-1.079,2018
+Poland,4.285,2019
+Poland,3.237,2020
+Poland,1.911,2021
+Portugal,3.078,1961
+Portugal,-0.233,1962
+Portugal,-0.142,1963
+Portugal,-0.45,1964
+Portugal,0.539,1965
+Portugal,0.283,1966
+Portugal,1.77,1967
+Portugal,-0.47,1968
+Portugal,-0.431,1969
+Portugal,-1.58,1970
+Portugal,-1.937,1971
+Portugal,-1.037,1972
+Portugal,-0.38,1973
+Portugal,-0.777,1974
+Portugal,-1.652,1975
+Portugal,0.114,1976
+Portugal,0.751,1977
+Portugal,0.198,1978
+Portugal,-1.325,1979
+Portugal,0.045,1980
+Portugal,1.592,1981
+Portugal,0.922,1982
+Portugal,1.989,1983
+Portugal,-1.528,1984
+Portugal,-0.751,1985
+Portugal,-0.317,1986
+Portugal,1.688,1987
+Portugal,0.94,1988
+Portugal,1.77,1989
+Portugal,2.275,1990
+Portugal,0.64,1991
+Portugal,1.603,1992
+Portugal,0.783,1993
+Portugal,2.915,1994
+Portugal,1.726,1995
+Portugal,0.784,1996
+Portugal,4.701,1997
+Portugal,3.075,1998
+Portugal,1.256,1999
+Portugal,2.184,2000
+Portugal,2.144,2001
+Portugal,1.954,2002
+Portugal,2.197,2003
+Portugal,0.201,2004
+Portugal,1.258,2005
+Portugal,1.137,2006
+Portugal,0.842,2007
+Portugal,0.77,2008
+Portugal,2.957,2009
+Portugal,0.373,2010
+Portugal,0.713,2011
+Portugal,2.268,2012
+Portugal,0.23,2013
+Portugal,1.292,2014
+Portugal,1.412,2015
+Portugal,-0.189,2016
+Portugal,1.805,2017
+Portugal,-0.305,2018
+Portugal,2.158,2019
+Portugal,1.81,2020
+Portugal,1.779,2021
+Republic of Korea,1.205,1961
+Republic of Korea,-0.47,1962
+Republic of Korea,0.608,1963
+Republic of Korea,-0.023,1964
+Republic of Korea,-1.219,1965
+Republic of Korea,0.789,1966
+Republic of Korea,0.656,1967
+Republic of Korea,0.13,1968
+Republic of Korea,-1.265,1969
+Republic of Korea,-3.042,1970
+Republic of Korea,-1.463,1971
+Republic of Korea,0.594,1972
+Republic of Korea,0.198,1973
+Republic of Korea,-0.669,1974
+Republic of Korea,0.046,1975
+Republic of Korea,0.491,1976
+Republic of Korea,0.877,1977
+Republic of Korea,-0.015,1978
+Republic of Korea,1.281,1979
+Republic of Korea,0.544,1980
+Republic of Korea,1.169,1981
+Republic of Korea,1.376,1982
+Republic of Korea,1.135,1983
+Republic of Korea,-1.597,1984
+Republic of Korea,0.243,1985
+Republic of Korea,0.511,1986
+Republic of Korea,0.023,1987
+Republic of Korea,-0.462,1988
+Republic of Korea,1.302,1989
+Republic of Korea,2.362,1990
+Republic of Korea,0.719,1991
+Republic of Korea,2.173,1992
+Republic of Korea,0.691,1993
+Republic of Korea,-0.217,1994
+Republic of Korea,1.198,1995
+Republic of Korea,0.067,1996
+Republic of Korea,1.859,1997
+Republic of Korea,2.378,1998
+Republic of Korea,1.656,1999
+Republic of Korea,1.383,2000
+Republic of Korea,0.776,2001
+Republic of Korea,3.283,2002
+Republic of Korea,1.097,2003
+Republic of Korea,1.641,2004
+Republic of Korea,0.173,2005
+Republic of Korea,0.891,2006
+Republic of Korea,2.106,2007
+Republic of Korea,2.21,2008
+Republic of Korea,1.802,2009
+Republic of Korea,0.172,2010
+Republic of Korea,-0.359,2011
+Republic of Korea,0.446,2012
+Republic of Korea,1.388,2013
+Republic of Korea,2.363,2014
+Republic of Korea,1.322,2015
+Republic of Korea,2.283,2016
+Republic of Korea,1.599,2017
+Republic of Korea,2.935,2018
+Republic of Korea,2.59,2019
+Republic of Korea,2.826,2020
+Republic of Korea,4.072,2021
+Romania,2.719,1961
+Romania,-1.979,1962
+Romania,-2.382,1963
+Romania,-1.795,1964
+Romania,0.172,1965
+Romania,1.081,1966
+Romania,1.367,1967
+Romania,0.345,1968
+Romania,-2.69,1969
+Romania,0.587,1970
+Romania,-1.264,1971
+Romania,1.737,1972
+Romania,-1.125,1973
+Romania,1.71,1974
+Romania,3.472,1975
+Romania,-1.857,1976
+Romania,2.865,1977
+Romania,1.747,1978
+Romania,2.652,1979
+Romania,-0.882,1980
+Romania,2.64,1981
+Romania,-0.145,1982
+Romania,2.39,1983
+Romania,-1.069,1984
+Romania,-1.236,1985
+Romania,-0.078,1986
+Romania,-4.926,1987
+Romania,0.367,1988
+Romania,3.586,1989
+Romania,4.766,1990
+Romania,1.597,1991
+Romania,1.317,1992
+Romania,-1.227,1993
+Romania,3.046,1994
+Romania,1.324,1995
+Romania,-4.014,1996
+Romania,-0.03,1997
+Romania,-0.905,1998
+Romania,1.949,1999
+Romania,1.137,2000
+Romania,4.128,2001
+Romania,3.511,2002
+Romania,-0.95,2003
+Romania,1.786,2004
+Romania,-1.075,2005
+Romania,0.177,2006
+Romania,3.448,2007
+Romania,3.193,2008
+Romania,1.131,2009
+Romania,1.218,2010
+Romania,0.916,2011
+Romania,1.793,2012
+Romania,0.11,2013
+Romania,4.382,2014
+Romania,1.755,2015
+Romania,2.856,2016
+Romania,4.533,2017
+Romania,-0.317,2018
+Romania,4.017,2019
+Romania,3.499,2020
+Romania,0.341,2021
+Saudi Arabia,-1.033,1961
+Saudi Arabia,2.167,1962
+Saudi Arabia,0.145,1963
+Saudi Arabia,0.59,1964
+Saudi Arabia,0.251,1965
+Saudi Arabia,-0.388,1966
+Saudi Arabia,-2.235,1967
+Saudi Arabia,-0.059,1968
+Saudi Arabia,2.644,1969
+Saudi Arabia,0.042,1970
+Saudi Arabia,0.345,1971
+Saudi Arabia,-0.72,1972
+Saudi Arabia,0.112,1973
+Saudi Arabia,-0.504,1974
+Saudi Arabia,-0.403,1975
+Saudi Arabia,-1.699,1976
+Saudi Arabia,0.742,1977
+Saudi Arabia,0.116,1978
+Saudi Arabia,0.302,1979
+Saudi Arabia,0.678,1980
+Saudi Arabia,0.158,1981
+Saudi Arabia,-1.857,1982
+Saudi Arabia,-2.609,1983
+Saudi Arabia,0.465,1984
+Saudi Arabia,-0.341,1985
+Saudi Arabia,0.303,1986
+Saudi Arabia,-0.98,1987
+Saudi Arabia,0.416,1988
+Saudi Arabia,-0.561,1989
+Saudi Arabia,-0.709,1990
+Saudi Arabia,-0.041,1991
+Saudi Arabia,-2.78,1992
+Saudi Arabia,-0.43,1993
+Saudi Arabia,-0.495,1994
+Saudi Arabia,-0.31,1995
+Saudi Arabia,-0.118,1996
+Saudi Arabia,-2.17,1997
+Saudi Arabia,-0.987,1998
+Saudi Arabia,0.076,1999
+Saudi Arabia,-0.425,2000
+Saudi Arabia,1.676,2001
+Saudi Arabia,0.819,2002
+Saudi Arabia,-0.396,2003
+Saudi Arabia,1.432,2004
+Saudi Arabia,0.921,2005
+Saudi Arabia,0.847,2006
+Saudi Arabia,0.357,2007
+Saudi Arabia,3.016,2008
+Saudi Arabia,0.479,2009
+Saudi Arabia,2.444,2010
+Saudi Arabia,-0.376,2011
+Saudi Arabia,-0.667,2012
+Saudi Arabia,1.95,2013
+Saudi Arabia,1.664,2014
+Saudi Arabia,1.049,2015
+Saudi Arabia,2.599,2016
+Saudi Arabia,1.17,2017
+Saudi Arabia,3.884,2018
+Saudi Arabia,-0.423,2019
+Saudi Arabia,1.247,2020
+Saudi Arabia,2.375,2021
+Senegal,-0.259,1961
+Senegal,0.337,1962
+Senegal,0.116,1963
+Senegal,0.625,1964
+Senegal,0.261,1965
+Senegal,0.143,1966
+Senegal,-0.387,1967
+Senegal,-0.908,1968
+Senegal,1.932,1969
+Senegal,0.72,1970
+Senegal,-0.559,1971
+Senegal,-0.158,1972
+Senegal,0.766,1973
+Senegal,-1.017,1974
+Senegal,-0.478,1975
+Senegal,-0.238,1976
+Senegal,0.972,1977
+Senegal,0.329,1978
+Senegal,0.584,1979
+Senegal,1.002,1980
+Senegal,1.697,1981
+Senegal,0.173,1982
+Senegal,2.218,1983
+Senegal,0.193,1984
+Senegal,0.877,1985
+Senegal,0.404,1986
+Senegal,0.92,1987
+Senegal,2.106,1988
+Senegal,0.499,1989
+Senegal,2.389,1990
+Senegal,0.436,1991
+Senegal,0.585,1992
+Senegal,1.255,1993
+Senegal,1.112,1994
+Senegal,0.237,1995
+Senegal,0.607,1996
+Senegal,0.518,1997
+Senegal,2.238,1998
+Senegal,0.853,1999
+Senegal,2.105,2000
+Senegal,1.832,2001
+Senegal,1.057,2002
+Senegal,2.165,2003
+Senegal,1.186,2004
+Senegal,1.793,2005
+Senegal,1.656,2006
+Senegal,1.915,2007
+Senegal,2.536,2008
+Senegal,0.597,2009
+Senegal,2.71,2010
+Senegal,1.083,2011
+Senegal,1.395,2012
+Senegal,2.492,2013
+Senegal,0.149,2014
+Senegal,0.68,2015
+Senegal,1.212,2016
+Senegal,2.356,2017
+Senegal,2.25,2018
+Senegal,0.469,2019
+Senegal,1.987,2020
+Senegal,1.203,2021
+South Africa,0.335,1961
+South Africa,0.172,1962
+South Africa,-0.746,1963
+South Africa,1.414,1964
+South Africa,0.219,1965
+South Africa,0.35,1966
+South Africa,-0.442,1967
+South Africa,-0.491,1968
+South Africa,0.246,1969
+South Africa,0.799,1970
+South Africa,0.754,1971
+South Africa,-0.319,1972
+South Africa,1.269,1973
+South Africa,-0.452,1974
+South Africa,-1.117,1975
+South Africa,-0.593,1976
+South Africa,-0.929,1977
+South Africa,0.835,1978
+South Africa,-0.007,1979
+South Africa,0.666,1980
+South Africa,-0.998,1981
+South Africa,-0.024,1982
+South Africa,0.872,1983
+South Africa,0.991,1984
+South Africa,-0.406,1985
+South Africa,0.166,1986
+South Africa,0.963,1987
+South Africa,0.797,1988
+South Africa,0.052,1989
+South Africa,0.16,1990
+South Africa,0.01,1991
+South Africa,0.965,1992
+South Africa,0.857,1993
+South Africa,0.348,1994
+South Africa,0.552,1995
+South Africa,-0.441,1996
+South Africa,-0.324,1997
+South Africa,0.993,1998
+South Africa,2.127,1999
+South Africa,0.616,2000
+South Africa,0.97,2001
+South Africa,1.148,2002
+South Africa,0.74,2003
+South Africa,0.148,2004
+South Africa,0.259,2005
+South Africa,-0.712,2006
+South Africa,0.802,2007
+South Africa,0.155,2008
+South Africa,0.312,2009
+South Africa,1.629,2010
+South Africa,1.687,2011
+South Africa,1.022,2012
+South Africa,1.018,2013
+South Africa,0.15,2014
+South Africa,1.108,2015
+South Africa,1.148,2016
+South Africa,1.101,2017
+South Africa,0.576,2018
+South Africa,1.847,2019
+South Africa,0.858,2020
+South Africa,0.502,2021
+Spain,1.79,1961
+Spain,-0.448,1962
+Spain,0.295,1963
+Spain,-0.043,1964
+Spain,0.478,1965
+Spain,-0.313,1966
+Spain,1.436,1967
+Spain,-0.69,1968
+Spain,-0.136,1969
+Spain,-1.74,1970
+Spain,-2.629,1971
+Spain,-0.593,1972
+Spain,-1.081,1973
+Spain,-0.654,1974
+Spain,-1.423,1975
+Spain,-0.167,1976
+Spain,1.091,1977
+Spain,0.562,1978
+Spain,-0.462,1979
+Spain,0.19,1980
+Spain,2.183,1981
+Spain,0.347,1982
+Spain,1.324,1983
+Spain,-1.579,1984
+Spain,-0.817,1985
+Spain,-0.041,1986
+Spain,1.159,1987
+Spain,0.901,1988
+Spain,1.84,1989
+Spain,1.765,1990
+Spain,0.931,1991
+Spain,0.702,1992
+Spain,0.428,1993
+Spain,2.347,1994
+Spain,1.085,1995
+Spain,0.505,1996
+Spain,3.239,1997
+Spain,2.552,1998
+Spain,0.922,1999
+Spain,1.579,2000
+Spain,3.109,2001
+Spain,1.757,2002
+Spain,2.02,2003
+Spain,0.019,2004
+Spain,0.806,2005
+Spain,1.674,2006
+Spain,0.646,2007
+Spain,1.002,2008
+Spain,1.468,2009
+Spain,0.306,2010
+Spain,0.689,2011
+Spain,1.397,2012
+Spain,0.775,2013
+Spain,1.184,2014
+Spain,1.251,2015
+Spain,0.065,2016
+Spain,2.099,2017
+Spain,0.303,2018
+Spain,1.83,2019
+Spain,1.685,2020
+Spain,1.374,2021
+Sri Lanka,0.111,1961
+Sri Lanka,-0.253,1962
+Sri Lanka,-0.28,1963
+Sri Lanka,0.193,1964
+Sri Lanka,-0.374,1965
+Sri Lanka,0.326,1966
+Sri Lanka,-0.077,1967
+Sri Lanka,0.124,1968
+Sri Lanka,0.714,1969
+Sri Lanka,0.315,1970
+Sri Lanka,-0.227,1971
+Sri Lanka,-0.375,1972
+Sri Lanka,0.793,1973
+Sri Lanka,-0.039,1974
+Sri Lanka,-0.245,1975
+Sri Lanka,-0.391,1976
+Sri Lanka,0.109,1977
+Sri Lanka,0.187,1978
+Sri Lanka,0.209,1979
+Sri Lanka,0.428,1980
+Sri Lanka,0.724,1981
+Sri Lanka,0.337,1982
+Sri Lanka,0.962,1983
+Sri Lanka,0.015,1984
+Sri Lanka,0.438,1985
+Sri Lanka,0.053,1986
+Sri Lanka,0.881,1987
+Sri Lanka,1.545,1988
+Sri Lanka,-0.046,1989
+Sri Lanka,1.111,1990
+Sri Lanka,0.764,1991
+Sri Lanka,0.188,1992
+Sri Lanka,0.513,1993
+Sri Lanka,0.456,1994
+Sri Lanka,0.795,1995
+Sri Lanka,0.563,1996
+Sri Lanka,0.895,1997
+Sri Lanka,1.731,1998
+Sri Lanka,0.688,1999
+Sri Lanka,0.335,2000
+Sri Lanka,1.12,2001
+Sri Lanka,1.19,2002
+Sri Lanka,0.811,2003
+Sri Lanka,1.202,2004
+Sri Lanka,1.24,2005
+Sri Lanka,0.534,2006
+Sri Lanka,0.55,2007
+Sri Lanka,-0.174,2008
+Sri Lanka,0.92,2009
+Sri Lanka,1.909,2010
+Sri Lanka,0.671,2011
+Sri Lanka,1.0,2012
+Sri Lanka,1.056,2013
+Sri Lanka,1.28,2014
+Sri Lanka,0.923,2015
+Sri Lanka,1.985,2016
+Sri Lanka,0.842,2017
+Sri Lanka,1.08,2018
+Sri Lanka,1.513,2019
+Sri Lanka,0.677,2020
+Sri Lanka,0.999,2021
+Sweden,3.605,1961
+Sweden,-4.854,1962
+Sweden,-2.653,1963
+Sweden,-0.255,1964
+Sweden,-0.701,1965
+Sweden,-1.532,1966
+Sweden,3.836,1967
+Sweden,1.333,1968
+Sweden,-2.719,1969
+Sweden,-0.071,1970
+Sweden,-2.601,1971
+Sweden,1.48,1972
+Sweden,3.72,1973
+Sweden,2.022,1974
+Sweden,2.464,1975
+Sweden,-1.742,1976
+Sweden,1.513,1977
+Sweden,-0.124,1978
+Sweden,0.552,1979
+Sweden,-2.203,1980
+Sweden,-2.459,1981
+Sweden,2.727,1982
+Sweden,1.136,1983
+Sweden,-1.24,1984
+Sweden,0.157,1985
+Sweden,2.283,1986
+Sweden,-3.077,1987
+Sweden,-0.718,1988
+Sweden,4.268,1989
+Sweden,4.359,1990
+Sweden,2.548,1991
+Sweden,3.825,1992
+Sweden,2.104,1993
+Sweden,0.739,1994
+Sweden,2.717,1995
+Sweden,0.393,1996
+Sweden,2.536,1997
+Sweden,0.474,1998
+Sweden,1.701,1999
+Sweden,1.811,2000
+Sweden,-1.805,2001
+Sweden,2.208,2002
+Sweden,3.748,2003
+Sweden,2.342,2004
+Sweden,-0.781,2005
+Sweden,-3.2,2006
+Sweden,4.992,2007
+Sweden,1.259,2008
+Sweden,1.608,2009
+Sweden,0.014,2010
+Sweden,1.62,2011
+Sweden,4.929,2012
+Sweden,-2.535,2013
+Sweden,4.942,2014
+Sweden,4.505,2015
+Sweden,3.774,2016
+Sweden,2.958,2017
+Sweden,-1.992,2018
+Sweden,2.337,2019
+Sweden,3.443,2020
+Sweden,3.591,2021
+Switzerland,2.158,1961
+Switzerland,-3.15,1962
+Switzerland,-1.001,1963
+Switzerland,-1.178,1964
+Switzerland,-0.638,1965
+Switzerland,-0.745,1966
+Switzerland,1.453,1967
+Switzerland,0.405,1968
+Switzerland,-0.363,1969
+Switzerland,-2.596,1970
+Switzerland,-3.524,1971
+Switzerland,1.938,1972
+Switzerland,-0.921,1973
+Switzerland,1.917,1974
+Switzerland,-0.722,1975
+Switzerland,-0.86,1976
+Switzerland,2.747,1977
+Switzerland,0.765,1978
+Switzerland,0.755,1979
+Switzerland,0.215,1980
+Switzerland,2.698,1981
+Switzerland,-0.473,1982
+Switzerland,1.017,1983
+Switzerland,-1.781,1984
+Switzerland,-1.129,1985
+Switzerland,-0.443,1986
+Switzerland,-2.907,1987
+Switzerland,-0.856,1988
+Switzerland,3.439,1989
+Switzerland,2.913,1990
+Switzerland,3.038,1991
+Switzerland,1.309,1992
+Switzerland,0.006,1993
+Switzerland,4.29,1994
+Switzerland,-0.748,1995
+Switzerland,-1.086,1996
+Switzerland,3.162,1997
+Switzerland,1.121,1998
+Switzerland,1.516,1999
+Switzerland,1.556,2000
+Switzerland,2.796,2001
+Switzerland,2.617,2002
+Switzerland,2.681,2003
+Switzerland,0.078,2004
+Switzerland,0.625,2005
+Switzerland,-0.985,2006
+Switzerland,1.615,2007
+Switzerland,0.335,2008
+Switzerland,0.326,2009
+Switzerland,0.223,2010
+Switzerland,2.169,2011
+Switzerland,3.715,2012
+Switzerland,-0.944,2013
+Switzerland,3.115,2014
+Switzerland,1.884,2015
+Switzerland,0.531,2016
+Switzerland,4.06,2017
+Switzerland,-0.118,2018
+Switzerland,2.697,2019
+Switzerland,1.657,2020
+Switzerland,1.132,2021
+Syrian Arab Republic,-1.55,1961
+Syrian Arab Republic,2.178,1962
+Syrian Arab Republic,-1.328,1963
+Syrian Arab Republic,1.107,1964
+Syrian Arab Republic,1.011,1965
+Syrian Arab Republic,0.393,1966
+Syrian Arab Republic,-2.085,1967
+Syrian Arab Republic,-0.747,1968
+Syrian Arab Republic,1.49,1969
+Syrian Arab Republic,1.641,1970
+Syrian Arab Republic,0.678,1971
+Syrian Arab Republic,-0.435,1972
+Syrian Arab Republic,-0.029,1973
+Syrian Arab Republic,0.762,1974
+Syrian Arab Republic,0.2,1975
+Syrian Arab Republic,-1.283,1976
+Syrian Arab Republic,0.236,1977
+Syrian Arab Republic,1.033,1978
+Syrian Arab Republic,1.315,1979
+Syrian Arab Republic,-0.516,1980
+Syrian Arab Republic,1.041,1981
+Syrian Arab Republic,-1.648,1982
+Syrian Arab Republic,-0.941,1983
+Syrian Arab Republic,0.66,1984
+Syrian Arab Republic,-1.631,1985
+Syrian Arab Republic,1.053,1986
+Syrian Arab Republic,-3.015,1987
+Syrian Arab Republic,-1.146,1988
+Syrian Arab Republic,1.379,1989
+Syrian Arab Republic,0.5,1990
+Syrian Arab Republic,1.26,1991
+Syrian Arab Republic,-2.395,1992
+Syrian Arab Republic,-0.97,1993
+Syrian Arab Republic,1.404,1994
+Syrian Arab Republic,0.834,1995
+Syrian Arab Republic,-0.448,1996
+Syrian Arab Republic,-2.543,1997
+Syrian Arab Republic,-0.532,1998
+Syrian Arab Republic,0.753,1999
+Syrian Arab Republic,-0.823,2000
+Syrian Arab Republic,3.843,2001
+Syrian Arab Republic,1.787,2002
+Syrian Arab Republic,-1.581,2003
+Syrian Arab Republic,2.073,2004
+Syrian Arab Republic,1.149,2005
+Syrian Arab Republic,1.463,2006
+Syrian Arab Republic,0.589,2007
+Syrian Arab Republic,3.972,2008
+Syrian Arab Republic,0.013,2009
+Syrian Arab Republic,2.954,2010
+Syrian Arab Republic,1.013,2011
+Syrian Arab Republic,-1.798,2012
+Syrian Arab Republic,1.845,2013
+Syrian Arab Republic,2.859,2014
+Syrian Arab Republic,1.664,2015
+Syrian Arab Republic,2.447,2016
+Syrian Arab Republic,1.504,2017
+Syrian Arab Republic,4.469,2018
+Syrian Arab Republic,0.204,2019
+Syrian Arab Republic,2.189,2020
+Syrian Arab Republic,0.971,2021
+Thailand,0.108,1961
+Thailand,-0.378,1962
+Thailand,-0.764,1963
+Thailand,-0.133,1964
+Thailand,-0.56,1965
+Thailand,0.559,1966
+Thailand,-0.443,1967
+Thailand,0.055,1968
+Thailand,0.741,1969
+Thailand,0.647,1970
+Thailand,-0.592,1971
+Thailand,-0.961,1972
+Thailand,0.601,1973
+Thailand,-0.807,1974
+Thailand,0.361,1975
+Thailand,-0.434,1976
+Thailand,-0.592,1977
+Thailand,0.773,1978
+Thailand,1.325,1979
+Thailand,1.111,1980
+Thailand,0.679,1981
+Thailand,0.863,1982
+Thailand,0.767,1983
+Thailand,0.276,1984
+Thailand,0.437,1985
+Thailand,-0.278,1986
+Thailand,0.545,1987
+Thailand,1.244,1988
+Thailand,-0.178,1989
+Thailand,0.217,1990
+Thailand,1.552,1991
+Thailand,0.916,1992
+Thailand,0.282,1993
+Thailand,-0.155,1994
+Thailand,1.146,1995
+Thailand,0.775,1996
+Thailand,0.329,1997
+Thailand,1.981,1998
+Thailand,1.141,1999
+Thailand,0.233,2000
+Thailand,-0.062,2001
+Thailand,0.694,2002
+Thailand,-0.038,2003
+Thailand,1.052,2004
+Thailand,0.458,2005
+Thailand,1.044,2006
+Thailand,1.208,2007
+Thailand,0.273,2008
+Thailand,0.498,2009
+Thailand,1.256,2010
+Thailand,-1.594,2011
+Thailand,0.797,2012
+Thailand,1.225,2013
+Thailand,1.346,2014
+Thailand,1.399,2015
+Thailand,1.827,2016
+Thailand,1.157,2017
+Thailand,0.806,2018
+Thailand,1.771,2019
+Thailand,2.051,2020
+Thailand,1.709,2021
+Tunisia,-0.627,1961
+Tunisia,0.483,1962
+Tunisia,-0.785,1963
+Tunisia,1.555,1964
+Tunisia,-0.22,1965
+Tunisia,-1.21,1966
+Tunisia,-0.02,1967
+Tunisia,-0.263,1968
+Tunisia,1.054,1969
+Tunisia,-0.269,1970
+Tunisia,-1.507,1971
+Tunisia,0.647,1972
+Tunisia,-1.89,1973
+Tunisia,0.172,1974
+Tunisia,-0.636,1975
+Tunisia,-1.99,1976
+Tunisia,1.675,1977
+Tunisia,-0.08,1978
+Tunisia,1.101,1979
+Tunisia,-0.066,1980
+Tunisia,2.124,1981
+Tunisia,-0.547,1982
+Tunisia,-0.312,1983
+Tunisia,-0.536,1984
+Tunisia,-0.856,1985
+Tunisia,-0.142,1986
+Tunisia,-1.231,1987
+Tunisia,0.337,1988
+Tunisia,1.085,1989
+Tunisia,0.532,1990
+Tunisia,1.814,1991
+Tunisia,-0.223,1992
+Tunisia,-0.956,1993
+Tunisia,1.102,1994
+Tunisia,0.06,1995
+Tunisia,0.574,1996
+Tunisia,-0.531,1997
+Tunisia,-0.121,1998
+Tunisia,0.938,1999
+Tunisia,1.318,2000
+Tunisia,4.596,2001
+Tunisia,2.162,2002
+Tunisia,-0.454,2003
+Tunisia,1.051,2004
+Tunisia,1.168,2005
+Tunisia,1.692,2006
+Tunisia,0.092,2007
+Tunisia,1.236,2008
+Tunisia,0.436,2009
+Tunisia,2.517,2010
+Tunisia,0.239,2011
+Tunisia,0.041,2012
+Tunisia,3.012,2013
+Tunisia,0.086,2014
+Tunisia,0.279,2015
+Tunisia,1.212,2016
+Tunisia,1.56,2017
+Tunisia,2.786,2018
+Tunisia,0.406,2019
+Tunisia,1.135,2020
+Tunisia,0.583,2021
+Turkey,-1.131,1961
+Turkey,2.459,1962
+Turkey,-1.654,1963
+Turkey,0.565,1964
+Turkey,0.691,1965
+Turkey,1.107,1966
+Turkey,-1.635,1967
+Turkey,-0.679,1968
+Turkey,0.638,1969
+Turkey,2.049,1970
+Turkey,1.114,1971
+Turkey,-0.49,1972
+Turkey,-0.911,1973
+Turkey,1.271,1974
+Turkey,0.965,1975
+Turkey,-1.411,1976
+Turkey,0.207,1977
+Turkey,1.411,1978
+Turkey,2.142,1979
+Turkey,-0.51,1980
+Turkey,1.867,1981
+Turkey,-1.148,1982
+Turkey,-0.068,1983
+Turkey,0.957,1984
+Turkey,-1.726,1985
+Turkey,0.687,1986
+Turkey,-3.864,1987
+Turkey,-0.677,1988
+Turkey,2.369,1989
+Turkey,0.998,1990
+Turkey,1.045,1991
+Turkey,-2.002,1992
+Turkey,-0.641,1993
+Turkey,0.9,1994
+Turkey,1.126,1995
+Turkey,-1.033,1996
+Turkey,-1.929,1997
+Turkey,-0.897,1998
+Turkey,1.12,1999
+Turkey,-1.302,2000
+Turkey,4.805,2001
+Turkey,2.366,2002
+Turkey,-2.328,2003
+Turkey,1.658,2004
+Turkey,0.627,2005
+Turkey,1.643,2006
+Turkey,1.035,2007
+Turkey,3.943,2008
+Turkey,0.268,2009
+Turkey,2.677,2010
+Turkey,0.578,2011
+Turkey,-1.799,2012
+Turkey,2.127,2013
+Turkey,2.743,2014
+Turkey,1.36,2015
+Turkey,2.539,2016
+Turkey,2.054,2017
+Turkey,4.545,2018
+Turkey,1.181,2019
+Turkey,2.81,2020
+Turkey,0.206,2021
+USSR,1.745,1961
+USSR,1.429,1962
+USSR,-1.237,1963
+USSR,-0.859,1964
+USSR,0.068,1965
+USSR,1.747,1966
+USSR,0.995,1967
+USSR,1.412,1968
+USSR,-1.878,1969
+USSR,0.879,1970
+USSR,0.643,1971
+USSR,-0.889,1972
+USSR,0.657,1973
+USSR,1.148,1974
+USSR,1.833,1975
+USSR,-1.969,1976
+USSR,2.346,1977
+USSR,1.463,1978
+USSR,1.215,1979
+USSR,-1.644,1980
+USSR,1.718,1981
+USSR,0.059,1982
+USSR,0.866,1983
+USSR,0.478,1984
+USSR,-1.87,1985
+USSR,-0.49,1986
+USSR,-1.746,1987
+USSR,0.703,1988
+USSR,3.192,1989
+USSR,3.212,1990
+USSR,0.717,1991
+USSR,1.243,1992
+USSR,2.175,1993
+USSR,1.096,1994
+USSR,2.905,1995
+USSR,0.787,1996
+USSR,3.192,1997
+USSR,1.399,1998
+USSR,-2.22,1999
+USSR,2.44,2000
+USSR,1.936,2001
+USSR,5.258,2002
+USSR,1.968,2003
+USSR,1.908,2004
+USSR,1.663,2005
+USSR,1.843,2006
+USSR,2.866,2007
+USSR,5.644,2008
+USSR,2.053,2009
+USSR,0.812,2010
+USSR,3.492,2011
+USSR,0.679,2012
+USSR,0.149,2013
+USSR,4.757,2014
+USSR,3.688,2015
+USSR,4.786,2016
+USSR,6.224,2017
+USSR,0.895,2018
+USSR,5.072,2019
+USSR,5.835,2020
+USSR,1.783,2021
+Uganda,0.266,1961
+Uganda,-0.418,1962
+Uganda,-0.728,1963
+Uganda,0.159,1964
+Uganda,-0.246,1965
+Uganda,-0.54,1966
+Uganda,0.422,1967
+Uganda,-1.043,1968
+Uganda,-0.109,1969
+Uganda,-0.406,1970
+Uganda,0.619,1971
+Uganda,-0.019,1972
+Uganda,1.02,1973
+Uganda,-0.043,1974
+Uganda,0.222,1975
+Uganda,0.22,1976
+Uganda,0.345,1977
+Uganda,-0.306,1978
+Uganda,-0.049,1979
+Uganda,0.549,1980
+Uganda,0.012,1981
+Uganda,0.973,1982
+Uganda,1.636,1983
+Uganda,0.933,1984
+Uganda,0.143,1985
+Uganda,-0.476,1986
+Uganda,0.599,1987
+Uganda,0.725,1988
+Uganda,-0.543,1989
+Uganda,-0.517,1990
+Uganda,0.509,1991
+Uganda,1.088,1992
+Uganda,-0.372,1993
+Uganda,-0.185,1994
+Uganda,0.176,1995
+Uganda,-0.584,1996
+Uganda,1.349,1997
+Uganda,1.047,1998
+Uganda,-1.466,1999
+Uganda,0.387,2000
+Uganda,-0.4,2001
+Uganda,0.447,2002
+Uganda,1.064,2003
+Uganda,1.067,2004
+Uganda,1.977,2005
+Uganda,0.398,2006
+Uganda,0.061,2007
+Uganda,0.391,2008
+Uganda,1.612,2009
+Uganda,0.952,2010
+Uganda,1.738,2011
+Uganda,1.411,2012
+Uganda,1.29,2013
+Uganda,1.226,2014
+Uganda,1.722,2015
+Uganda,2.006,2016
+Uganda,1.568,2017
+Uganda,0.08,2018
+Uganda,1.539,2019
+Uganda,0.598,2020
+Uganda,1.416,2021
+United Kingdom of Great Britain and Northern Ireland,2.57,1961
+United Kingdom of Great Britain and Northern Ireland,-2.65,1962
+United Kingdom of Great Britain and Northern Ireland,0.359,1963
+United Kingdom of Great Britain and Northern Ireland,-0.876,1964
+United Kingdom of Great Britain and Northern Ireland,-0.402,1965
+United Kingdom of Great Britain and Northern Ireland,0.949,1966
+United Kingdom of Great Britain and Northern Ireland,1.056,1967
+United Kingdom of Great Britain and Northern Ireland,0.571,1968
+United Kingdom of Great Britain and Northern Ireland,-1.878,1969
+United Kingdom of Great Britain and Northern Ireland,-1.594,1970
+United Kingdom of Great Britain and Northern Ireland,-0.226,1971
+United Kingdom of Great Britain and Northern Ireland,0.701,1972
+United Kingdom of Great Britain and Northern Ireland,0.774,1973
+United Kingdom of Great Britain and Northern Ireland,0.129,1974
+United Kingdom of Great Britain and Northern Ireland,-0.759,1975
+United Kingdom of Great Britain and Northern Ireland,-0.554,1976
+United Kingdom of Great Britain and Northern Ireland,1.18,1977
+United Kingdom of Great Britain and Northern Ireland,0.73,1978
+United Kingdom of Great Britain and Northern Ireland,-1.285,1979
+United Kingdom of Great Britain and Northern Ireland,-0.879,1980
+United Kingdom of Great Britain and Northern Ireland,1.541,1981
+United Kingdom of Great Britain and Northern Ireland,0.332,1982
+United Kingdom of Great Britain and Northern Ireland,0.828,1983
+United Kingdom of Great Britain and Northern Ireland,-0.72,1984
+United Kingdom of Great Britain and Northern Ireland,-0.837,1985
+United Kingdom of Great Britain and Northern Ireland,-0.314,1986
+United Kingdom of Great Britain and Northern Ireland,-1.319,1987
+United Kingdom of Great Britain and Northern Ireland,0.422,1988
+United Kingdom of Great Britain and Northern Ireland,1.29,1989
+United Kingdom of Great Britain and Northern Ireland,2.48,1990
+United Kingdom of Great Britain and Northern Ireland,1.943,1991
+United Kingdom of Great Britain and Northern Ireland,1.388,1992
+United Kingdom of Great Britain and Northern Ireland,0.912,1993
+United Kingdom of Great Britain and Northern Ireland,1.139,1994
+United Kingdom of Great Britain and Northern Ireland,-0.421,1995
+United Kingdom of Great Britain and Northern Ireland,-0.841,1996
+United Kingdom of Great Britain and Northern Ireland,2.43,1997
+United Kingdom of Great Britain and Northern Ireland,1.951,1998
+United Kingdom of Great Britain and Northern Ireland,1.454,1999
+United Kingdom of Great Britain and Northern Ireland,1.766,2000
+United Kingdom of Great Britain and Northern Ireland,-0.407,2001
+United Kingdom of Great Britain and Northern Ireland,1.763,2002
+United Kingdom of Great Britain and Northern Ireland,2.031,2003
+United Kingdom of Great Britain and Northern Ireland,1.089,2004
+United Kingdom of Great Britain and Northern Ireland,1.64,2005
+United Kingdom of Great Britain and Northern Ireland,-0.736,2006
+United Kingdom of Great Britain and Northern Ireland,1.598,2007
+United Kingdom of Great Britain and Northern Ireland,0.431,2008
+United Kingdom of Great Britain and Northern Ireland,1.415,2009
+United Kingdom of Great Britain and Northern Ireland,0.504,2010
+United Kingdom of Great Britain and Northern Ireland,1.149,2011
+United Kingdom of Great Britain and Northern Ireland,3.042,2012
+United Kingdom of Great Britain and Northern Ireland,-2.178,2013
+United Kingdom of Great Britain and Northern Ireland,1.993,2014
+United Kingdom of Great Britain and Northern Ireland,0.811,2015
+United Kingdom of Great Britain and Northern Ireland,0.721,2016
+United Kingdom of Great Britain and Northern Ireland,2.549,2017
+United Kingdom of Great Britain and Northern Ireland,-0.739,2018
+United Kingdom of Great Britain and Northern Ireland,2.074,2019
+United Kingdom of Great Britain and Northern Ireland,0.971,2020
+United Kingdom of Great Britain and Northern Ireland,1.722,2021
+United Republic of Tanzania,0.226,1961
+United Republic of Tanzania,-0.265,1962
+United Republic of Tanzania,-0.317,1963
+United Republic of Tanzania,0.051,1964
+United Republic of Tanzania,-0.238,1965
+United Republic of Tanzania,-0.308,1966
+United Republic of Tanzania,0.448,1967
+United Republic of Tanzania,-0.852,1968
+United Republic of Tanzania,0.436,1969
+United Republic of Tanzania,0.073,1970
+United Republic of Tanzania,0.028,1971
+United Republic of Tanzania,-0.205,1972
+United Republic of Tanzania,0.821,1973
+United Republic of Tanzania,-0.124,1974
+United Republic of Tanzania,-0.097,1975
+United Republic of Tanzania,-0.047,1976
+United Republic of Tanzania,0.212,1977
+United Republic of Tanzania,0.015,1978
+United Republic of Tanzania,0.024,1979
+United Republic of Tanzania,0.246,1980
+United Republic of Tanzania,0.506,1981
+United Republic of Tanzania,0.847,1982
+United Republic of Tanzania,1.285,1983
+United Republic of Tanzania,0.206,1984
+United Republic of Tanzania,0.245,1985
+United Republic of Tanzania,0.266,1986
+United Republic of Tanzania,0.843,1987
+United Republic of Tanzania,0.622,1988
+United Republic of Tanzania,-0.086,1989
+United Republic of Tanzania,-0.228,1990
+United Republic of Tanzania,0.782,1991
+United Republic of Tanzania,0.92,1992
+United Republic of Tanzania,-0.515,1993
+United Republic of Tanzania,0.114,1994
+United Republic of Tanzania,0.283,1995
+United Republic of Tanzania,0.294,1996
+United Republic of Tanzania,1.04,1997
+United Republic of Tanzania,1.155,1998
+United Republic of Tanzania,-1.114,1999
+United Republic of Tanzania,0.318,2000
+United Republic of Tanzania,0.634,2001
+United Republic of Tanzania,0.463,2002
+United Republic of Tanzania,1.488,2003
+United Republic of Tanzania,1.094,2004
+United Republic of Tanzania,1.314,2005
+United Republic of Tanzania,0.381,2006
+United Republic of Tanzania,0.908,2007
+United Republic of Tanzania,0.317,2008
+United Republic of Tanzania,0.888,2009
+United Republic of Tanzania,1.199,2010
+United Republic of Tanzania,0.466,2011
+United Republic of Tanzania,0.772,2012
+United Republic of Tanzania,0.926,2013
+United Republic of Tanzania,0.605,2014
+United Republic of Tanzania,0.813,2015
+United Republic of Tanzania,2.16,2016
+United Republic of Tanzania,1.011,2017
+United Republic of Tanzania,0.534,2018
+United Republic of Tanzania,1.713,2019
+United Republic of Tanzania,0.946,2020
+United Republic of Tanzania,1.144,2021
+United States of America,0.668,1961
+United States of America,-1.095,1962
+United States of America,1.401,1963
+United States of America,-1.387,1964
+United States of America,-1.04,1965
+United States of America,0.217,1966
+United States of America,1.748,1967
+United States of America,1.702,1968
+United States of America,-1.681,1969
+United States of America,-0.271,1970
+United States of America,-1.252,1971
+United States of America,0.397,1972
+United States of America,1.508,1973
+United States of America,1.458,1974
+United States of America,-0.764,1975
+United States of America,0.69,1976
+United States of America,0.746,1977
+United States of America,0.599,1978
+United States of America,1.053,1979
+United States of America,0.039,1980
+United States of America,2.08,1981
+United States of America,0.872,1982
+United States of America,1.128,1983
+United States of America,0.486,1984
+United States of America,1.48,1985
+United States of America,2.161,1986
+United States of America,1.135,1987
+United States of America,1.081,1988
+United States of America,0.944,1989
+United States of America,2.295,1990
+United States of America,1.302,1991
+United States of America,1.919,1992
+United States of America,1.04,1993
+United States of America,1.501,1994
+United States of America,0.828,1995
+United States of America,-0.033,1996
+United States of America,1.525,1997
+United States of America,1.28,1998
+United States of America,0.748,1999
+United States of America,3.039,2000
+United States of America,0.499,2001
+United States of America,0.07,2002
+United States of America,1.207,2003
+United States of America,2.914,2004
+United States of America,1.454,2005
+United States of America,0.621,2006
+United States of America,2.018,2007
+United States of America,0.698,2008
+United States of America,0.68,2009
+United States of America,1.232,2010
+United States of America,1.258,2011
+United States of America,3.699,2012
+United States of America,0.187,2013
+United States of America,0.276,2014
+United States of America,2.554,2015
+United States of America,3.812,2016
+United States of America,1.861,2017
+United States of America,1.672,2018
+United States of America,1.439,2019
+United States of America,2.561,2020
+United States of America,2.038,2021
+Uruguay,-0.283,1961
+Uruguay,1.246,1962
+Uruguay,0.285,1963
+Uruguay,-0.917,1964
+Uruguay,-1.839,1965
+Uruguay,-0.75,1966
+Uruguay,-1.183,1967
+Uruguay,0.089,1968
+Uruguay,0.044,1969
+Uruguay,0.959,1970
+Uruguay,-0.505,1971
+Uruguay,-0.803,1972
+Uruguay,0.704,1973
+Uruguay,-0.063,1974
+Uruguay,-0.225,1975
+Uruguay,-1.95,1976
+Uruguay,0.235,1977
+Uruguay,0.371,1978
+Uruguay,-0.702,1979
+Uruguay,2.739,1980
+Uruguay,-0.778,1981
+Uruguay,1.219,1982
+Uruguay,-0.724,1983
+Uruguay,0.419,1984
+Uruguay,0.175,1985
+Uruguay,-0.722,1986
+Uruguay,1.394,1987
+Uruguay,2.363,1988
+Uruguay,0.623,1989
+Uruguay,-0.242,1990
+Uruguay,1.252,1991
+Uruguay,1.154,1992
+Uruguay,1.194,1993
+Uruguay,0.167,1994
+Uruguay,0.032,1995
+Uruguay,1.137,1996
+Uruguay,0.488,1997
+Uruguay,-1.0,1998
+Uruguay,1.974,1999
+Uruguay,-0.362,2000
+Uruguay,2.303,2001
+Uruguay,1.903,2002
+Uruguay,0.582,2003
+Uruguay,1.19,2004
+Uruguay,0.239,2005
+Uruguay,0.379,2006
+Uruguay,0.841,2007
+Uruguay,0.641,2008
+Uruguay,1.231,2009
+Uruguay,1.144,2010
+Uruguay,0.383,2011
+Uruguay,0.287,2012
+Uruguay,-1.764,2013
+Uruguay,-0.964,2014
+Uruguay,1.202,2015
+Uruguay,-0.533,2016
+Uruguay,0.504,2017
+Uruguay,0.376,2018
+Uruguay,-0.203,2019
+Uruguay,2.561,2020
+Uruguay,0.768,2021
+Venezuela (Bolivarian Republic of),0.167,1961
+Venezuela (Bolivarian Republic of),-0.134,1962
+Venezuela (Bolivarian Republic of),-0.229,1963
+Venezuela (Bolivarian Republic of),0.54,1964
+Venezuela (Bolivarian Republic of),-0.011,1965
+Venezuela (Bolivarian Republic of),0.273,1966
+Venezuela (Bolivarian Republic of),-0.389,1967
+Venezuela (Bolivarian Republic of),-0.331,1968
+Venezuela (Bolivarian Republic of),0.897,1969
+Venezuela (Bolivarian Republic of),0.223,1970
+Venezuela (Bolivarian Republic of),-0.504,1971
+Venezuela (Bolivarian Republic of),-0.323,1972
+Venezuela (Bolivarian Republic of),0.697,1973
+Venezuela (Bolivarian Republic of),-0.442,1974
+Venezuela (Bolivarian Republic of),0.024,1975
+Venezuela (Bolivarian Republic of),-1.073,1976
+Venezuela (Bolivarian Republic of),0.188,1977
+Venezuela (Bolivarian Republic of),0.344,1978
+Venezuela (Bolivarian Republic of),0.105,1979
+Venezuela (Bolivarian Republic of),0.39,1980
+Venezuela (Bolivarian Republic of),0.486,1981
+Venezuela (Bolivarian Republic of),-0.101,1982
+Venezuela (Bolivarian Republic of),1.178,1983
+Venezuela (Bolivarian Republic of),0.282,1984
+Venezuela (Bolivarian Republic of),-0.068,1985
+Venezuela (Bolivarian Republic of),-0.252,1986
+Venezuela (Bolivarian Republic of),0.45,1987
+Venezuela (Bolivarian Republic of),0.459,1988
+Venezuela (Bolivarian Republic of),-0.896,1989
+Venezuela (Bolivarian Republic of),-0.386,1990
+Venezuela (Bolivarian Republic of),0.43,1991
+Venezuela (Bolivarian Republic of),0.995,1992
+Venezuela (Bolivarian Republic of),0.54,1993
+Venezuela (Bolivarian Republic of),0.528,1994
+Venezuela (Bolivarian Republic of),0.795,1995
+Venezuela (Bolivarian Republic of),0.747,1996
+Venezuela (Bolivarian Republic of),-0.004,1997
+Venezuela (Bolivarian Republic of),1.106,1998
+Venezuela (Bolivarian Republic of),0.094,1999
+Venezuela (Bolivarian Republic of),-0.359,2000
+Venezuela (Bolivarian Republic of),0.504,2001
+Venezuela (Bolivarian Republic of),0.711,2002
+Venezuela (Bolivarian Republic of),0.941,2003
+Venezuela (Bolivarian Republic of),0.839,2004
+Venezuela (Bolivarian Republic of),1.645,2005
+Venezuela (Bolivarian Republic of),0.242,2006
+Venezuela (Bolivarian Republic of),0.458,2007
+Venezuela (Bolivarian Republic of),0.025,2008
+Venezuela (Bolivarian Republic of),-0.121,2009
+Venezuela (Bolivarian Republic of),1.981,2010
+Venezuela (Bolivarian Republic of),-0.33,2011
+Venezuela (Bolivarian Republic of),-0.157,2012
+Venezuela (Bolivarian Republic of),1.248,2013
+Venezuela (Bolivarian Republic of),1.015,2014
+Venezuela (Bolivarian Republic of),0.422,2015
+Venezuela (Bolivarian Republic of),1.796,2016
+Venezuela (Bolivarian Republic of),0.152,2017
+Venezuela (Bolivarian Republic of),0.645,2018
+Venezuela (Bolivarian Republic of),1.339,2019
+Venezuela (Bolivarian Republic of),1.297,2020
+Venezuela (Bolivarian Republic of),-0.007,2021
+Viet Nam,0.302,1961
+Viet Nam,-0.713,1962
+Viet Nam,-0.995,1963
+Viet Nam,0.093,1964
+Viet Nam,-0.54,1965
+Viet Nam,1.159,1966
+Viet Nam,-0.413,1967
+Viet Nam,-0.296,1968
+Viet Nam,0.238,1969
+Viet Nam,-0.295,1970
+Viet Nam,-0.629,1971
+Viet Nam,-0.677,1972
+Viet Nam,1.265,1973
+Viet Nam,-1.393,1974
+Viet Nam,0.668,1975
+Viet Nam,-0.747,1976
+Viet Nam,-0.576,1977
+Viet Nam,0.621,1978
+Viet Nam,0.839,1979
+Viet Nam,1.523,1980
+Viet Nam,1.201,1981
+Viet Nam,0.534,1982
+Viet Nam,-0.788,1983
+Viet Nam,-0.067,1984
+Viet Nam,-1.542,1985
+Viet Nam,-0.339,1986
+Viet Nam,2.051,1987
+Viet Nam,-0.688,1988
+Viet Nam,-0.758,1989
+Viet Nam,-0.004,1990
+Viet Nam,1.217,1991
+Viet Nam,0.092,1992
+Viet Nam,0.216,1993
+Viet Nam,-0.928,1994
+Viet Nam,-0.19,1995
+Viet Nam,0.319,1996
+Viet Nam,0.307,1997
+Viet Nam,1.342,1998
+Viet Nam,1.428,1999
+Viet Nam,0.005,2000
+Viet Nam,0.716,2001
+Viet Nam,1.098,2002
+Viet Nam,0.926,2003
+Viet Nam,0.326,2004
+Viet Nam,-0.619,2005
+Viet Nam,0.529,2006
+Viet Nam,1.092,2007
+Viet Nam,-0.068,2008
+Viet Nam,1.052,2009
+Viet Nam,1.121,2010
+Viet Nam,-2.286,2011
+Viet Nam,0.561,2012
+Viet Nam,1.984,2013
+Viet Nam,0.345,2014
+Viet Nam,1.44,2015
+Viet Nam,0.262,2016
+Viet Nam,0.778,2017
+Viet Nam,1.053,2018
+Viet Nam,1.902,2019
+Viet Nam,2.284,2020
+Viet Nam,1.897,2021
+Yugoslav SFR,1.894,1961
+Yugoslav SFR,-2.414,1962
+Yugoslav SFR,-1.539,1963
+Yugoslav SFR,-0.564,1964
+Yugoslav SFR,0.272,1965
+Yugoslav SFR,-0.496,1966
+Yugoslav SFR,1.274,1967
+Yugoslav SFR,0.295,1968
+Yugoslav SFR,-1.075,1969
+Yugoslav SFR,-0.575,1970
+Yugoslav SFR,-2.718,1971
+Yugoslav SFR,2.272,1972
+Yugoslav SFR,-1.363,1973
+Yugoslav SFR,1.757,1974
+Yugoslav SFR,1.946,1975
+Yugoslav SFR,-2.208,1976
+Yugoslav SFR,3.046,1977
+Yugoslav SFR,1.304,1978
+Yugoslav SFR,2.37,1979
+Yugoslav SFR,0.093,1980
+Yugoslav SFR,2.803,1981
+Yugoslav SFR,-0.447,1982
+Yugoslav SFR,1.487,1983
+Yugoslav SFR,-1.069,1984
+Yugoslav SFR,-0.131,1985
+Yugoslav SFR,-0.158,1986
+Yugoslav SFR,-4.607,1987
+Yugoslav SFR,-0.495,1988
+Yugoslav SFR,3.271,1989
+Yugoslav SFR,3.618,1990
+Yugoslav SFR,2.759,1991
+Yugoslav SFR,0.663,1992
+Yugoslav SFR,-1.018,1993
+Yugoslav SFR,3.377,1994
+Yugoslav SFR,-0.11,1995
+Yugoslav SFR,-2.87,1996
+Yugoslav SFR,0.443,1997
+Yugoslav SFR,-1.168,1998
+Yugoslav SFR,1.651,1999
+Yugoslav SFR,0.782,2000
+Yugoslav SFR,4.455,2001
+Yugoslav SFR,3.069,2002
+Yugoslav SFR,0.181,2003
+Yugoslav SFR,0.443,2004
+Yugoslav SFR,-0.847,2005
+Yugoslav SFR,-0.356,2006
+Yugoslav SFR,2.761,2007
+Yugoslav SFR,1.847,2008
+Yugoslav SFR,0.675,2009
+Yugoslav SFR,0.917,2010
+Yugoslav SFR,0.831,2011
+Yugoslav SFR,2.603,2012
+Yugoslav SFR,0.197,2013
+Yugoslav SFR,3.443,2014
+Yugoslav SFR,0.983,2015
+Yugoslav SFR,1.818,2016
+Yugoslav SFR,4.047,2017
+Yugoslav SFR,0.273,2018
+Yugoslav SFR,3.453,2019
+Yugoslav SFR,1.993,2020
+Yugoslav SFR,0.212,2021
+Zambia,0.139,1961
+Zambia,-0.164,1962
+Zambia,-0.36,1963
+Zambia,0.757,1964
+Zambia,-0.152,1965
+Zambia,-0.24,1966
+Zambia,-0.227,1967
+Zambia,-0.543,1968
+Zambia,0.135,1969
+Zambia,0.121,1970
+Zambia,0.132,1971
+Zambia,-0.336,1972
+Zambia,1.174,1973
+Zambia,-0.393,1974
+Zambia,-0.431,1975
+Zambia,-0.405,1976
+Zambia,0.028,1977
+Zambia,-0.026,1978
+Zambia,0.142,1979
+Zambia,0.136,1980
+Zambia,-0.112,1981
+Zambia,0.997,1982
+Zambia,1.671,1983
+Zambia,0.938,1984
+Zambia,0.93,1985
+Zambia,0.242,1986
+Zambia,1.552,1987
+Zambia,0.302,1988
+Zambia,0.08,1989
+Zambia,0.62,1990
+Zambia,0.931,1991
+Zambia,1.179,1992
+Zambia,-0.728,1993
+Zambia,0.671,1994
+Zambia,0.182,1995
+Zambia,1.153,1996
+Zambia,1.042,1997
+Zambia,1.823,1998
+Zambia,0.264,1999
+Zambia,-0.193,2000
+Zambia,-0.12,2001
+Zambia,0.474,2002
+Zambia,1.144,2003
+Zambia,0.341,2004
+Zambia,1.271,2005
+Zambia,0.644,2006
+Zambia,1.548,2007
+Zambia,-0.318,2008
+Zambia,-0.713,2009
+Zambia,1.027,2010
+Zambia,1.004,2011
+Zambia,1.396,2012
+Zambia,-0.016,2013
+Zambia,0.528,2014
+Zambia,2.836,2015
+Zambia,1.327,2016
+Zambia,-0.602,2017
+Zambia,0.896,2018
+Zambia,0.967,2019
+Zambia,-0.436,2020
+Zambia,0.645,2021
+Zimbabwe,0.485,1961
+Zimbabwe,-0.022,1962
+Zimbabwe,-0.802,1963
+Zimbabwe,1.667,1964
+Zimbabwe,0.089,1965
+Zimbabwe,-0.704,1966
+Zimbabwe,-0.204,1967
+Zimbabwe,0.06,1968
+Zimbabwe,0.001,1969
+Zimbabwe,0.359,1970
+Zimbabwe,0.963,1971
+Zimbabwe,-0.41,1972
+Zimbabwe,1.843,1973
+Zimbabwe,-0.489,1974
+Zimbabwe,-0.844,1975
+Zimbabwe,-0.419,1976
+Zimbabwe,-0.553,1977
+Zimbabwe,0.193,1978
+Zimbabwe,0.106,1979
+Zimbabwe,-0.125,1980
+Zimbabwe,-0.152,1981
+Zimbabwe,1.001,1982
+Zimbabwe,1.641,1983
+Zimbabwe,0.59,1984
+Zimbabwe,0.704,1985
+Zimbabwe,0.553,1986
+Zimbabwe,2.278,1987
+Zimbabwe,0.411,1988
+Zimbabwe,0.33,1989
+Zimbabwe,0.765,1990
+Zimbabwe,-0.418,1991
+Zimbabwe,1.522,1992
+Zimbabwe,-0.155,1993
+Zimbabwe,0.827,1994
+Zimbabwe,0.387,1995
+Zimbabwe,-1.011,1996
+Zimbabwe,-0.062,1997
+Zimbabwe,1.912,1998
+Zimbabwe,0.389,1999
+Zimbabwe,-0.024,2000
+Zimbabwe,-0.379,2001
+Zimbabwe,1.291,2002
+Zimbabwe,0.159,2003
+Zimbabwe,-0.815,2004
+Zimbabwe,0.726,2005
+Zimbabwe,-1.148,2006
+Zimbabwe,0.949,2007
+Zimbabwe,-0.647,2008
+Zimbabwe,-0.908,2009
+Zimbabwe,0.828,2010
+Zimbabwe,1.316,2011
+Zimbabwe,0.451,2012
+Zimbabwe,-0.361,2013
+Zimbabwe,0.138,2014
+Zimbabwe,0.821,2015
+Zimbabwe,1.684,2016
+Zimbabwe,-0.68,2017
+Zimbabwe,0.07,2018
+Zimbabwe,1.226,2019
+Zimbabwe,-0.252,2020
+Zimbabwe,-0.385,2021
