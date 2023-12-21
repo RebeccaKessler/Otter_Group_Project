@@ -11,7 +11,7 @@ In the repository you can find the following documents:
 - folder with our notbooks containing the univariate analysis for the midterm
 
 In order to run our final project, follow these steps:
-1. open the final article
-2. open the appendix
+1. open the final article in collab
+2. open the appendix in collab
 3. run both documents
 4. enjoy the read :)
