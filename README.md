@@ -16,6 +16,6 @@ In order to run our final project, follow these steps:
 1. open the final article in google colab (buttom at the top of the file)
 2. open the appendix in google colab (buttom at the top of the file)
 3. download the DAG.png from the folder data with final project
-4. upload the DAG.png 
+4. upload the DAG.png to the final article
 5. run both documents
 6. enjoy the read :)
